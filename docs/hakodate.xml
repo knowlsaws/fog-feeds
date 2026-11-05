@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 05 Nov 2026 23:43:36 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:29:01 +0900</lastBuildDate>
     <item>
       <title>シマノ FS-060Q を買いました｜ラジアルスパイクはピン8本の「堤防用」。磯・船との履き分けも整理</title>
       <link>https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/shimano-fs060q-radial-spike/</link>
@@ -47,6 +47,30 @@
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>25 HIT うみきち🎣🦑 さん 2026-11-05 16:52 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 1杯掛けた後、浮いて来ました。 2杯目はサイトでした。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317520</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317520</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>25 HIT うみきち🎣🦑 さん 2026-11-05 16:48 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 深めのポイントなので、フォール時間が長いですがBSのフォールが良いです。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317519</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317519</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>【2026年10月】ショックリーダー人気ランキングTOP10｜口コミが多い順に並べてみた</title>
@@ -1176,6 +1200,18 @@
       <fog:place>室蘭港</fog:place>
       <fog:lat>42.34796</fog:lat>
       <fog:lon>140.95977</fog:lon>
+    </item>
+    <item>
+      <title>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる - 日刊スポーツ</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENXZzdyeTNfTWhEampMTXVYeERsYXpRM1NWX09PMmVxZnhsUWhxSzQ0VzB6RUkwbVpxeUJVZTB5aHpvWG1UWlgyODF5dU1hTGpfVGtQSGpUTWg3emxIck5jN2owallnUVNEc1BPbW9DekllcllZcUE3Z1pVR0pjeHV2NmJwSkhGbVFCWlVvZWpfRENyb3luNA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxPTENXZzdyeTNfTWhEampMTXVYeERsYXpRM1NWX09PMmVxZnhsUWhxSzQ0VzB6RUkwbVpxeUJVZTB5aHpvWG1UWlgyODF5dU1hTGpfVGtQSGpUTWg3emxIck5jN2owallnUVNEc1BPbW9DekllcllZcUE3Z1pVR0pjeHV2NmJwSkhGbVFCWlVvZWpfRENyb3luNA?oc=5</guid>
+      <pubDate>Thu, 20 May 2021 07:00:00 +0000</pubDate>
+      <description>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる 日刊スポーツ ｜ 場所: 八雲 / 魚種: マゾイ・ホッケ（Google ニュース（八雲 釣り））</description>
+      <category>Google ニュース（八雲 釣り）</category>
+      <fog:place>八雲</fog:place>
+      <fog:lat>42.25400</fog:lat>
+      <fog:lon>140.26500</fog:lon>
+      <fog:species>マゾイ・ホッケ</fog:species>
     </item>
     <item>
       <title>北海道森町・鷲ノ木漁港で秋のハモを堪能 - 日刊スポーツ</title>
