@@ -1,45 +1,33 @@
 {
- "updatedAt": "2026-11-05T12:30:24.934786+09:00",
+ "updatedAt": "2026-11-05T12:33:53.020669+09:00",
  "stats": [
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
    "links": 41,
-   "new": 40
+   "new": 27
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
    "links": 20,
-   "new": 18
-  },
-  {
-   "source": "つりしん",
-   "status": "失敗",
-   "links": 0,
-   "new": 0
+   "new": 1
   },
   {
    "source": "FISHLAND 函館西桔梗店",
    "status": "OK",
    "links": 10,
-   "new": 10
+   "new": 0
   },
   {
    "source": "みんなの北海道釣り情報（函館市）",
    "status": "OK",
    "links": 17,
-   "new": 17
+   "new": 7
   },
   {
    "source": "フィッシングショップ・インパクト",
    "status": "OK",
-   "links": 0,
-   "new": 0
-  },
-  {
-   "source": "函館新聞デジタル 釣り",
-   "status": "失敗",
    "links": 0,
    "new": 0
   },
@@ -58,13 +46,7 @@
   {
    "source": "タックルベリー函館店",
    "status": "OK",
-   "links": 94,
-   "new": 94
-  },
-  {
-   "source": "函館のおっさんの釣りブログ",
-   "status": "失敗",
-   "links": 0,
+   "links": 6,
    "new": 0
   }
  ],
