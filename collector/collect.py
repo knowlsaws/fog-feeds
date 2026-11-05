@@ -494,6 +494,17 @@ def main():
             time.sleep(0.5)
         stats.append((src["name"], "OK", len(items), kept))
         log(f"[{src['name']}] {len(items)} links, {kept} new")
+    # 既存の記事も今の規則で場所・魚種・函館周辺を付け直す（辞書や取得元の設定を変えたとき用）
+    by_name = {s["name"]: s for s in sources}
+    for it in known.values():
+        src = by_name.get(it["source"], {})
+        text = it["title"] + " " + (it.get("summary") or "")
+        found = extract_places(text)
+        if not found and src.get("defaultPlace") and src["defaultPlace"] in PLACE_BY_NAME:
+            found = [PLACE_BY_NAME[src["defaultPlace"]]]
+        it["places"] = [p["name"] for p in found]
+        it["species"] = extract_species(text)
+        it["hakodate"] = bool(src.get("hakodateDefault")) or is_hakodate(text, found)
     # 古いものを捨てる。ただし取得元ごとに新しい 10 件は残す（更新の少ないサイトが空にならないように）
     cutoff = NOW - dt.timedelta(days=KEEP_DAYS)
     all_items = sorted(known.values(), key=lambda i: i.get("date") or i["firstSeen"], reverse=True)
