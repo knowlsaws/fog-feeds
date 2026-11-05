@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:fog="https://github.com/knowlsaws/fog-feeds">
   <channel>
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 05 Nov 2026 12:50:42 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:56:58 +0900</lastBuildDate>
+    <item>
+      <title>函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引（函館新聞デジタル） - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVnAtNVJRUGRlelFTOW9XZzIxQnd0OGtMR212QW1sbm1yZFQyeTVXbWI2aXRjS01KWTU2a29PcloyZDJnZVBQSFdBVTJuSmg3YkNWT0lFT183T2ZyUUZTY24xakxObVpuUWVSODBxbE9OTnF1WE9BX0pJLTFRcDA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVnAtNVJRUGRlelFTOW9XZzIxQnd0OGtMR212QW1sbm1yZFQyeTVXbWI2aXRjS01KWTU2a29PcloyZDJnZVBQSFdBVTJuSmg3YkNWT0lFT183T2ZyUUZTY24xakxObVpuUWVSODBxbE9OTnF1WE9BX0pJLTFRcDA?oc=5</guid>
+      <pubDate>Thu, 05 Nov 2026 01:07:40 +0000</pubDate>
+      <description>函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引（函館新聞デジタル） Yahoo!ニュース ｜ 場所: 函館 / 魚種: スルメイカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>スルメイカ</fog:species>
+    </item>
     <item>
       <title>34 HIT ケンタッキー さん 2026-11-04 17:47 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 中層で 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1316937</link>
@@ -12,6 +24,10 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
       <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>75 HIT kuro さん 2026-11-04 18:54 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 レンジ深めで！ 詳細ページ →</title>
@@ -20,6 +36,10 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
       <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>75 HIT kuro さん 2026-11-04 18:38 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 2投目でも🎵 型良いです🎵 同じパターンで！ 詳細ページ →</title>
@@ -28,6 +48,10 @@
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
       <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>登別～室蘭方面漁港ランガン 2026.10.30</title>
@@ -36,6 +60,10 @@
       <pubDate>Mon, 02 Nov 2026 05:48:25 +0000</pubDate>
       <description>いつもご覧いただきありがとうございます。江別店 且見です。 １０月３０日夜から、室蘭方面の漁港をクロソイ、トウベツカジカ、アブラコ狙いで ランガンしてきました。 札幌から高速で一気に室蘭方面へ。 現地到着は２３時時過ぎ。 素早く準備を終わらせスタート！ 開始早々に、チャターベイト１４ｇにカタクチワームヤバクネ５．５にいいアタリがあるも乗らず、何度かラインを変えて通すとヒット！ これもいいアタリで、引きも強く楽しい！ 釣れたのは３５ｃｍ超えと、港内で釣れるサイズとしては良型！ スイミングからのストップで、下から喰い上げてきたのか下あごの良いところにフッキングしていました。 その後はアタリが止まり… ｜ 場所: 札幌・室蘭・登別 / 魚種: クロソイ・カジカ・アブラコ（FISHLAND（道内全店））</description>
       <category>FISHLAND（道内全店）</category>
+      <fog:place>札幌</fog:place>
+      <fog:lat>43.06200</fog:lat>
+      <fog:lon>141.35400</fog:lon>
+      <fog:species>クロソイ・カジカ・アブラコ</fog:species>
     </item>
     <item>
       <title>2026/11/02 △▲△ﾓﾝｽﾀｰｼｮｯﾄ(S)入荷しました！！△▲△</title>
@@ -100,6 +128,7 @@
       <pubDate>Mon, 14 Sep 2026 11:26:00 +0900</pubDate>
       <description>Iさんから、日本海方面の漁港でアジングの釣果写真が届きました！ 時間帯で活性がガラッと変わる中、ルアーや立ち位置をこまめに変えながら丁寧に探るとヒットが続き、1時間くらいで20匹の釣果だったそうです。 よ... ｜ 魚種: アジ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>アジ</fog:species>
     </item>
     <item>
       <title>ウロコロスッテスリム入荷！</title>
@@ -108,6 +137,32 @@
       <pubDate>Fri, 04 Sep 2026 11:32:00 +0900</pubDate>
       <description>UROCOのメタルスッテ「ウロコロスッテスリム」が入荷しました！ 函館近郊のマイカ狙いにぴったりな 40号（150g）をラインナップ。 ついついコレクションしたくなる“つぶらな瞳”のデザインも魅力です(*^-^*) ... ｜ 場所: 函館 / 魚種: マイカ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>マイカ</fog:species>
+    </item>
+    <item>
+      <title>【2026/8/30】釣り好きのための即売会イベント「第4回釣道南ハンドクラフト祭」（北斗市） - 函館イベント情報局</title>
+      <link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feW83b1ExZHRQOFNvaXNUcVd4aERsYWtrVXNKWG5ZanBkTmNQSFBVSjBuSkVqV1JUX0Q1TkZiWGxoMjdaOVZhOUlDdUh0cTlNRkQ2ME05LVpHOTBqQmc?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXkFVX3lxTE9feW83b1ExZHRQOFNvaXNUcVd4aERsYWtrVXNKWG5ZanBkTmNQSFBVSjBuSkVqV1JUX0Q1TkZiWGxoMjdaOVZhOUlDdUh0cTlNRkQ2ME05LVpHOTBqQmc?oc=5</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 +0000</pubDate>
+      <description>【2026/8/30】釣り好きのための即売会イベント「第4回釣道南ハンドクラフト祭」（北斗市） 函館イベント情報局 ｜ 場所: 函館・北斗・道南（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>【北海道・函館】早起き必須！朝市名物「活いか釣り」に行って来た（トンちゃん） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzRMLWl2ZXFHNG1NMGxpZDVpXzd2LS1sd3duejdBR2NCbzRhVl9YSG9nT1BZZTZOU2M3SjdaU3B3NmJtX2xhSjZCMXFpWjlzWkZxT0I1LTJOR0FKYmoxMW8tbW5UeFdweU1WSWp0RHFxdS1MN05fMTl3T0tzalRTTTlaeGNKcjBE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzRMLWl2ZXFHNG1NMGxpZDVpXzd2LS1sd3duejdBR2NCbzRhVl9YSG9nT1BZZTZOU2M3SjdaU3B3NmJtX2xhSjZCMXFpWjlzWkZxT0I1LTJOR0FKYmoxMW8tbW5UeFdweU1WSWp0RHFxdS1MN05fMTl3T0tzalRTTTlaeGNKcjBE?oc=5</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0000</pubDate>
+      <description>【北海道・函館】早起き必須！朝市名物「活いか釣り」に行って来た（トンちゃん） - エキスパート Yahoo!ニュース ｜ 場所: 函館（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>ヤマシタ エギングキャンペーン開催中！</title>
@@ -124,6 +179,7 @@
       <pubDate>Sun, 02 Aug 2026 11:30:00 +0900</pubDate>
       <description>Wさんから、日本海側の漁港でキジハタの釣果報告が届きました！ ソイ狙いで、バークレイ・パルスワーム4インチ＋35gジグヘッドをキャスト! 着底させてから丁寧にスイミングさせてくると、ヒットしたのはなんとキジハタだったそうです！ ... ｜ 魚種: ソイ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>ソイ</fog:species>
     </item>
     <item>
       <title>フラットフィッシュダービー情報</title>
@@ -132,6 +188,7 @@
       <pubDate>Wed, 29 Jul 2026 11:33:00 +0900</pubDate>
       <description>7月28日（火）お一人からマゴチ、お二人からヒラメの登録がありました！ 今期初のマゴチの登録！ダービーはいよいよ7月31日の20:00まで！ 登録お待ちしております！ #フラットフィッシュダービー #ヒラメ #釣り #イン... ｜ 魚種: ヒラメ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>ヒラメ</fog:species>
     </item>
     <item>
       <title>フラットフィッシュダービー情報</title>
@@ -140,6 +197,7 @@
       <pubDate>Sat, 25 Jul 2026 11:36:00 +0900</pubDate>
       <description>7月24日（金）にヒラメの登録がありました！ ダービーはいよいよ1週間を切りました！ 最後まで諦めず頑張ってください！ 皆様の登録をお待ちしております！ #フラットフィッシュダービー #ヒラメ #釣り #インパクト ｜ 魚種: ヒラメ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>ヒラメ</fog:species>
     </item>
     <item>
       <title>茅部方面で54cmのアブラコがヒット</title>
@@ -148,6 +206,7 @@
       <pubDate>Wed, 22 Jul 2026 11:48:00 +0900</pubDate>
       <description>Kさんから茅部方面の漁港で54cmのアブラコ（アイナメ）ヒットの釣果写真が届きました！ 早朝4:30ころに漁港へ到着すると、港内のあちこちでベイトの群れが塊になって泳いでいる姿を発見。 エコギア・グラスミノーをキャストしてスイミング... ｜ 魚種: アブラコ・アイナメ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>アブラコ・アイナメ</fog:species>
     </item>
     <item>
       <title>フラットフィッシュダービー情報</title>
@@ -156,6 +215,7 @@
       <pubDate>Tue, 21 Jul 2026 11:55:00 +0900</pubDate>
       <description>7月20日（月）、ヒラメの登録がありました。 しかも60cmオーバーのナイスサイズ！ ダービーは残り10日！ 1枚の登録でランキングが変わる接戦で盛り上がっています！ 皆様の登録をお待ちしております！ #フラットフィッシュダービ... ｜ 魚種: ヒラメ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>ヒラメ</fog:species>
     </item>
     <item>
       <title>岡クラフト・NEW LT40＆LT50入荷！</title>
@@ -164,6 +224,127 @@
       <pubDate>Tue, 21 Jul 2026 11:50:00 +0900</pubDate>
       <description>岡クラフトのLT40とLT50が新たなフォルムで登場！ 新設計モデルは「マイワシ」をイメージしたやや太目のシルエットでアクション重視 従来モデルは「オオナゴ」をイメージした細身のシルエットで飛距離重視！ 状況に合わせて使い分けがで... ｜ 魚種: イワシ（フィッシングショップ・インパクト（ブログ））</description>
       <category>フィッシングショップ・インパクト（ブログ）</category>
+      <fog:species>イワシ</fog:species>
+    </item>
+    <item>
+      <title>アユ釣り解禁 夏の恵み 黒松内・朱太川に愛好家ら続々 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fRHdSdFRIZzQ1WnBTWHU1a1Z3RTVBWDJxeUl4eGpqWERTdFZ6Y0c1RVVUTGdmbWczbDJmZ05ES01yVDVUVGtBRUM4RDRiaGJaQmdTdEhOU1hRQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fRHdSdFRIZzQ1WnBTWHU1a1Z3RTVBWDJxeUl4eGpqWERTdFZ6Y0c1RVVUTGdmbWczbDJmZ05ES01yVDVUVGtBRUM4RDRiaGJaQmdTdEhOU1hRQQ?oc=5</guid>
+      <pubDate>Wed, 01 Jul 2026 07:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+    </item>
+    <item>
+      <title>函館・道南の海を安全に。子どもたちにも釣り体験を。 - CAMPFIRE (キャンプファイヤー)</title>
+      <link>https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtMHdtNXVPNnVnbkxQYVo4NGMwOWZXQXRiLTNwU212S1ZaSFAwRlZzYzFabTVsb1FRWnBNTll2dTJYSVlpdy1LRjR2WFNCc2RiM0ZJ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtMHdtNXVPNnVnbkxQYVo4NGMwOWZXQXRiLTNwU212S1ZaSFAwRlZzYzFabTVsb1FRWnBNTll2dTJYSVlpdy1LRjR2WFNCc2RiM0ZJ?oc=5</guid>
+      <pubDate>Wed, 20 May 2026 07:00:00 +0000</pubDate>
+      <description>函館・道南の海を安全に。子どもたちにも釣り体験を。 CAMPFIRE (キャンプファイヤー) ｜ 場所: 函館・道南（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2s2UzlVcENsNm5RTHBJSVluQ3pGd2dabmRPaVlycmxXWmZpQ1pRa3JRSUE1bzFpTTB5OHQydUk1TE5Ob05sNDkzeE5SdkFVQjFJWXVWdmVnb2FoRjFUaFlMZ1VJQjhURWxHMGE2UW9yZzBpUFdhczlfRkdJM2NjTjh2ajRwNlVS?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2s2UzlVcENsNm5RTHBJSVluQ3pGd2dabmRPaVlycmxXWmZpQ1pRa3JRSUE1bzFpTTB5OHQydUk1TE5Ob05sNDkzeE5SdkFVQjFJWXVWdmVnb2FoRjFUaFlMZ1VJQjhURWxHMGE2UW9yZzBpUFdhczlfRkdJM2NjTjh2ajRwNlVS?oc=5</guid>
+      <pubDate>Tue, 19 May 2026 09:22:30 +0000</pubDate>
+      <description>小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 北海道新聞デジタル ｜ 場所: 函館・厚岸 / 魚種: スルメイカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>スルメイカ</fog:species>
+    </item>
+    <item>
+      <title>はるばるきたぜ函館へ！いか釣り体験でまさかの事態!?王林が「エルボーショルダー」に大変身?? - ABA青森朝日放送</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a1NnbklWRmlwN0JzX2JHVWtPdHVheFV1ZnJFQ04wNFFMSlBfZFF0V2tBa205dV9KZGxYSFVhYzdnOV9DcVV1eHJnQk9YOGhrN0daUHlucjItSmtCc0hLTDdsU0pMODA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a1NnbklWRmlwN0JzX2JHVWtPdHVheFV1ZnJFQ04wNFFMSlBfZFF0V2tBa205dV9KZGxYSFVhYzdnOV9DcVV1eHJnQk9YOGhrN0daUHlucjItSmtCc0hLTDdsU0pMODA?oc=5</guid>
+      <pubDate>Sat, 02 May 2026 07:00:00 +0000</pubDate>
+      <description>はるばるきたぜ函館へ！いか釣り体験でまさかの事態!?王林が「エルボーショルダー」に大変身?? ABA青森朝日放送 ｜ 場所: 函館（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>函館地域協議会「新春ワカサギ釣り大会」が大盛況！ - UAゼンセン</title>
+      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5</guid>
+      <pubDate>Tue, 17 Feb 2026 08:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 函館（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>【速報】小型イカ釣り漁船と貨物船が衝突…漁船は船首が損傷し2人が病院に搬送＜北海道函館市・函館港＞ - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JR3VDSXlHZHBTSjhFMFRLcEk4c1RvSEduZFBiRmxlMkhjQTE1aE1LM3BSSEZGOWpMalJtaTJTbi04QnFYUjdYeFlYMWl3cjdJWFgzaDk4UQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JR3VDSXlHZHBTSjhFMFRLcEk4c1RvSEduZFBiRmxlMkhjQTE1aE1LM3BSSEZGOWpMalJtaTJTbi04QnFYUjdYeFlYMWl3cjdJWFgzaDk4UQ?oc=5</guid>
+      <pubDate>Fri, 14 Nov 2025 08:00:00 +0000</pubDate>
+      <description>【速報】小型イカ釣り漁船と貨物船が衝突…漁船は船首が損傷し2人が病院に搬送＜北海道函館市・函館港＞ UHB 北海道文化放送 ｜ 場所: 函館港・函館 / 魚種: イカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館港</fog:place>
+      <fog:lat>41.79083</fog:lat>
+      <fog:lon>140.69389</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>活イカ戻ったぜ、函館 小型船釣り漁再開、1キロ4000円近い高値 [北海道] - 朝日新聞</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWlZBeEZ5X1BRMHprTmJBUnhGbW5pUzduUE9pN19YaHFWZjlqNjI0Q0VEc0FpZDZQamJfbWVjSTNrOXpBUGU5NVMzWUEyaUFOTHQxSVZtUmlvZmV6WktKVXpMVkdHQ28?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWlZBeEZ5X1BRMHprTmJBUnhGbW5pUzduUE9pN19YaHFWZjlqNjI0Q0VEc0FpZDZQamJfbWVjSTNrOXpBUGU5NVMzWUEyaUFOTHQxSVZtUmlvZmV6WktKVXpMVkdHQ28?oc=5</guid>
+      <pubDate>Wed, 12 Nov 2025 08:00:00 +0000</pubDate>
+      <description>活イカ戻ったぜ、函館 小型船釣り漁再開、1キロ4000円近い高値 [北海道] 朝日新聞 ｜ 場所: 函館 / 魚種: イカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>“イカの街・函館”に活気戻る！小型船スルメイカ釣り漁が『特例再開』→約3.7トン水揚げ～初競り最高値は5キロ7900円「今後は活イカも」市場関係者も漁業関係者も期待〈北海道函館市〉 - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNTRXMExXN0Y3Y3FkTEpZaDJOcHl4cDhEbmNPSVpOU3VvZ3BidGtidTAyd3VFVURDT2k3eFJWSzNPb1o1XzdyZ1NYUEdEVU52RENDOExiWQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNTRXMExXN0Y3Y3FkTEpZaDJOcHl4cDhEbmNPSVpOU3VvZ3BidGtidTAyd3VFVURDT2k3eFJWSzNPb1o1XzdyZ1NYUEdEVU52RENDOExiWQ?oc=5</guid>
+      <pubDate>Tue, 11 Nov 2025 08:00:00 +0000</pubDate>
+      <description>“イカの街・函館”に活気戻る！小型船スルメイカ釣り漁が『特例再開』→約3.7トン水揚げ～初競り最高値は5キロ7900円「今後は活イカも」市場関係者も漁業関係者も期待〈北海道函館市〉 UHB 北海道文化放送 ｜ 場所: 函館 / 魚種: イカ・スルメイカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ・スルメイカ</fog:species>
+    </item>
+    <item>
+      <title>ロックフィッシュ開幕！【日本列島縦断テスト釣行旅 in 北海道 】～トモ清水のガッ釣りソルト～ - LureNews</title>
+      <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fV3lPakNvT25UUEt0QUJiTUdEcXB5UWlLUngwNzh4MGEwLXFKWXp3al9qTFJSeUtNSW4waTE2UEVJOVNmeUE2WA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fV3lPakNvT25UUEt0QUJiTUdEcXB5UWlLUngwNzh4MGEwLXFKWXp3al9qTFJSeUtNSW4waTE2UEVJOVNmeUE2WA?oc=5</guid>
+      <pubDate>Sun, 03 Nov 2024 07:00:00 +0000</pubDate>
+      <description>ロックフィッシュ開幕！【日本列島縦断テスト釣行旅 in 北海道 】～トモ清水のガッ釣りソルト～ LureNews（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+    </item>
+    <item>
+      <title>堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS</title>
+      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE44cVFscDhlVVNTcTZYTmRqMEFkWU42U3l4N1puNEFaWkFlWkY5V1RpcnozeUdZeElOUUJlTnExUC1wZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE44cVFscDhlVVNTcTZYTmRqMEFkWU42U3l4N1puNEFaWkFlWkY5V1RpcnozeUdZeElOUUJlTnExUC1wZw?oc=5</guid>
+      <pubDate>Sun, 07 Jul 2024 07:00:00 +0000</pubDate>
+      <description>堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 TSURINEWS ｜ 場所: 噴火湾 / 魚種: アイナメ（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:place>噴火湾</fog:place>
+      <fog:lat>42.25000</fog:lat>
+      <fog:lon>140.60000</fog:lon>
+      <fog:species>アイナメ</fog:species>
+    </item>
+    <item>
+      <title>196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWEFVX3lxTE94TmpLcUZoRnpjU0VISkVDeldCX1d6X2c4M3c3VERyZmhVbEluWHcxWTZFYmE0OVVuNkdqWFRXZXFNMVhqM21HUTBQZDRjOWdWaW9GRmdwYUU?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWEFVX3lxTE94TmpLcUZoRnpjU0VISkVDeldCX1d6X2c4M3c3VERyZmhVbEluWHcxWTZFYmE0OVVuNkdqWFRXZXFNMVhqM21HUTBQZDRjOWdWaW9GRmdwYUU?oc=5</guid>
+      <pubDate>Tue, 23 Jan 2024 08:00:00 +0000</pubDate>
+      <description>196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 北海道新聞デジタル ｜ 場所: 札幌（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:place>札幌</fog:place>
+      <fog:lat>43.06200</fog:lat>
+      <fog:lon>141.35400</fog:lon>
     </item>
   </channel>
 </rss>
