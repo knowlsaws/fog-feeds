@@ -39,7 +39,8 @@
     "url": "https://www.yamaria.com/community/catch/egiou/cities/1",
     "type": "html",
     "filter": "/catches/",
-    "needRegion": false
+    "needRegion": false,
+    "noEnrich": true
   },
   {
     "name": "タックルベリー函館店",

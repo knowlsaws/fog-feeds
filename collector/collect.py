@@ -431,7 +431,7 @@ def main():
             text = it["title"] + " " + it.get("summary", "")
             if src.get("needFishing") and not is_fishing(text):
                 continue
-            can_enrich = enriched < MAX_ENRICH and src_enriched < MAX_ENRICH_PER_SOURCE
+            can_enrich = enriched < MAX_ENRICH and src_enriched < MAX_ENRICH_PER_SOURCE and not src.get("noEnrich")
             if src.get("needRegion") and not is_regional(text):
                 if not can_enrich:
                     continue
