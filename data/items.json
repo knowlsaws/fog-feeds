@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-11-05T13:20:31.283555+09:00",
+ "updatedAt": "2026-11-05T23:43:36.141097+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 35,
-   "new": 23
+   "links": 37,
+   "new": 26
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 57,
+   "links": 59,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 41,
-   "new": 26
+   "links": 42,
+   "new": 27
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 20,
+   "links": 21,
    "new": 0
   },
   {
    "source": "FISHLAND（道内全店）",
    "status": "OK",
    "links": 10,
-   "new": 0
+   "new": 1
   },
   {
    "source": "みんなの北海道釣り情報",
@@ -47,19 +47,19 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 0
+   "new": 8
   },
   {
    "source": "エギCOM 函館",
    "status": "OK",
    "links": 8,
-   "new": 0
+   "new": 3
   },
   {
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 0
+   "new": 1
   },
   {
    "source": "TSURINEWS",
@@ -124,35 +124,73 @@
   {
    "source": "Google ニュース（鹿部 釣り）",
    "status": "OK",
-   "links": 9,
+   "links": 8,
    "new": 0
   },
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 9,
+   "links": 7,
    "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
    "links": 16,
-   "new": 2
+   "new": 0
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 22,
+   "links": 23,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 18,
+   "links": 22,
    "new": 0
   }
  ],
  "items": [
+  {
+   "title": "12月に今釣れるおすすめの魚！チカ・ワカサギ・ホッケなど",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/05/190000",
+   "summary": "12月の北海道は、いよいよ本格的な冬の到来です。雪や寒さが厳しくなりますが、そんな中でも今釣れる魚はしっかりいます。港での手軽な釣りから、氷上釣りのシーズンインまで、冬ならではの楽しみ方が広がる時期です。 この記事では、12月に北海道で今釣れるおすすめの魚を5つ紹介します。防寒と安全に気をつけて、冬の釣りを楽しみましょう。 12月に今釣れる魚！ チカ （写真はイメージです） チカは12月も最盛期で、港でのサビキ釣りが手軽に楽しめます。群れが入れば数釣りも期待でき、初心者や家族連れにもおすすめです。詳しい釣り方は、こちらのチカのガイドもご覧ください。 チカの釣り方ガイド｜北海道で手軽に楽しむサビキ釣り チカ釣りにおすすめのサビキ仕掛けはこちらです。 ハヤブサ(Hayabusa) ジギングサビキ 堤防ジギングサビキセット 3本鈎 HA281 10g S 6-3-4 Amazonで見る エサとし…",
+   "date": "2026-11-05T19:00:00+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [],
+   "species": [
+    "チカ",
+    "ホッケ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "記録的不漁の一方で…網走港にサンマの大群押し寄せ釣り人歓喜「めちゃくちゃ釣れる」冷たい海流を避け沿岸部に集結か - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90MnBYRks3Y3h4TlVwQms0aGNhVzhXdXlqMEVyM1ZMNWlZQ3pIeFBoYVFWdFlqRE8tMzBvQ2Uta0hVa1Fnd2NHTC1GVGFMUThWTGRfblI0Wk4zNEpSeWVMOElwT3hhaDFUMDBFTjA3T3VtVWhadFUxcDBDdm5XYk0?oc=5",
+   "summary": "記録的不漁の一方で…網走港にサンマの大群押し寄せ釣り人歓喜「めちゃくちゃ釣れる」冷たい海流を避け沿岸部に集結か Yahoo!ニュース",
+   "date": "2026-11-05T08:56:14+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "網走港"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "『Mスペース』さらにお求めやすくなった ”新価格”",
+   "link": "https://fishland.jp/2026/11/%e3%80%8em%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9%e3%80%8f%e3%81%95%e3%82%89%e3%81%ab%e3%81%8a%e6%b1%82%e3%82%81%e3%82%84%e3%81%99%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f-%e6%96%b0%e4%be%a1%e6%a0%bc/",
+   "summary": "いつもご覧いただきありがとうございます。 2階アウトドアフロアからのご案内です。 『M SPACE』 Mスペースはテント、寝袋、チェアやテーブル、焚火台、クーラーなどのキャンプギアから釣具まで展開するフィッシュランドのプライベートブランドです。 コスパが良く使いやすい製品が多いのですが、さらにお求めやすい価格で提供させていただきます。 期間は11月6日から11月16日まで。 （※7日はフィッシュランドポイント5倍） フロア中央部にて展示中。 赤い“新価格”のPOPが目印です。 お気軽にお手にとってご覧くださいね。 皆様のお越しをスタッフ一同お待ちしております。 #MSPACE #Mスペース #…",
+   "date": "2026-11-05T06:05:40+00:00",
+   "source": "FISHLAND（道内全店）",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
   {
    "title": "ソルトルアーフィッシング",
    "link": "https://fishing.blogmura.com/saltlure/",
@@ -563,6 +601,141 @@
    "firstSeen": "2026-11-05T12:56:58.716106+09:00"
   },
   {
+   "title": "函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引 (函館新聞デジタル) - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1ZzbExfQ2FIUk5EbkhkaDVaSEpmeWdBNnRGX2xjTEIyUVRiYzNVX0RCQkNINU9Sc2FKZmNpUkVWcW9sR1JicmowZmFQOTRjU1pxUEt3Sm1OMWZwV09xWHN4QWk5bmowWG1Eb29ZRHZVdU5QV05wejBIYklob3ZPN1EzU2liVXBUNngtalVB?oc=5",
+   "summary": "函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引 (函館新聞デジタル) Yahoo!ニュース",
+   "date": "2026-11-05T01:07:40+00:00",
+   "source": "Google ニュース（函館 釣り）",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "スルメイカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "2 HIT しん さん 2026-11-05 20:39 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ちょっと活性が良くなりました🙂 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317441",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "3 HIT しん さん 2026-11-05 20:36 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ☔の中行って参りました😅 中層で良いアタリでした😆 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317433",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "10 HIT レオ（札幌） さん 2026-11-05 18:41 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 なかなか群れの回遊もなく、寒い、雨も降ってきました。 なんかアオリイカのパターンから抜け出せていない。 ",
+   "link": "https://www.yamaria.com/catches/1317421",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "札幌"
+   ],
+   "species": [
+    "イカ",
+    "アオリイカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "9 HIT hrk さん 2026-11-05 20:40 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 周りは電気ウキテーラーでしたが全く釣れず 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317379",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "9 HIT hrk さん 2026-11-05 21:08 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 1mも沈めずに表層狙い 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317376",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "9 HIT hrk さん 2026-11-05 19:52 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 群れで回遊 表層をダート 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317373",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "71 HIT タクポン さん 2026-11-05 18:21 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：磯 エギチェンして広範囲を探ってキャッチ！ 渋めです。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317304",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "70 HIT タクポン さん 2026-11-05 17:53 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：磯 しばらく当たり無かったので、レンジをボトムまで下げてみたら来ました！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317297",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "2026/11/05 △▲△ﾌﾗｯｼｭJｼｬｯﾄﾞｽﾘﾑ5″入荷しました！！△▲△",
+   "link": "https://www.tackleberry.co.jp/shop/30011066/2026/11/05/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%8c%ef%be%97%ef%bd%af%ef%bd%bc%ef%bd%adj%ef%bd%bc%ef%bd%ac%ef%bd%af%ef%be%84%ef%be%9e%ef%bd%bd%ef%be%98%ef%be%915%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97/",
+   "summary": "Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "タックルベリー函館店",
+   "places": [
+    "函館"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
    "title": "【2026年10月】ショックリーダー人気ランキングTOP10｜口コミが多い順に並べてみた",
    "link": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/shock-leader-ranking/",
    "summary": "PEラインの先に結ぶショックリーダーを、楽天で口コミ件数が多い順に並べました。フロロとナイロン、号とlbの見方も書いています。 The post 【2026年10月】ショックリーダー人気ランキングTOP10｜口コミが多い順に並べてみた first appeared on 北海道釣り情報ブログ .",
@@ -817,6 +990,51 @@
    "firstSeen": "2026-11-05T12:50:42.983227+09:00"
   },
   {
+   "title": "17 HIT たがし さん 2026-11-04 20:13 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 足元の方で、釣れました！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317264",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "17 HIT たがし さん 2026-11-04 20:05 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 竿先に、引っ張られる反応でした！ 良いサイズでした。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317263",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
+   "title": "17 HIT たがし さん 2026-11-04 19:58 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 開始数投で、ラインがスーッと横に！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1317259",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
    "title": "26ステラSWの値段と違い｜5000XGを20ストラディックSWと比べたら、重さ5g・ドラグ1kgの差で値段は4倍以上",
    "link": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/stella-sw-5000xg-vs-stradic-sw/",
    "summary": "2026年に新しくなったシマノ26ステラSWを、僕がメインで使っている20ストラディックSW 5000XGと同じ番手で並べました。カタログの差は重さ5gと最大ドラグ力1kgでした。 The post 26ステラSWの値段と違い｜5000XGを20ストラディックSWと比べたら、重さ5g・ドラグ1kgの差で値段は4倍以上 first appeared on 北海道釣り情報ブログ .",
@@ -963,6 +1181,21 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-05T12:50:42.983227+09:00"
+  },
+  {
+   "title": "ミニボートなど乗り入れ禁止スタート 網走の沿岸、秋サケ釣りの事故防止で初指定 11月1日に市など啓発 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84UGtBSDZ2ZE56Y19MTUlHRnd1TjREMWNWSXF2eVVXYUZ0d084VWR5TUZXSC1va0lXdlRadXlrRDRpaE1Nc1ZjSTl4bVRzendVanVtQ1ViVVlsQQ?oc=5",
+   "summary": "ミニボートなど乗り入れ禁止スタート 網走の沿岸、秋サケ釣りの事故防止で初指定 11月1日に市など啓発 北海道新聞デジタル",
+   "date": "2026-11-02T06:47:12+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "網走"
+   ],
+   "species": [
+    "サケ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
   },
   {
    "title": "登別～室蘭方面漁港ランガン 2026.10.30",
@@ -1478,6 +1711,21 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "釧路港 釣り自粛対策強化 振興局や市、秋サケ不漁予測で 条例ではそもそも禁止 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zWlF3VGsxLWsxa3I2QW5RMmZpZm1CRXgzNGFKVE9nYXhJVHhqcUFacG0zWUFQRUgyVjUxQ3dKYXh0Qkhud2dHRU5tbmZlejRFdVdHN0NHMmNGQQ?oc=5",
+   "summary": "釧路港 釣り自粛対策強化 振興局や市、秋サケ不漁予測で 条例ではそもそも禁止 北海道新聞デジタル",
+   "date": "2026-09-11T07:00:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "釧路港"
+   ],
+   "species": [
+    "サケ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
    "title": "今週まとめ。バケは順調、ルアーは・・",
    "link": "https://www.magicalhour.net/2026/09/06/%E4%BB%8A%E9%80%B1%E3%81%BE%E3%81%A8%E3%82%81-%E3%83%90%E3%82%B1%E3%81%AF%E9%A0%86%E8%AA%BF-%E3%83%AB%E3%82%A2%E3%83%BC%E3%81%AF/",
    "summary": "９月４～６日ヒラメ。毎日順調。平和な毎日。釣れたり釣れなかったりする時間帯はありますが概ね良い釣果です(^^)/ ざっくりお写真だけ～ どの日も小型中心ながら各々型物ゲット。～６０ｃｍな感じ アタリは多く上手く乗せられるかどうかの勝負。極小のアタリを上手く聴き分けられるか。待ちすぎは良く無いようですね 後は餌の違いもあったのかな？鮮度の悪いシシャモだとアタリ激減。朝から船の上に出しっぱなしだと後半釣れなくなる模様 シシャモは鮮度落ちが激しいようです。理想は一本づつクーラーから出して餌付けするのが良いようだ。半解凍状態を維持するのがコツ 本日は中盤にプチラッシュがあり、６８ｃｍも出たんですがお写真残っておらず。申し訳ありません チビは多いですがそれなりに数は釣れます。ただ良い時間と沈黙の時間があったり シンプルに船の流れに依存しているように思えます。良い風が吹けばスイッチオン。流れなければス…",
@@ -1663,6 +1911,22 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "日本最北の有人離島で釣りをしたら「ガヤ」が入れ食いに！【北海道・礼文島】納竿間際には良型アイナメも登場 - TSURINEWS",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE95bUp1OTc5aWxqZTFQR3RDZWUyOGxvVEVUSnFrNEZWek00V0lOSTQ5d1JhTWROSXd3SkNrVXlMaG9IQQ?oc=5",
+   "summary": "日本最北の有人離島で釣りをしたら「ガヤ」が入れ食いに！【北海道・礼文島】納竿間際には良型アイナメも登場 TSURINEWS",
+   "date": "2026-08-22T07:00:00+00:00",
+   "source": "Google ニュース（北海道 釣果）",
+   "places": [
+    "礼文"
+   ],
+   "species": [
+    "ガヤ",
+    "アイナメ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-05T23:43:36.141097+09:00"
+  },
+  {
    "title": "蝦夷松山",
    "link": "http://vi159xz3.exblog.jp/30998979/",
    "summary": "お盆休みが終わりそうな15日、最後のあがきのように登山に出かけた。 函館市内から登山できる蝦夷松山という初めての山だ。 陣川の温泉のあったあたりから、林道に入り登っていく。 登山口の目印となる十字路をまっすぐ進み、花の道コースを行くことにした。 登り始めてすぐに見たこともない大きい直径30㎝の傘のキノコを発見！ ラフレシアキノコと命名。 見たこともない五枚葉の植物…。 ウコギ類かなぁとは思う...",
@@ -1797,36 +2061,6 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-05T12:50:42.983227+09:00"
-  },
-  {
-   "title": "今週まとめ。よく釣れました(^^)/",
-   "link": "https://www.magicalhour.net/2026/08/07/%E4%BB%8A%E9%80%B1%E3%81%BE%E3%81%A8%E3%82%81-%E3%82%88%E3%81%8F%E9%87%A3%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/",
-   "summary": "８月２～7日ヒラメ。８月に入っても好調！コンスタントに釣れています(^^)/ もうヒラメシーズン終わった？そんな事はありません！ 先ずは先週日曜日。怪しい予報でしたが行ってみました 釣れるや～ん(*´▽｀*) バケでも ワームでも Tさんは序盤はキャスティングでトライ。しかし反応薄くバケで一枚。その後キャスティングに戻して連発！ 開始から各種ハード系ビッグベイトでトライし続けたAさん。しかしヒットには至らず。惜しい場面もありました 終盤ジグヘッドに変えて一発！その勢いでもう一枚。共に８インチのビッグワームでした ビッグベイティングはロマン枠。アカンかな・・でもクルかも！そんな葛藤の中で突如襲われる衝撃は脳汁ドバンドバン。そんなチャレンジ精神応援してます(^^)/ 思いの他反応の良かったこの日 前週はシケ模様で思うように出られませんでした。その間に復調した？ チビも掛かりますがロクマルクラス…",
-   "date": "2026-08-07T16:48:56+09:00",
-   "source": "マジカルアワー（噴火湾の遊漁船）",
-   "places": [
-    "豊浦"
-   ],
-   "species": [
-    "ヒラメ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
-   "title": "秋サケ漁の自主規制「やむを得ない」 オホーツク漁業者 釣り自粛求める意見も - 北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wT3VCMXNyeVV3RnJoSXhTajh2MEh5ZHRzdU4wVTJDdHJURlFnUkllOS1Rb0pHbzZVUXRKNjV3ZmVfai02cU9WSmM4bkNMb1gyS3VpbG85ZkVsZw?oc=5",
-   "summary": "秋サケ漁の自主規制「やむを得ない」 オホーツク漁業者 釣り自粛求める意見も 北海道新聞デジタル",
-   "date": "2026-08-06T07:00:00+00:00",
-   "source": "Google ニュース（北海道 釣り）",
-   "places": [
-    "オホーツク"
-   ],
-   "species": [
-    "サケ"
-   ],
-   "hakodate": false,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
   },
   {
    "title": "日本海でキジハタがヒット！",
@@ -2171,23 +2405,6 @@
    "firstSeen": "2026-11-05T12:50:42.983227+09:00"
   },
   {
-   "title": "【石狩市釣果情報】花畔埠頭でカレイの反応良好｜みんなの北海道釣り情報",
-   "link": "https://fishinglife.hatenadiary.jp/entry/2026/03/31/194024",
-   "summary": "ただいまブログ強化中🔥 以下のボタンを押してエールを送ってください！（笑） にほんブログ村 今回は【2026年3月20日】ヤス釣りさんの釣果情報をお届けしていきます！ 釣果は 石狩市 での釣果となるので よければご覧ください☟ 目次 釣果報告 釣り場情報 釣果報告 🐟 魚 マガレイ（32cm） ↣最近注目の記事はこちら fishinglife.hatenadiary.jp 釣り場情報 釣り方：投げ釣り 使用餌：イソメ 釣り場：石狩湾新港 花畔埠頭 石狩湾新港の花畔埠頭にて、投げ釣りで勝負。 朝マズメ狙いで、朝6時ごろからスタート。 開始1時間ほどでアタリがではじめ、潮の動きもよくコンスタントに反応があり楽しめたとのこと！ 「釣れない」でお悩みの方にプチ情報↓ fishinglife.hatenadiary.jp 投稿者様から↓ サイズもそこそこあり引きも強く満足です。まだ釣れそうな雰囲気だ…",
-   "date": "2026-03-31T19:40:24+09:00",
-   "source": "みんなの北海道釣り情報",
-   "places": [
-    "石狩湾新港",
-    "石狩"
-   ],
-   "species": [
-    "カレイ",
-    "マガレイ"
-   ],
-   "hakodate": false,
-   "firstSeen": "2026-11-05T12:50:42.983227+09:00"
-  },
-  {
    "title": "函館地域協議会「新春ワカサギ釣り大会」が大盛況！ - UAゼンセン",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5",
    "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -2253,17 +2470,6 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
-   "title": "冬の北海道、寒すぎて魚釣れんやろ笑→実は本州よりよく釣れる話（なるフィッシュ） - エキスパート - Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemNvVmdiR2c4R1Z4X1kyMlA1b2VHY2F0a3RQWFFMVFA5d01CcUhTeloyTWtSV2tSNDdvV2t4MW5yaHJ1WERNM2doZGZ2UTFHVktiSFN4clBCNnJ1TkVSZ0JUZGhPUkpYY3QxdGE2UkZyMFE5RE5XZWNwYjVWZHVESk9ES1pCbHJv?oc=5",
-   "summary": "冬の北海道、寒すぎて魚釣れんやろ笑→実は本州よりよく釣れる話（なるフィッシュ） - エキスパート Yahoo!ニュース",
-   "date": "2026-01-06T08:00:00+00:00",
-   "source": "Google ニュース（北海道 釣果）",
-   "places": [],
-   "species": [],
-   "hakodate": false,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
    "title": "第693回 道南・木古内沖に舞い踊るヒラメ ～ジグヘッドで誘うボートキャスティング～｜夢釣行～一魚一会の旅 - BS日テレ",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LQmhsUWwxYWZzeE5YenRkMDlfT1FNVWJXcWNZREYwMmVwSVYzMHFDWUQ5VGh3SnF6V3Q2VFNvN3JZcW9RSVRUNmtlczUzR19jcGZWVmxodlBsSWRfbkRTNk9ndEw0MEkzSXJj?oc=5",
    "summary": "第693回 道南・木古内沖に舞い踊るヒラメ ～ジグヘッドで誘うボートキャスティング～｜夢釣行～一魚一会の旅 BS日テレ",
@@ -2306,22 +2512,6 @@
    ],
    "species": [
     "イカ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
-   "title": "“イカの街・函館”に活気戻る！小型船スルメイカ釣り漁が『特例再開』→約3.7トン水揚げ～初競り最高値は5キロ7900円「今後は活イカも」市場関係者も漁業関係者も期待〈北海道函館市〉 - UHB 北海道文化放送",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNTRXMExXN0Y3Y3FkTEpZaDJOcHl4cDhEbmNPSVpOU3VvZ3BidGtidTAyd3VFVURDT2k3eFJWSzNPb1o1XzdyZ1NYUEdEVU52RENDOExiWQ?oc=5",
-   "summary": "“イカの街・函館”に活気戻る！小型船スルメイカ釣り漁が『特例再開』→約3.7トン水揚げ～初競り最高値は5キロ7900円「今後は活イカも」市場関係者も漁業関係者も期待〈北海道函館市〉 UHB 北海道文化放送",
-   "date": "2025-11-11T08:00:00+00:00",
-   "source": "Google ニュース（函館 釣り）",
-   "places": [
-    "函館"
-   ],
-   "species": [
-    "イカ",
-    "スルメイカ"
    ],
    "hakodate": true,
    "firstSeen": "2026-11-05T12:56:58.716106+09:00"

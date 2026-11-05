@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 05 Nov 2026 13:20:31 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:43:36 +0900</lastBuildDate>
     <item>
       <title>シマノ FS-060Q を買いました｜ラジアルスパイクはピン8本の「堤防用」。磯・船との履き分けも整理</title>
       <link>https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/shimano-fs060q-radial-spike/</link>
@@ -24,6 +24,29 @@
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
       <fog:species>スルメイカ</fog:species>
+    </item>
+    <item>
+      <title>函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引 (函館新聞デジタル) - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1ZzbExfQ2FIUk5EbkhkaDVaSEpmeWdBNnRGX2xjTEIyUVRiYzNVX0RCQkNINU9Sc2FKZmNpUkVWcW9sR1JicmowZmFQOTRjU1pxUEt3Sm1OMWZwV09xWHN4QWk5bmowWG1Eb29ZRHZVdU5QV05wejBIYklob3ZPN1EzU2liVXBUNngtalVB?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1ZzbExfQ2FIUk5EbkhkaDVaSEpmeWdBNnRGX2xjTEIyUVRiYzNVX0RCQkNINU9Sc2FKZmNpUkVWcW9sR1JicmowZmFQOTRjU1pxUEt3Sm1OMWZwV09xWHN4QWk5bmowWG1Eb29ZRHZVdU5QV05wejBIYklob3ZPN1EzU2liVXBUNngtalVB?oc=5</guid>
+      <pubDate>Thu, 05 Nov 2026 01:07:40 +0000</pubDate>
+      <description>函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引 (函館新聞デジタル) Yahoo!ニュース ｜ 場所: 函館 / 魚種: スルメイカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>スルメイカ</fog:species>
+    </item>
+    <item>
+      <title>2026/11/05 △▲△ﾌﾗｯｼｭJｼｬｯﾄﾞｽﾘﾑ5″入荷しました！！△▲△</title>
+      <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/05/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%8c%ef%be%97%ef%bd%af%ef%bd%bc%ef%bd%adj%ef%bd%bc%ef%bd%ac%ef%bd%af%ef%be%84%ef%be%9e%ef%bd%bd%ef%be%98%ef%be%915%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97/</link>
+      <guid isPermaLink="true">https://www.tackleberry.co.jp/shop/30011066/2026/11/05/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%8c%ef%be%97%ef%bd%af%ef%bd%bc%ef%bd%adj%ef%bd%bc%ef%bd%ac%ef%bd%af%ef%be%84%ef%be%9e%ef%bd%bd%ef%be%98%ef%be%915%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0900</pubDate>
+      <description>Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site ｜ 場所: 函館（タックルベリー函館店）</description>
+      <category>タックルベリー函館店</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
     </item>
     <item>
       <title>【2026年10月】ショックリーダー人気ランキングTOP10｜口コミが多い順に並べてみた</title>
@@ -78,6 +101,42 @@
       <title>75 HIT kuro さん 2026-11-04 18:38 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 2投目でも🎵 型良いです🎵 同じパターンで！ 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1316931</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1316931</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>17 HIT たがし さん 2026-11-04 20:13 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 足元の方で、釣れました！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317264</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317264</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>17 HIT たがし さん 2026-11-04 20:05 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 竿先に、引っ張られる反応でした！ 良いサイズでした。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317263</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317263</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <category>エギCOM 函館</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>17 HIT たがし さん 2026-11-04 19:58 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 開始数投で、ラインがスーッと横に！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317259</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317259</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
       <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
@@ -624,18 +683,6 @@
       <fog:lon>140.72900</fog:lon>
     </item>
     <item>
-      <title>今週まとめ。よく釣れました(^^)/</title>
-      <link>https://www.magicalhour.net/2026/08/07/%E4%BB%8A%E9%80%B1%E3%81%BE%E3%81%A8%E3%82%81-%E3%82%88%E3%81%8F%E9%87%A3%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <guid isPermaLink="true">https://www.magicalhour.net/2026/08/07/%E4%BB%8A%E9%80%B1%E3%81%BE%E3%81%A8%E3%82%81-%E3%82%88%E3%81%8F%E9%87%A3%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <pubDate>Fri, 07 Aug 2026 16:48:56 +0900</pubDate>
-      <description>８月２～7日ヒラメ。８月に入っても好調！コンスタントに釣れています(^^)/ もうヒラメシーズン終わった？そんな事はありません！ 先ずは先週日曜日。怪しい予報でしたが行ってみました 釣れるや～ん(*´▽｀*) バケでも ワームでも Tさんは序盤はキャスティングでトライ。しかし反応薄くバケで一枚。その後キャスティングに戻して連発！ 開始から各種ハード系ビッグベイトでトライし続けたAさん。しかしヒットには至らず。惜しい場面もありました 終盤ジグヘッドに変えて一発！その勢いでもう一枚。共に８インチのビッグワームでした ビッグベイティングはロマン枠。アカンかな・・でもクルかも！そんな葛藤の中で突如襲われる衝撃は脳汁ドバンドバン。そんなチャレンジ精神応援してます(^^)/ 思いの他反応の良かったこの日 前週はシケ模様で思うように出られませんでした。その間に復調した？ チビも掛かりますがロクマルクラス… ｜ 場所: 豊浦 / 魚種: ヒラメ（マジカルアワー（噴火湾の遊漁船））</description>
-      <category>マジカルアワー（噴火湾の遊漁船）</category>
-      <fog:place>豊浦</fog:place>
-      <fog:lat>42.57300</fog:lat>
-      <fog:lon>140.69200</fog:lon>
-      <fog:species>ヒラメ</fog:species>
-    </item>
-    <item>
       <title>日本海でキジハタがヒット！</title>
       <link>http://blog.fs-impact.com/?eid=1702</link>
       <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1702</guid>
@@ -911,18 +958,6 @@
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
       <fog:species>イカ</fog:species>
-    </item>
-    <item>
-      <title>“イカの街・函館”に活気戻る！小型船スルメイカ釣り漁が『特例再開』→約3.7トン水揚げ～初競り最高値は5キロ7900円「今後は活イカも」市場関係者も漁業関係者も期待〈北海道函館市〉 - UHB 北海道文化放送</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNTRXMExXN0Y3Y3FkTEpZaDJOcHl4cDhEbmNPSVpOU3VvZ3BidGtidTAyd3VFVURDT2k3eFJWSzNPb1o1XzdyZ1NYUEdEVU52RENDOExiWQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lNTRXMExXN0Y3Y3FkTEpZaDJOcHl4cDhEbmNPSVpOU3VvZ3BidGtidTAyd3VFVURDT2k3eFJWSzNPb1o1XzdyZ1NYUEdEVU52RENDOExiWQ?oc=5</guid>
-      <pubDate>Tue, 11 Nov 2025 08:00:00 +0000</pubDate>
-      <description>“イカの街・函館”に活気戻る！小型船スルメイカ釣り漁が『特例再開』→約3.7トン水揚げ～初競り最高値は5キロ7900円「今後は活イカも」市場関係者も漁業関係者も期待〈北海道函館市〉 UHB 北海道文化放送 ｜ 場所: 函館 / 魚種: イカ・スルメイカ（Google ニュース（函館 釣り））</description>
-      <category>Google ニュース（函館 釣り）</category>
-      <fog:place>函館</fog:place>
-      <fog:lat>41.76870</fog:lat>
-      <fog:lon>140.72900</fog:lon>
-      <fog:species>イカ・スルメイカ</fog:species>
     </item>
     <item>
       <title>摘発の瞬間「室蘭海上保安部だ！動くな、検挙します」暗闇に紛れて秋サケを狙う密漁者 禁止エリアで取材カメラが捉えた釣り人たち…モラルなき現場を直撃 北海道・白老町 - TBS NEWS DIG</title>
