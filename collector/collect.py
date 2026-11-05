@@ -56,12 +56,22 @@ SPECIES = sorted(load_json("collector/species.json", []), key=len, reverse=True)
 
 # ---------- 取得
 
-def fetch(url, timeout=25):
+def fetch(url, timeout=25, retries=2):
+    """1 回失敗したら少し待って取り直す（一時的な 429 / 5xx / 切断のため）"""
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml,application/xml,application/rss+xml,*/*;q=0.8"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        data = r.read()
-        ctype = r.headers.get("Content-Type", "")
-    return data, ctype
+    last = None
+    for attempt in range(retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read(), r.headers.get("Content-Type", "")
+        except urllib.error.HTTPError as e:
+            last = e
+            if e.code in (403, 404, 410):
+                raise
+        except Exception as e:  # noqa: BLE001
+            last = e
+        time.sleep(3 * (attempt + 1))
+    raise last
 
 
 def decode(data, ctype=""):
