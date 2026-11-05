@@ -2,1241 +2,2707 @@
 {
 "name": "石崎(上ノ国)漁港",
 "lat": 41.70449,
-"lon": 140.02202
+"lon": 140.02202,
+"hakodate": true
 },
 {
 "name": "釜谷(木古内)漁港",
 "lat": 41.70923,
-"lon": 140.53502
+"lon": 140.53502,
+"hakodate": true
 },
 {
 "name": "石崎(銭亀沢)漁港",
 "lat": 41.75256,
-"lon": 140.87443
+"lon": 140.87443,
+"hakodate": true
 },
 {
 "name": "釜谷(戸井)漁港",
 "lat": 41.73285,
-"lon": 140.93582
+"lon": 140.93582,
+"hakodate": true
 },
 {
 "name": "赤石(奥尻)漁港",
 "lat": 42.14636,
-"lon": 139.51954
+"lon": 139.51954,
+"hakodate": true
+},
+{
+"name": "旭浜(大樹)漁港",
+"lat": 42.41924,
+"lon": 143.39195,
+"hakodate": false
 },
 {
 "name": "美谷(瀬棚)漁港",
 "lat": 42.56661,
-"lon": 139.83306
+"lon": 139.83306,
+"hakodate": true
+},
+{
+"name": "美谷(歌棄)漁港",
+"lat": 42.83214,
+"lon": 140.31026,
+"hakodate": false
+},
+{
+"name": "トーサムポロ漁港",
+"lat": 43.39101,
+"lon": 145.74498,
+"hakodate": false
+},
+{
+"name": "旭浜(鬼脇)漁港",
+"lat": 45.19438,
+"lon": 141.31751,
+"hakodate": false
 },
 {
 "name": "泊(檜山)漁港",
 "lat": 41.89066,
-"lon": 140.13487
+"lon": 140.13487,
+"hakodate": true
 },
 {
-"name": "むつ小川原港",
-"lat": 40.95669,
-"lon": 141.41598
+"name": "泊(後志)漁港",
+"lat": 43.06684,
+"lon": 140.49245,
+"hakodate": false
 },
 {
-"name": "源氏ヶ浦漁港",
-"lat": 41.11432,
-"lon": 141.25305
-},
-{
-"name": "小田野沢漁港",
-"lat": 41.22144,
-"lon": 141.40474
+"name": "オッカバケ漁港",
+"lat": 44.07355,
+"lon": 145.24389,
+"hakodate": false
 },
 {
 "name": "函館湯川漁港",
 "lat": 41.77256,
-"lon": 140.78013
+"lon": 140.78013,
+"hakodate": true
+},
+{
+"name": "えりも岬漁港",
+"lat": 41.93568,
+"lon": 143.24477,
+"hakodate": false
 },
 {
 "name": "イタンキ漁港",
 "lat": 42.33722,
-"lon": 141.03161
+"lon": 141.03161,
+"hakodate": true
 },
 {
-"name": "鯵ヶ沢漁港",
-"lat": 40.78183,
-"lon": 140.21066
+"name": "第二栄浜漁港",
+"lat": 42.67112,
+"lon": 139.87951,
+"hakodate": false
 },
 {
-"name": "七里長浜港",
-"lat": 40.80269,
-"lon": 140.23246
+"name": "千代ノ浦漁港",
+"lat": 42.96559,
+"lon": 144.39266,
+"hakodate": false
 },
 {
-"name": "久栗坂漁港",
-"lat": 40.87239,
-"lon": 140.84337
+"name": "余市河口漁港",
+"lat": 43.19838,
+"lon": 140.79125,
+"hakodate": false
 },
 {
-"name": "野辺地漁港",
-"lat": 40.87351,
-"lon": 141.12585
+"name": "於尋麻布漁港",
+"lat": 43.9675,
+"lon": 145.14361,
+"hakodate": false
 },
 {
-"name": "狩場沢漁港",
-"lat": 40.89799,
-"lon": 141.07827
+"name": "浜佐呂間漁港",
+"lat": 44.09183,
+"lon": 143.92707,
+"hakodate": false
 },
 {
-"name": "清水川漁港",
-"lat": 40.92406,
-"lon": 141.02474
+"name": "常呂河口漁港",
+"lat": 44.12322,
+"lon": 144.08066,
+"hakodate": false
 },
 {
-"name": "東田沢漁港",
-"lat": 40.99488,
-"lon": 140.91753
+"name": "サロマ湖漁港",
+"lat": 44.17987,
+"lon": 143.7843,
+"hakodate": false
 },
 {
-"name": "瀬辺地漁港",
-"lat": 41.00793,
-"lon": 140.65116
+"name": "雄忠志内漁港",
+"lat": 45.22604,
+"lon": 141.27946,
+"hakodate": false
 },
 {
-"name": "百目木漁港",
-"lat": 41.03745,
-"lon": 141.23934
-},
-{
-"name": "九艘泊漁港",
-"lat": 41.14126,
-"lon": 140.77299
-},
-{
-"name": "脇野沢漁港",
-"lat": 41.14375,
-"lon": 140.82447
-},
-{
-"name": "宿野部漁港",
-"lat": 41.17398,
-"lon": 140.93447
-},
-{
-"name": "田野沢漁港",
-"lat": 41.19098,
-"lon": 141.01957
-},
-{
-"name": "浜奥内漁港",
-"lat": 41.20125,
-"lon": 141.26165
-},
-{
-"name": "一本木漁港",
-"lat": 41.21818,
-"lon": 140.53783
-},
-{
-"name": "正津川漁港",
-"lat": 41.38929,
-"lon": 141.19026
-},
-{
-"name": "木野部漁港",
-"lat": 41.4415,
-"lon": 141.12971
-},
-{
-"name": "下風呂漁港",
-"lat": 41.47041,
-"lon": 141.09144
-},
-{
-"name": "易国間漁港",
-"lat": 41.48843,
-"lon": 140.99888
-},
-{
-"name": "小谷石漁港",
-"lat": 41.53341,
-"lon": 140.42254
-},
-{
-"name": "下手浜漁港",
-"lat": 41.54481,
-"lon": 140.91916
+"name": "浜鬼志別漁港",
+"lat": 45.34084,
+"lon": 142.1677,
+"hakodate": false
 },
 {
 "name": "中の川漁港",
 "lat": 41.63429,
-"lon": 140.43251
+"lon": 140.43251,
+"hakodate": true
 },
 {
 "name": "小砂子漁港",
 "lat": 41.64949,
-"lon": 139.99924
+"lon": 139.99924,
+"hakodate": true
 },
 {
 "name": "木古内漁港",
 "lat": 41.68617,
-"lon": 140.44698
+"lon": 140.44698,
+"hakodate": true
 },
 {
 "name": "志海苔漁港",
 "lat": 41.7572,
-"lon": 140.84779
+"lon": 140.84779,
+"hakodate": true
 },
 {
 "name": "茂辺地漁港",
 "lat": 41.75857,
-"lon": 140.60634
+"lon": 140.60634,
+"hakodate": true
 },
 {
 "name": "女那川漁港",
 "lat": 41.75924,
-"lon": 141.0858
+"lon": 141.0858,
+"hakodate": true
 },
 {
 "name": "山背泊漁港",
 "lat": 41.78757,
-"lon": 141.1333
+"lon": 141.1333,
+"hakodate": true
 },
 {
 "name": "上の国漁港",
 "lat": 41.80753,
-"lon": 140.09839
+"lon": 140.09839,
+"hakodate": true
 },
 {
 "name": "五勝手漁港",
 "lat": 41.84822,
-"lon": 140.12255
+"lon": 140.12255,
+"hakodate": true
 },
 {
 "name": "尾札部漁港",
 "lat": 41.89339,
-"lon": 141.01386
+"lon": 141.01386,
+"hakodate": true
 },
 {
 "name": "鷲ノ木漁港",
 "lat": 42.11501,
-"lon": 140.545
+"lon": 140.545,
+"hakodate": true
 },
 {
 "name": "神威脇漁港",
 "lat": 42.17108,
-"lon": 139.4101
+"lon": 139.4101,
+"hakodate": true
+},
+{
+"name": "音調津漁港",
+"lat": 42.22426,
+"lon": 143.32002,
+"hakodate": false
+},
+{
+"name": "東静内漁港",
+"lat": 42.29588,
+"lon": 142.45176,
+"hakodate": false
 },
 {
 "name": "長万部漁港",
 "lat": 42.52333,
-"lon": 140.39306
+"lon": 140.39306,
+"hakodate": true
 },
 {
-"name": "青森漁港",
-"lat": 40.83378,
-"lon": 140.767
+"name": "昆布刈石港",
+"lat": 42.76271,
+"lon": 143.76527,
+"hakodate": false
 },
 {
-"name": "木造漁港",
-"lat": 40.84357,
-"lon": 140.27402
+"name": "老者舞漁港",
+"lat": 42.93533,
+"lon": 144.71902,
+"hakodate": false
 },
 {
-"name": "平沼漁港",
-"lat": 40.87455,
-"lon": 141.3998
+"name": "昆布森漁港",
+"lat": 42.95115,
+"lon": 144.5282,
+"hakodate": false
 },
 {
-"name": "野辺地港",
-"lat": 40.87946,
-"lon": 141.11896
+"name": "敷島内漁港",
+"lat": 42.97241,
+"lon": 140.48301,
+"hakodate": false
 },
 {
-"name": "奥内漁港",
-"lat": 40.89127,
-"lon": 140.67826
+"name": "仙鳳趾漁港",
+"lat": 42.97889,
+"lon": 144.72639,
+"hakodate": false
 },
 {
-"name": "有戸漁港",
-"lat": 40.90795,
-"lon": 141.18084
+"name": "琵琶瀬漁港",
+"lat": 43.05611,
+"lon": 145.09111,
+"hakodate": false
 },
 {
-"name": "浪打漁港",
-"lat": 40.92427,
-"lon": 140.86816
+"name": "神恵内漁港",
+"lat": 43.14281,
+"lon": 140.42151,
+"hakodate": false
 },
 {
-"name": "後潟漁港",
-"lat": 40.93405,
-"lon": 140.66478
+"name": "奔幌戸漁港",
+"lat": 43.14977,
+"lon": 145.17063,
+"hakodate": false
 },
 {
-"name": "小湊漁港",
-"lat": 40.94297,
-"lon": 140.98158
+"name": "石狩湾新港",
+"lat": 43.21111,
+"lon": 141.26972,
+"hakodate": false
 },
 {
-"name": "茂浦漁港",
-"lat": 40.94428,
-"lon": 140.87018
+"name": "昆布盛漁港",
+"lat": 43.22556,
+"lon": 145.55167,
+"hakodate": false
 },
 {
-"name": "車力漁港",
-"lat": 40.97969,
-"lon": 140.31363
+"name": "出足平漁港",
+"lat": 43.23877,
+"lon": 140.73492,
+"hakodate": false
 },
 {
-"name": "稲生漁港",
-"lat": 40.98039,
-"lon": 140.87167
+"name": "幌茂尻漁港",
+"lat": 43.29782,
+"lon": 145.52087,
+"hakodate": false
 },
 {
-"name": "白砂漁港",
-"lat": 40.9846,
-"lon": 140.95169
+"name": "走古丹漁港",
+"lat": 43.31544,
+"lon": 145.33373,
+"hakodate": false
 },
 {
-"name": "蓬田漁港",
-"lat": 40.985,
-"lon": 140.65632
+"name": "沖根婦漁港",
+"lat": 43.32837,
+"lon": 145.69724,
+"hakodate": false
 },
 {
-"name": "十三漁港",
-"lat": 41.0368,
-"lon": 140.3298
+"name": "幌武意漁港",
+"lat": 43.35909,
+"lon": 140.51051,
+"hakodate": false
 },
 {
-"name": "蟹田漁港",
-"lat": 41.04764,
-"lon": 140.64672
+"name": "珸瑤瑁漁港",
+"lat": 43.37004,
+"lon": 145.80862,
+"hakodate": false
 },
 {
-"name": "横浜漁港",
-"lat": 41.08405,
-"lon": 141.24333
+"name": "温根元漁港",
+"lat": 43.3867,
+"lon": 145.78667,
+"hakodate": false
 },
 {
-"name": "脇元漁港",
-"lat": 41.09262,
-"lon": 140.31713
+"name": "尾岱沼漁港",
+"lat": 43.56861,
+"lon": 145.22199,
+"hakodate": false
 },
 {
-"name": "鶏沢漁港",
-"lat": 41.12654,
-"lon": 141.2611
+"name": "知布泊漁港",
+"lat": 43.95938,
+"lon": 144.83477,
+"hakodate": false
 },
 {
-"name": "小泊漁港",
-"lat": 41.1329,
-"lon": 140.29424
+"name": "宇登呂漁港",
+"lat": 44.07465,
+"lon": 144.99364,
+"hakodate": false
 },
 {
-"name": "白糠漁港",
-"lat": 41.13321,
-"lon": 141.39303
+"name": "富武士漁港",
+"lat": 44.09599,
+"lon": 143.80513,
+"hakodate": false
 },
 {
-"name": "平舘漁港",
-"lat": 41.1593,
-"lon": 140.64004
+"name": "知円別漁港",
+"lat": 44.1016,
+"lon": 145.24473,
+"hakodate": false
 },
 {
-"name": "蛎崎漁港",
-"lat": 41.16552,
-"lon": 140.89785
+"name": "登栄床漁港",
+"lat": 44.1857,
+"lon": 143.74236,
+"hakodate": false
 },
 {
-"name": "小沢漁港",
-"lat": 41.16599,
-"lon": 140.87471
+"name": "元稲府漁港",
+"lat": 44.60645,
+"lon": 142.94351,
+"hakodate": false
 },
 {
-"name": "今別漁港",
-"lat": 41.18345,
-"lon": 140.47922
+"name": "乙忠部漁港",
+"lat": 44.78365,
+"lon": 142.71991,
+"hakodate": false
 },
 {
-"name": "檜川漁港",
-"lat": 41.1879,
-"lon": 140.9618
+"name": "目梨泊漁港",
+"lat": 45.03633,
+"lon": 142.51776,
+"hakodate": false
 },
 {
-"name": "戸沢漁港",
-"lat": 41.1908,
-"lon": 141.0652
+"name": "稚咲内漁港",
+"lat": 45.08385,
+"lon": 141.63027,
+"hakodate": false
 },
 {
-"name": "三厩漁港",
-"lat": 41.19678,
-"lon": 140.43173
+"name": "仙法志漁港",
+"lat": 45.11355,
+"lon": 141.20697,
+"hakodate": false
 },
 {
-"name": "角違漁港",
-"lat": 41.20922,
-"lon": 141.09406
+"name": "浜猿払漁港",
+"lat": 45.27163,
+"lon": 142.2377,
+"hakodate": false
 },
 {
-"name": "宇鉄漁港",
-"lat": 41.23733,
-"lon": 140.39312
+"name": "香深井漁港",
+"lat": 45.33685,
+"lon": 141.04975,
+"hakodate": false
 },
 {
-"name": "龍飛漁港",
-"lat": 41.26011,
-"lon": 140.34562
+"name": "宇遠内漁港",
+"lat": 45.34519,
+"lon": 141.00031,
+"hakodate": false
 },
 {
-"name": "牛滝漁港",
-"lat": 41.2929,
-"lon": 140.79947
+"name": "知来別漁港",
+"lat": 45.37938,
+"lon": 142.09326,
+"hakodate": false
 },
 {
-"name": "仏ヶ浦港",
-"lat": 41.31165,
-"lon": 140.80191
+"name": "西稚内漁港",
+"lat": 45.3902,
+"lon": 141.6383,
+"hakodate": false
 },
 {
-"name": "福浦漁港",
-"lat": 41.32806,
-"lon": 140.80588
+"name": "西上泊漁港",
+"lat": 45.41157,
+"lon": 140.98864,
+"hakodate": false
 },
 {
-"name": "石持漁港",
-"lat": 41.35124,
-"lon": 141.29386
+"name": "東上泊漁港",
+"lat": 45.41823,
+"lon": 141.06197,
+"hakodate": false
 },
 {
-"name": "野牛漁港",
-"lat": 41.35846,
-"lon": 141.33858
+"name": "恵山泊漁港",
+"lat": 45.44714,
+"lon": 141.64358,
+"hakodate": false
 },
 {
-"name": "小島漁港",
-"lat": 41.36582,
-"lon": 139.81684
+"name": "須古頓漁港",
+"lat": 45.456,
+"lon": 140.97447,
+"hakodate": false
 },
 {
-"name": "関根浜港",
-"lat": 41.36852,
-"lon": 141.23669
-},
-{
-"name": "関根漁港",
-"lat": 41.3704,
-"lon": 141.22498
-},
-{
-"name": "長後漁港",
-"lat": 41.37044,
-"lon": 140.8263
-},
-{
-"name": "尻労漁港",
-"lat": 41.37169,
-"lon": 141.45157
-},
-{
-"name": "岩屋漁港",
-"lat": 41.38675,
-"lon": 141.40422
-},
-{
-"name": "尻屋漁港",
-"lat": 41.3954,
-"lon": 141.45301
-},
-{
-"name": "磯谷漁港",
-"lat": 41.39855,
-"lon": 140.83014
-},
-{
-"name": "大畑漁港",
-"lat": 41.40873,
-"lon": 141.17276
-},
-{
-"name": "尻屋岬港",
-"lat": 41.41252,
-"lon": 141.43731
+"name": "オホーツク",
+"lat": 44.5,
+"lon": 143.5,
+"hakodate": false
 },
 {
 "name": "白神漁港",
 "lat": 41.41314,
-"lon": 140.17063
-},
-{
-"name": "矢越漁港",
-"lat": 41.41983,
-"lon": 140.84168
+"lon": 140.17063,
+"hakodate": true
 },
 {
 "name": "大沢漁港",
 "lat": 41.42647,
-"lon": 140.1398
+"lon": 140.1398,
+"hakodate": true
 },
 {
 "name": "朝日漁港",
 "lat": 41.42952,
-"lon": 140.12813
-},
-{
-"name": "佐井漁港",
-"lat": 41.43371,
-"lon": 140.85973
+"lon": 140.12813,
+"hakodate": true
 },
 {
 "name": "吉岡漁港",
 "lat": 41.445,
-"lon": 140.23889
+"lon": 140.23889,
+"hakodate": true
 },
 {
 "name": "館浜漁港",
 "lat": 41.44674,
-"lon": 140.04147
-},
-{
-"name": "原田漁港",
-"lat": 41.45066,
-"lon": 140.87278
+"lon": 140.04147,
+"hakodate": true
 },
 {
 "name": "札前漁港",
 "lat": 41.46924,
-"lon": 140.02897
-},
-{
-"name": "材木漁港",
-"lat": 41.47038,
-"lon": 140.88973
+"lon": 140.02897,
+"hakodate": true
 },
 {
 "name": "静浦漁港",
 "lat": 41.48292,
-"lon": 140.02137
-},
-{
-"name": "桑畑漁港",
-"lat": 41.48344,
-"lon": 141.02221
+"lon": 140.02137,
+"hakodate": true
 },
 {
 "name": "福島漁港",
 "lat": 41.49091,
-"lon": 140.29395
-},
-{
-"name": "奥戸漁港",
-"lat": 41.49315,
-"lon": 140.90667
+"lon": 140.29395,
+"hakodate": true
 },
 {
 "name": "茂草漁港",
 "lat": 41.49396,
-"lon": 140.01453
-},
-{
-"name": "岩部漁港",
-"lat": 41.50675,
-"lon": 140.34005
-},
-{
-"name": "蛇浦漁港",
-"lat": 41.50758,
-"lon": 140.96766
+"lon": 140.01453,
+"hakodate": true
 },
 {
 "name": "大島漁港",
 "lat": 41.50894,
-"lon": 139.38375
+"lon": 139.38375,
+"hakodate": true
 },
 {
 "name": "清部漁港",
 "lat": 41.52368,
-"lon": 140.0023
+"lon": 140.0023,
+"hakodate": true
 },
 {
 "name": "江良漁港",
 "lat": 41.54617,
-"lon": 139.98897
+"lon": 139.98897,
+"hakodate": true
 },
 {
 "name": "涌元漁港",
 "lat": 41.56063,
-"lon": 140.43254
+"lon": 140.43254,
+"hakodate": true
 },
 {
 "name": "原口漁港",
 "lat": 41.60644,
-"lon": 139.98286
+"lon": 139.98286,
+"hakodate": true
 },
 {
 "name": "札刈漁港",
 "lat": 41.69895,
-"lon": 140.48253
+"lon": 140.48253,
+"hakodate": true
 },
 {
 "name": "泉沢漁港",
 "lat": 41.6995,
-"lon": 140.50003
+"lon": 140.50003,
+"hakodate": true
 },
 {
 "name": "汐首漁港",
 "lat": 41.71229,
-"lon": 140.95721
+"lon": 140.95721,
+"hakodate": true
 },
 {
 "name": "戸井漁港",
 "lat": 41.71952,
-"lon": 141.0247
+"lon": 141.0247,
+"hakodate": true
 },
 {
 "name": "日浦漁港",
 "lat": 41.72757,
-"lon": 141.05164
+"lon": 141.05164,
+"hakodate": true
 },
 {
 "name": "当別漁港",
 "lat": 41.73895,
-"lon": 140.58779
+"lon": 140.58779,
+"hakodate": true
 },
 {
 "name": "汐吹漁港",
 "lat": 41.74087,
-"lon": 140.05173
+"lon": 140.05173,
+"hakodate": true
 },
 {
 "name": "大澗漁港",
 "lat": 41.74396,
-"lon": 141.07525
+"lon": 141.07525,
+"hakodate": true
 },
 {
 "name": "小安漁港",
 "lat": 41.74479,
-"lon": 140.90777
+"lon": 140.90777,
+"hakodate": true
 },
 {
 "name": "住吉漁港",
 "lat": 41.75478,
-"lon": 140.72139
+"lon": 140.72139,
+"hakodate": true
 },
 {
 "name": "函館漁港",
 "lat": 41.77145,
-"lon": 140.69889
+"lon": 140.69889,
+"hakodate": true
 },
 {
 "name": "西恵山港",
 "lat": 41.78278,
-"lon": 141.14861
+"lon": 141.14861,
+"hakodate": true
 },
 {
 "name": "恵山漁港",
 "lat": 41.79563,
-"lon": 141.17302
+"lon": 141.17302,
+"hakodate": true
 },
 {
 "name": "上磯漁港",
 "lat": 41.81678,
-"lon": 140.64354
+"lon": 140.64354,
+"hakodate": true
 },
 {
 "name": "椴法華港",
 "lat": 41.82346,
-"lon": 141.17146
+"lon": 141.17146,
+"hakodate": true
 },
 {
 "name": "古部漁港",
 "lat": 41.86589,
-"lon": 141.11691
+"lon": 141.11691,
+"hakodate": true
 },
 {
 "name": "木直漁港",
 "lat": 41.887,
-"lon": 141.06802
+"lon": 141.06802,
+"hakodate": true
 },
 {
 "name": "川汲漁港",
 "lat": 41.90533,
-"lon": 140.98192
+"lon": 140.98192,
+"hakodate": true
 },
 {
 "name": "臼尻漁港",
 "lat": 41.93421,
-"lon": 140.94581
+"lon": 140.94581,
+"hakodate": true
+},
+{
+"name": "東洋漁港",
+"lat": 41.9469,
+"lon": 143.21803,
+"hakodate": false
 },
 {
 "name": "大舟漁港",
 "lat": 41.96863,
-"lon": 140.91651
+"lon": 140.91651,
+"hakodate": true
 },
 {
 "name": "乙部漁港",
 "lat": 41.96961,
-"lon": 140.1302
+"lon": 140.1302,
+"hakodate": true
+},
+{
+"name": "歌別漁港",
+"lat": 41.99306,
+"lon": 143.15806,
+"hakodate": false
 },
 {
 "name": "元和漁港",
 "lat": 42.00973,
-"lon": 140.10366
+"lon": 140.10366,
+"hakodate": true
+},
+{
+"name": "えりも港",
+"lat": 42.01668,
+"lon": 143.14231,
+"hakodate": false
 },
 {
 "name": "鹿部漁港",
 "lat": 42.0317,
-"lon": 140.82553
+"lon": 140.82553,
+"hakodate": true
+},
+{
+"name": "庶野漁港",
+"lat": 42.04344,
+"lon": 143.29614,
+"hakodate": false
+},
+{
+"name": "笛舞漁港",
+"lat": 42.04371,
+"lon": 143.10227,
+"hakodate": false
 },
 {
 "name": "豊浜漁港",
 "lat": 42.04723,
-"lon": 140.08143
+"lon": 140.08143,
+"hakodate": true
 },
 {
 "name": "本別漁港",
 "lat": 42.05416,
-"lon": 140.8082
+"lon": 140.8082,
+"hakodate": true
 },
 {
 "name": "青苗漁港",
 "lat": 42.05998,
-"lon": 139.45066
+"lon": 139.45066,
+"hakodate": true
 },
 {
 "name": "相沼漁港",
 "lat": 42.0751,
-"lon": 140.05961
+"lon": 140.05961,
+"hakodate": true
 },
 {
 "name": "松江漁港",
 "lat": 42.07859,
-"lon": 139.48927
+"lon": 139.48927,
+"hakodate": true
 },
 {
 "name": "泊川漁港",
 "lat": 42.08333,
-"lon": 140.0556
+"lon": 140.0556,
+"hakodate": true
+},
+{
+"name": "冬島漁港",
+"lat": 42.10005,
+"lon": 142.98497,
+"hakodate": false
+},
+{
+"name": "目黒漁港",
+"lat": 42.11927,
+"lon": 143.3178,
+"hakodate": false
+},
+{
+"name": "様似漁港",
+"lat": 42.12056,
+"lon": 142.91639,
+"hakodate": false
 },
 {
 "name": "沼尻漁港",
 "lat": 42.12438,
-"lon": 140.73485
+"lon": 140.73485,
+"hakodate": true
 },
 {
 "name": "砂原漁港",
 "lat": 42.12557,
-"lon": 140.68499
+"lon": 140.68499,
+"hakodate": true
 },
 {
 "name": "掛澗漁港",
 "lat": 42.1256,
-"lon": 140.64305
+"lon": 140.64305,
+"hakodate": true
 },
 {
 "name": "熊石漁港",
 "lat": 42.12639,
-"lon": 139.9775
+"lon": 139.9775,
+"hakodate": true
 },
 {
 "name": "関内漁港",
 "lat": 42.13249,
-"lon": 139.92811
+"lon": 139.92811,
+"hakodate": true
+},
+{
+"name": "鵜苫漁港",
+"lat": 42.13258,
+"lon": 142.8734,
+"hakodate": false
 },
 {
 "name": "蛯谷漁港",
 "lat": 42.13334,
-"lon": 140.50945
+"lon": 140.50945,
+"hakodate": true
 },
 {
 "name": "長磯漁港",
 "lat": 42.13889,
-"lon": 139.91739
+"lon": 139.91739,
+"hakodate": true
 },
 {
 "name": "石倉漁港",
 "lat": 42.15944,
-"lon": 140.48028
+"lon": 140.48028,
+"hakodate": true
 },
 {
 "name": "白泉漁港",
 "lat": 42.18581,
-"lon": 139.89144
+"lon": 139.89144,
+"hakodate": true
+},
+{
+"name": "東栄漁港",
+"lat": 42.1859,
+"lon": 142.69897,
+"hakodate": false
 },
 {
 "name": "落部漁港",
 "lat": 42.19,
-"lon": 140.4289
+"lon": 140.4289,
+"hakodate": true
+},
+{
+"name": "荻伏漁港",
+"lat": 42.19868,
+"lon": 142.66064,
+"hakodate": false
 },
 {
 "name": "平浜漁港",
 "lat": 42.20609,
-"lon": 139.88117
+"lon": 139.88117,
+"hakodate": true
 },
 {
 "name": "宮津漁港",
 "lat": 42.21108,
-"lon": 139.54953
+"lon": 139.54953,
+"hakodate": true
 },
 {
 "name": "山越漁港",
 "lat": 42.21638,
-"lon": 140.39529
+"lon": 140.39529,
+"hakodate": true
 },
 {
 "name": "宮野漁港",
 "lat": 42.21803,
-"lon": 139.85922
+"lon": 139.85922,
+"hakodate": true
 },
 {
 "name": "久遠漁港",
 "lat": 42.22122,
-"lon": 139.83447
+"lon": 139.83447,
+"hakodate": true
+},
+{
+"name": "鳧舞漁港",
+"lat": 42.22534,
+"lon": 142.61564,
+"hakodate": false
 },
 {
 "name": "上浦漁港",
 "lat": 42.22692,
-"lon": 139.81284
+"lon": 139.81284,
+"hakodate": true
 },
 {
 "name": "稲穂漁港",
 "lat": 42.23747,
-"lon": 139.54703
+"lon": 139.54703,
+"hakodate": true
+},
+{
+"name": "三石漁港",
+"lat": 42.24667,
+"lon": 142.54389,
+"hakodate": false
 },
 {
 "name": "八雲漁港",
 "lat": 42.25276,
-"lon": 140.28724
+"lon": 140.28724,
+"hakodate": true
+},
+{
+"name": "春立漁港",
+"lat": 42.26639,
+"lon": 142.48472,
+"hakodate": false
 },
 {
 "name": "太田漁港",
 "lat": 42.28219,
-"lon": 139.78228
+"lon": 139.78228,
+"hakodate": true
 },
 {
 "name": "追直漁港",
 "lat": 42.30833,
-"lon": 140.97162
+"lon": 140.97162,
+"hakodate": true
+},
+{
+"name": "静内漁港",
+"lat": 42.32393,
+"lon": 142.37177,
+"hakodate": false
 },
 {
 "name": "鷲別漁港",
 "lat": 42.35528,
-"lon": 141.05161
+"lon": 141.05161,
+"hakodate": true
 },
 {
 "name": "鵜泊漁港",
 "lat": 42.35849,
-"lon": 139.7935
+"lon": 139.7935,
+"hakodate": true
 },
 {
 "name": "黒岩漁港",
 "lat": 42.37111,
-"lon": 140.29167
+"lon": 140.29167,
+"hakodate": true
+},
+{
+"name": "節婦漁港",
+"lat": 42.37476,
+"lon": 142.27705,
+"hakodate": false
 },
 {
 "name": "黄金漁港",
 "lat": 42.41971,
-"lon": 140.89828
+"lon": 140.89828,
+"hakodate": true
+},
+{
+"name": "厚賀漁港",
+"lat": 42.43392,
+"lon": 142.20761,
+"hakodate": false
 },
 {
 "name": "国縫漁港",
 "lat": 42.43885,
-"lon": 140.32945
+"lon": 140.32945,
+"hakodate": true
 },
 {
 "name": "富浦漁港",
 "lat": 42.44055,
-"lon": 141.16326
+"lon": 141.16326,
+"hakodate": true
 },
 {
 "name": "登別漁港",
 "lat": 42.4536,
-"lon": 141.18492
+"lon": 141.18492,
+"hakodate": true
 },
 {
 "name": "伊達漁港",
 "lat": 42.46581,
-"lon": 140.85745
+"lon": 140.85745,
+"hakodate": true
+},
+{
+"name": "門別漁港",
+"lat": 42.47307,
+"lon": 142.07484,
+"hakodate": false
+},
+{
+"name": "大樹漁港",
+"lat": 42.47562,
+"lon": 143.43222,
+"hakodate": false
 },
 {
 "name": "中歌漁港",
 "lat": 42.48065,
-"lon": 139.84595
+"lon": 139.84595,
+"hakodate": true
 },
 {
 "name": "大中漁港",
 "lat": 42.49135,
-"lon": 140.36305
+"lon": 140.36305,
+"hakodate": true
+},
+{
+"name": "富浜漁港",
+"lat": 42.49362,
+"lon": 142.01845,
+"hakodate": false
 },
 {
 "name": "虻羅漁港",
 "lat": 42.50244,
-"lon": 139.8456
+"lon": 139.8456,
+"hakodate": true
 },
 {
 "name": "有珠漁港",
 "lat": 42.5158,
-"lon": 140.78579
+"lon": 140.78579,
+"hakodate": true
 },
 {
 "name": "吹込漁港",
 "lat": 42.5235,
-"lon": 139.84496
+"lon": 139.84496,
+"hakodate": true
 },
 {
 "name": "虻田漁港",
 "lat": 42.52886,
-"lon": 140.77745
+"lon": 140.77745,
+"hakodate": true
+},
+{
+"name": "鵡川漁港",
+"lat": 42.54778,
+"lon": 141.93957,
+"hakodate": false
 },
 {
 "name": "礼文漁港",
 "lat": 42.57551,
-"lon": 140.59969
+"lon": 140.59969,
+"hakodate": true
 },
 {
 "name": "豊浦漁港",
 "lat": 42.58107,
-"lon": 140.71024
+"lon": 140.71024,
+"hakodate": true
 },
 {
 "name": "大岸漁港",
 "lat": 42.58523,
-"lon": 140.64135
+"lon": 140.64135,
+"hakodate": true
 },
 {
 "name": "静狩漁港",
 "lat": 42.58828,
-"lon": 140.47415
+"lon": 140.47415,
+"hakodate": true
 },
 {
 "name": "須築漁港",
 "lat": 42.59549,
-"lon": 139.82615
+"lon": 139.82615,
+"hakodate": true
+},
+{
+"name": "苫小牧港",
+"lat": 42.59667,
+"lon": 141.72194,
+"hakodate": false
 },
 {
 "name": "千走漁港",
 "lat": 42.68886,
-"lon": 139.99974
+"lon": 139.99974,
+"hakodate": true
 },
 {
 "name": "原歌漁港",
 "lat": 42.68992,
-"lon": 139.98668
+"lon": 139.98668,
+"hakodate": true
 },
 {
 "name": "永豊漁港",
 "lat": 42.70826,
-"lon": 140.06473
+"lon": 140.06473,
+"hakodate": true
+},
+{
+"name": "大津漁港",
+"lat": 42.70875,
+"lon": 143.69408,
+"hakodate": false
 },
 {
 "name": "軽臼漁港",
 "lat": 42.73187,
-"lon": 140.08695
+"lon": 140.08695,
+"hakodate": true
 },
 {
 "name": "厚瀬漁港",
 "lat": 42.74058,
-"lon": 140.11154
+"lon": 140.11154,
+"hakodate": true
 },
 {
 "name": "樽岸漁港",
 "lat": 42.77659,
-"lon": 140.24027
+"lon": 140.24027,
+"hakodate": true
+},
+{
+"name": "歌島漁港",
+"lat": 42.7802,
+"lon": 140.15222,
+"hakodate": false
 },
 {
 "name": "寿都漁港",
 "lat": 42.79631,
-"lon": 140.23388
+"lon": 140.23388,
+"hakodate": true
 },
 {
 "name": "有戸漁港",
 "lat": 42.79722,
-"lon": 140.30139
+"lon": 140.30139,
+"hakodate": true
+},
+{
+"name": "厚内漁港",
+"lat": 42.80333,
+"lon": 143.82167,
+"hakodate": false
+},
+{
+"name": "政泊漁港",
+"lat": 42.81214,
+"lon": 140.17805,
+"hakodate": false
+},
+{
+"name": "鮫泊漁港",
+"lat": 42.83464,
+"lon": 140.31331,
+"hakodate": false
+},
+{
+"name": "横澗漁港",
+"lat": 42.84526,
+"lon": 140.32734,
+"hakodate": false
+},
+{
+"name": "尻別漁港",
+"lat": 42.87714,
+"lon": 140.36192,
+"hakodate": false
+},
+{
+"name": "桂恋漁港",
+"lat": 42.94504,
+"lon": 144.44765,
+"hakodate": false
+},
+{
+"name": "白糠漁港",
+"lat": 42.95253,
+"lon": 144.08491,
+"hakodate": false
+},
+{
+"name": "床潭漁港",
+"lat": 42.9925,
+"lon": 144.86,
+"hakodate": false
+},
+{
+"name": "散布漁港",
+"lat": 43.02727,
+"lon": 145.02926,
+"hakodate": false
+},
+{
+"name": "厚岸漁港",
+"lat": 43.03949,
+"lon": 144.84344,
+"hakodate": false
+},
+{
+"name": "茶津漁港",
+"lat": 43.04295,
+"lon": 140.50745,
+"hakodate": false
+},
+{
+"name": "霧多布港",
+"lat": 43.08705,
+"lon": 145.12609,
+"hakodate": false
+},
+{
+"name": "榊町漁港",
+"lat": 43.12278,
+"lon": 145.11694,
+"hakodate": false
+},
+{
+"name": "貰人漁港",
+"lat": 43.14838,
+"lon": 145.22979,
+"hakodate": false
+},
+{
+"name": "赤石漁港",
+"lat": 43.15627,
+"lon": 140.40412,
+"hakodate": false
+},
+{
+"name": "落石漁港",
+"lat": 43.18278,
+"lon": 145.5175,
+"hakodate": false
+},
+{
+"name": "珊内漁港",
+"lat": 43.19543,
+"lon": 140.3469,
+"hakodate": false
+},
+{
+"name": "忍路漁港",
+"lat": 43.20961,
+"lon": 140.86018,
+"hakodate": false
+},
+{
+"name": "川白漁港",
+"lat": 43.21856,
+"lon": 140.32655,
+"hakodate": false
+},
+{
+"name": "塩谷漁港",
+"lat": 43.21906,
+"lon": 140.91934,
+"hakodate": false
+},
+{
+"name": "祝津漁港",
+"lat": 43.23406,
+"lon": 141.01433,
+"hakodate": false
+},
+{
+"name": "島泊漁港",
+"lat": 43.24294,
+"lon": 140.72575,
+"hakodate": false
+},
+{
+"name": "湯内漁港",
+"lat": 43.24953,
+"lon": 140.71193,
+"hakodate": false
+},
+{
+"name": "古平漁港",
+"lat": 43.27639,
+"lon": 140.645,
+"hakodate": false
+},
+{
+"name": "美国漁港",
+"lat": 43.29931,
+"lon": 140.60104,
+"hakodate": false
+},
+{
+"name": "神岬漁港",
+"lat": 43.31317,
+"lon": 140.35636,
+"hakodate": false
+},
+{
+"name": "友知漁港",
+"lat": 43.31476,
+"lon": 145.67335,
+"hakodate": false
+},
+{
+"name": "余別漁港",
+"lat": 43.33058,
+"lon": 140.38296,
+"hakodate": false
+},
+{
+"name": "歯舞漁港",
+"lat": 43.3406,
+"lon": 145.75751,
+"hakodate": false
+},
+{
+"name": "野塚漁港",
+"lat": 43.34264,
+"lon": 140.45521,
+"hakodate": false
+},
+{
+"name": "日司漁港",
+"lat": 43.358,
+"lon": 140.46426,
+"hakodate": false
+},
+{
+"name": "古潭漁港",
+"lat": 43.36139,
+"lon": 141.42306,
+"hakodate": false
+},
+{
+"name": "入舸漁港",
+"lat": 43.36541,
+"lon": 140.46882,
+"hakodate": false
+},
+{
+"name": "別海漁港",
+"lat": 43.38419,
+"lon": 145.2906,
+"hakodate": false
+},
+{
+"name": "厚田漁港",
+"lat": 43.40028,
+"lon": 141.42734,
+"hakodate": false
+},
+{
+"name": "濃昼漁港",
+"lat": 43.47765,
+"lon": 141.38984,
+"hakodate": false
+},
+{
+"name": "床丹漁港",
+"lat": 43.48402,
+"lon": 145.25363,
+"hakodate": false
+},
+{
+"name": "浜益漁港",
+"lat": 43.60322,
+"lon": 141.38165,
+"hakodate": false
+},
+{
+"name": "標津漁港",
+"lat": 43.66188,
+"lon": 145.13632,
+"hakodate": false
+},
+{
+"name": "雄冬漁港",
+"lat": 43.74178,
+"lon": 141.34122,
+"hakodate": false
+},
+{
+"name": "岩老漁港",
+"lat": 43.77595,
+"lon": 141.36843,
+"hakodate": false
+},
+{
+"name": "薫別漁港",
+"lat": 43.79468,
+"lon": 145.0631,
+"hakodate": false
+},
+{
+"name": "崎無異港",
+"lat": 43.82431,
+"lon": 145.08944,
+"hakodate": false
+},
+{
+"name": "別苅漁港",
+"lat": 43.83344,
+"lon": 141.47537,
+"hakodate": false
+},
+{
+"name": "峯浜漁港",
+"lat": 43.8742,
+"lon": 145.09596,
+"hakodate": false
+},
+{
+"name": "阿分漁港",
+"lat": 43.89177,
+"lon": 141.60285,
+"hakodate": false
+},
+{
+"name": "斜里漁港",
+"lat": 43.9166,
+"lon": 144.66146,
+"hakodate": false
+},
+{
+"name": "礼受漁港",
+"lat": 43.91823,
+"lon": 141.61987,
+"hakodate": false
+},
+{
+"name": "呼人漁港",
+"lat": 43.96741,
+"lon": 144.19705,
+"hakodate": false
+},
+{
+"name": "三泊漁港",
+"lat": 43.98176,
+"lon": 141.64617,
+"hakodate": false
+},
+{
+"name": "松法漁港",
+"lat": 43.98911,
+"lon": 145.16391,
+"hakodate": false
+},
+{
+"name": "鱒浦漁港",
+"lat": 43.99102,
+"lon": 144.29843,
+"hakodate": false
+},
+{
+"name": "臼谷漁港",
+"lat": 43.99917,
+"lon": 141.64778,
+"hakodate": false
+},
+{
+"name": "羅臼漁港",
+"lat": 44.01722,
+"lon": 145.19833,
+"hakodate": false
+},
+{
+"name": "能取漁港",
+"lat": 44.04212,
+"lon": 144.18232,
+"hakodate": false
+},
+{
+"name": "常呂漁港",
+"lat": 44.12517,
+"lon": 144.10094,
+"hakodate": false
+},
+{
+"name": "栄浦漁港",
+"lat": 44.12794,
+"lon": 143.96901,
+"hakodate": false
+},
+{
+"name": "芭露漁港",
+"lat": 44.1475,
+"lon": 143.71812,
+"hakodate": false
+},
+{
+"name": "鬼鹿漁港",
+"lat": 44.16,
+"lon": 141.65222,
+"hakodate": false
+},
+{
+"name": "相泊漁港",
+"lat": 44.18965,
+"lon": 145.32443,
+"hakodate": false
+},
+{
+"name": "力昼漁港",
+"lat": 44.22424,
+"lon": 141.65449,
+"hakodate": false
+},
+{
+"name": "湧別漁港",
+"lat": 44.23183,
+"lon": 143.62227,
+"hakodate": false
+},
+{
+"name": "苫前漁港",
+"lat": 44.31091,
+"lon": 141.64568,
+"hakodate": false
+},
+{
+"name": "前浜漁港",
+"lat": 44.42698,
+"lon": 141.33229,
+"hakodate": false
+},
+{
+"name": "沙留漁港",
+"lat": 44.43065,
+"lon": 143.22794,
+"hakodate": false
+},
+{
+"name": "西浦漁港",
+"lat": 44.44114,
+"lon": 141.39756,
+"hakodate": false
+},
+{
+"name": "興部漁港",
+"lat": 44.47787,
+"lon": 143.1385,
+"hakodate": false
+},
+{
+"name": "沢木漁港",
+"lat": 44.52222,
+"lon": 143.06722,
+"hakodate": false
+},
+{
+"name": "初浦漁港",
+"lat": 44.53364,
+"lon": 141.7639,
+"hakodate": false
+},
+{
+"name": "豊岬漁港",
+"lat": 44.56475,
+"lon": 141.77501,
+"hakodate": false
+},
+{
+"name": "雄武漁港",
+"lat": 44.58655,
+"lon": 142.96349,
+"hakodate": false
+},
+{
+"name": "幌内漁港",
+"lat": 44.65922,
+"lon": 142.87907,
+"hakodate": false
+},
+{
+"name": "音標漁港",
+"lat": 44.70783,
+"lon": 142.81629,
+"hakodate": false
+},
+{
+"name": "遠別漁港",
+"lat": 44.72279,
+"lon": 141.78306,
+"hakodate": false
+},
+{
+"name": "山臼漁港",
+"lat": 44.82973,
+"lon": 142.68115,
+"hakodate": false
+},
+{
+"name": "岡島漁港",
+"lat": 44.87252,
+"lon": 142.64047,
+"hakodate": false
+},
+{
+"name": "問牧漁港",
+"lat": 44.98966,
+"lon": 142.54495,
+"hakodate": false
+},
+{
+"name": "斜内漁港",
+"lat": 45.06055,
+"lon": 142.48408,
+"hakodate": false
+},
+{
+"name": "御崎漁港",
+"lat": 45.10328,
+"lon": 141.22725,
+"hakodate": false
+},
+{
+"name": "南浜漁港",
+"lat": 45.10856,
+"lon": 141.27252,
+"hakodate": false
+},
+{
+"name": "頓別漁港",
+"lat": 45.1455,
+"lon": 142.38007,
+"hakodate": false
+},
+{
+"name": "蘭泊漁港",
+"lat": 45.1541,
+"lon": 141.1517,
+"hakodate": false
+},
+{
+"name": "新湊漁港",
+"lat": 45.20493,
+"lon": 141.13892,
+"hakodate": false
+},
+{
+"name": "本泊漁港",
+"lat": 45.24373,
+"lon": 141.17153,
+"hakodate": false
+},
+{
+"name": "知床漁港",
+"lat": 45.27464,
+"lon": 141.03476,
+"hakodate": false
+},
+{
+"name": "浜猿払港",
+"lat": 45.2793,
+"lon": 142.23057,
+"hakodate": false
+},
+{
+"name": "差閉漁港",
+"lat": 45.2802,
+"lon": 141.04559,
+"hakodate": false
+},
+{
+"name": "元地漁港",
+"lat": 45.30519,
+"lon": 141.02198,
+"hakodate": false
+},
+{
+"name": "抜海漁港",
+"lat": 45.31139,
+"lon": 141.60833,
+"hakodate": false
+},
+{
+"name": "内路漁港",
+"lat": 45.38907,
+"lon": 141.05419,
+"hakodate": false
+},
+{
+"name": "声問漁港",
+"lat": 45.4095,
+"lon": 141.75576,
+"hakodate": false
+},
+{
+"name": "鉄府漁港",
+"lat": 45.41656,
+"lon": 140.99031,
+"hakodate": false
+},
+{
+"name": "東浦漁港",
+"lat": 45.42444,
+"lon": 142.03528,
+"hakodate": false
+},
+{
+"name": "浜中漁港",
+"lat": 45.43684,
+"lon": 140.99392,
+"hakodate": false
+},
+{
+"name": "幌泊漁港",
+"lat": 45.45517,
+"lon": 141.04197,
+"hakodate": false
+},
+{
+"name": "富磯漁港",
+"lat": 45.46381,
+"lon": 141.87522,
+"hakodate": false
+},
+{
+"name": "宗谷漁港",
+"lat": 45.51312,
+"lon": 141.89382,
+"hakodate": false
 },
 {
 "name": "津軽海峡",
 "lat": 41.6,
-"lon": 140.8
+"lon": 140.8,
+"hakodate": true
 },
 {
-"name": "青森港",
-"lat": 40.86012,
-"lon": 140.77854
+"name": "新ひだか",
+"lat": 42.342,
+"lon": 142.369,
+"hakodate": false
 },
 {
-"name": "小湊港",
-"lat": 40.94334,
-"lon": 140.99194
+"name": "屈斜路湖",
+"lat": 43.62,
+"lon": 144.325,
+"hakodate": false
 },
 {
-"name": "川内港",
-"lat": 41.19605,
-"lon": 140.9882
-},
-{
-"name": "大湊港",
-"lat": 41.25717,
-"lon": 141.16749
+"name": "朱鞠内湖",
+"lat": 44.333,
+"lon": 142.167,
+"hakodate": false
 },
 {
 "name": "松前港",
 "lat": 41.42091,
-"lon": 140.08814
-},
-{
-"name": "大間港",
-"lat": 41.52958,
-"lon": 140.89868
+"lon": 140.08814,
+"hakodate": true
 },
 {
 "name": "函館港",
 "lat": 41.79083,
-"lon": 140.69389
+"lon": 140.69389,
+"hakodate": true
 },
 {
 "name": "江差港",
 "lat": 41.86803,
-"lon": 140.11976
+"lon": 140.11976,
+"hakodate": true
+},
+{
+"name": "旭漁港",
+"lat": 42.0625,
+"lon": 143.06278,
+"hakodate": false
+},
+{
+"name": "浦河港",
+"lat": 42.1652,
+"lon": 142.7602,
+"hakodate": false
 },
 {
 "name": "奧尻港",
 "lat": 42.17197,
-"lon": 139.52159
+"lon": 139.52159,
+"hakodate": true
+},
+{
+"name": "十勝港",
+"lat": 42.29556,
+"lon": 143.33444,
+"hakodate": false
 },
 {
 "name": "室蘭港",
 "lat": 42.34796,
-"lon": 140.95977
+"lon": 140.95977,
+"hakodate": true
 },
 {
 "name": "瀬棚港",
 "lat": 42.45278,
-"lon": 139.83889
+"lon": 139.83889,
+"hakodate": true
 },
 {
 "name": "白老港",
 "lat": 42.51797,
-"lon": 141.3202
+"lon": 141.3202,
+"hakodate": true
+},
+{
+"name": "釧路港",
+"lat": 42.98455,
+"lon": 144.32336,
+"hakodate": false
+},
+{
+"name": "岩内港",
+"lat": 42.99305,
+"lon": 140.50957,
+"hakodate": false
+},
+{
+"name": "堀株港",
+"lat": 43.0305,
+"lon": 140.52112,
+"hakodate": false
+},
+{
+"name": "盃漁港",
+"lat": 43.10711,
+"lon": 140.45273,
+"hakodate": false
+},
+{
+"name": "小樽港",
+"lat": 43.20028,
+"lon": 141.01861,
+"hakodate": false
+},
+{
+"name": "余市港",
+"lat": 43.21056,
+"lon": 140.78111,
+"hakodate": false
+},
+{
+"name": "石狩港",
+"lat": 43.26303,
+"lon": 141.3524,
+"hakodate": false
+},
+{
+"name": "根室港",
+"lat": 43.34519,
+"lon": 145.57535,
+"hakodate": false
+},
+{
+"name": "幌漁港",
+"lat": 43.64985,
+"lon": 141.3475,
+"hakodate": false
+},
+{
+"name": "忠類港",
+"lat": 43.72537,
+"lon": 145.09584,
+"hakodate": false
+},
+{
+"name": "増毛港",
+"lat": 43.86134,
+"lon": 141.52702,
+"hakodate": false
+},
+{
+"name": "留萌港",
+"lat": 43.96444,
+"lon": 141.62889,
+"hakodate": false
+},
+{
+"name": "網走港",
+"lat": 44.02872,
+"lon": 144.2861,
+"hakodate": false
+},
+{
+"name": "紋別港",
+"lat": 44.36058,
+"lon": 143.36854,
+"hakodate": false
+},
+{
+"name": "羽幌港",
+"lat": 44.37465,
+"lon": 141.6965,
+"hakodate": false
+},
+{
+"name": "天売港",
+"lat": 44.43996,
+"lon": 141.33447,
+"hakodate": false
+},
+{
+"name": "焼尻港",
+"lat": 44.44736,
+"lon": 141.42434,
+"hakodate": false
+},
+{
+"name": "天塩港",
+"lat": 44.88273,
+"lon": 141.72979,
+"hakodate": false
+},
+{
+"name": "枝幸港",
+"lat": 44.93611,
+"lon": 142.59306,
+"hakodate": false
+},
+{
+"name": "沓形港",
+"lat": 45.19263,
+"lon": 141.13397,
+"hakodate": false
+},
+{
+"name": "鴛泊港",
+"lat": 45.23881,
+"lon": 141.23504,
+"hakodate": false
+},
+{
+"name": "香深港",
+"lat": 45.30105,
+"lon": 141.04959,
+"hakodate": false
+},
+{
+"name": "稚内港",
+"lat": 45.41455,
+"lon": 141.70685,
+"hakodate": false
+},
+{
+"name": "宗谷港",
+"lat": 45.52313,
+"lon": 141.94571,
+"hakodate": false
 },
 {
 "name": "木古内",
 "lat": 41.678,
-"lon": 140.436
+"lon": 140.436,
+"hakodate": true
 },
 {
 "name": "福島町",
 "lat": 41.483,
-"lon": 140.253
+"lon": 140.253,
+"hakodate": true
 },
 {
 "name": "せたな",
 "lat": 42.449,
-"lon": 139.853
+"lon": 139.853,
+"hakodate": true
 },
 {
 "name": "長万部",
 "lat": 42.513,
-"lon": 140.374
+"lon": 140.374,
+"hakodate": true
 },
 {
 "name": "南茅部",
 "lat": 41.934,
-"lon": 140.959
+"lon": 140.959,
+"hakodate": true
 },
 {
 "name": "椴法華",
 "lat": 41.879,
-"lon": 141.085
+"lon": 141.085,
+"hakodate": true
 },
 {
 "name": "大森浜",
 "lat": 41.757,
-"lon": 140.745
+"lon": 140.745,
+"hakodate": true
 },
 {
 "name": "緑の島",
 "lat": 41.766,
-"lon": 140.715
+"lon": 140.715,
+"hakodate": true
 },
 {
 "name": "海岸町",
 "lat": 41.788,
-"lon": 140.734
+"lon": 140.734,
+"hakodate": true
 },
 {
 "name": "七重浜",
 "lat": 41.806,
-"lon": 140.69
+"lon": 140.69,
+"hakodate": true
 },
 {
 "name": "茂辺地",
 "lat": 41.746,
-"lon": 140.567
+"lon": 140.567,
+"hakodate": true
 },
 {
 "name": "尾札部",
 "lat": 41.925,
-"lon": 140.965
+"lon": 140.965,
+"hakodate": true
 },
 {
 "name": "噴火湾",
 "lat": 42.25,
-"lon": 140.6
+"lon": 140.6,
+"hakodate": true
 },
 {
 "name": "函館山",
 "lat": 41.759,
-"lon": 140.705
+"lon": 140.705,
+"hakodate": true
+},
+{
+"name": "石狩湾",
+"lat": 43.3,
+"lon": 141.2,
+"hakodate": false
+},
+{
+"name": "神威岬",
+"lat": 43.331,
+"lon": 140.347,
+"hakodate": false
+},
+{
+"name": "苫小牧",
+"lat": 42.634,
+"lon": 141.606,
+"hakodate": true
+},
+{
+"name": "むかわ",
+"lat": 42.577,
+"lon": 141.929,
+"hakodate": false
+},
+{
+"name": "えりも",
+"lat": 41.927,
+"lon": 143.147,
+"hakodate": false
+},
+{
+"name": "襟裳岬",
+"lat": 41.925,
+"lon": 143.246,
+"hakodate": false
+},
+{
+"name": "納沙布",
+"lat": 43.386,
+"lon": 145.818,
+"hakodate": false
+},
+{
+"name": "佐呂間",
+"lat": 44.021,
+"lon": 143.772,
+"hakodate": false
+},
+{
+"name": "浜頓別",
+"lat": 45.126,
+"lon": 142.359,
+"hakodate": false
+},
+{
+"name": "初山別",
+"lat": 44.546,
+"lon": 141.761,
+"hakodate": false
+},
+{
+"name": "支笏湖",
+"lat": 42.747,
+"lon": 141.35,
+"hakodate": true
+},
+{
+"name": "洞爺湖",
+"lat": 42.603,
+"lon": 140.843,
+"hakodate": true
+},
+{
+"name": "阿寒湖",
+"lat": 43.439,
+"lon": 144.096,
+"hakodate": false
+},
+{
+"name": "然別湖",
+"lat": 43.3,
+"lon": 143.1,
+"hakodate": false
 },
 {
 "name": "函館",
 "lat": 41.7687,
-"lon": 140.729
+"lon": 140.729,
+"hakodate": true
 },
 {
 "name": "七飯",
 "lat": 41.886,
-"lon": 140.688
+"lon": 140.688,
+"hakodate": true
 },
 {
 "name": "北斗",
 "lat": 41.824,
-"lon": 140.653
+"lon": 140.653,
+"hakodate": true
 },
 {
 "name": "上磯",
 "lat": 41.818,
-"lon": 140.636
+"lon": 140.636,
+"hakodate": true
 },
 {
 "name": "知内",
 "lat": 41.602,
-"lon": 140.414
+"lon": 140.414,
+"hakodate": true
 },
 {
 "name": "松前",
 "lat": 41.43,
-"lon": 140.108
+"lon": 140.108,
+"hakodate": true
 },
 {
 "name": "江差",
 "lat": 41.869,
-"lon": 140.127
+"lon": 140.127,
+"hakodate": true
 },
 {
 "name": "乙部",
 "lat": 41.973,
-"lon": 140.137
+"lon": 140.137,
+"hakodate": true
 },
 {
 "name": "奥尻",
 "lat": 42.161,
-"lon": 139.513
+"lon": 139.513,
+"hakodate": true
 },
 {
 "name": "今金",
 "lat": 42.428,
-"lon": 140.012
+"lon": 140.012,
+"hakodate": true
 },
 {
 "name": "八雲",
 "lat": 42.254,
-"lon": 140.265
+"lon": 140.265,
+"hakodate": true
 },
 {
 "name": "森町",
 "lat": 42.107,
-"lon": 140.575
+"lon": 140.575,
+"hakodate": true
 },
 {
 "name": "鹿部",
 "lat": 42.028,
-"lon": 140.814
+"lon": 140.814,
+"hakodate": true
 },
 {
 "name": "恵山",
 "lat": 41.82,
-"lon": 141.077
+"lon": 141.077,
+"hakodate": true
 },
 {
 "name": "戸井",
 "lat": 41.766,
-"lon": 140.957
+"lon": 140.957,
+"hakodate": true
 },
 {
 "name": "湯川",
 "lat": 41.771,
-"lon": 140.783
+"lon": 140.783,
+"hakodate": true
 },
 {
 "name": "港町",
 "lat": 41.806,
-"lon": 140.737
+"lon": 140.737,
+"hakodate": true
 },
 {
 "name": "有川",
 "lat": 41.805,
-"lon": 140.7
+"lon": 140.7,
+"hakodate": true
 },
 {
 "name": "当別",
 "lat": 41.725,
-"lon": 140.527
+"lon": 140.527,
+"hakodate": true
 },
 {
 "name": "釜谷",
 "lat": 41.7,
-"lon": 140.498
+"lon": 140.498,
+"hakodate": true
 },
 {
 "name": "汐首",
 "lat": 41.73,
-"lon": 140.99
+"lon": 140.99,
+"hakodate": true
 },
 {
 "name": "日浦",
 "lat": 41.779,
-"lon": 141.019
+"lon": 141.019,
+"hakodate": true
 },
 {
 "name": "古部",
 "lat": 41.935,
-"lon": 141.016
+"lon": 141.016,
+"hakodate": true
 },
 {
 "name": "臼尻",
 "lat": 41.953,
-"lon": 140.913
+"lon": 140.913,
+"hakodate": true
 },
 {
 "name": "砂原",
 "lat": 42.133,
-"lon": 140.683
+"lon": 140.683,
+"hakodate": true
 },
 {
 "name": "掛澗",
 "lat": 42.136,
-"lon": 140.717
+"lon": 140.717,
+"hakodate": true
 },
 {
 "name": "落部",
 "lat": 42.212,
-"lon": 140.388
+"lon": 140.388,
+"hakodate": true
 },
 {
 "name": "黒岩",
 "lat": 42.26,
-"lon": 140.21
+"lon": 140.21,
+"hakodate": true
 },
 {
 "name": "道南",
 "lat": 41.9,
-"lon": 140.5
+"lon": 140.5,
+"hakodate": true
 },
 {
 "name": "渡島",
 "lat": 41.9,
-"lon": 140.6
+"lon": 140.6,
+"hakodate": true
 },
 {
 "name": "檜山",
 "lat": 41.9,
-"lon": 140.1
+"lon": 140.1,
+"hakodate": true
+},
+{
+"name": "札幌",
+"lat": 43.062,
+"lon": 141.354,
+"hakodate": false
+},
+{
+"name": "小樽",
+"lat": 43.191,
+"lon": 141.0,
+"hakodate": false
+},
+{
+"name": "石狩",
+"lat": 43.171,
+"lon": 141.315,
+"hakodate": false
+},
+{
+"name": "余市",
+"lat": 43.195,
+"lon": 140.787,
+"hakodate": false
+},
+{
+"name": "古平",
+"lat": 43.265,
+"lon": 140.636,
+"hakodate": false
+},
+{
+"name": "積丹",
+"lat": 43.306,
+"lon": 140.62,
+"hakodate": false
+},
+{
+"name": "岩内",
+"lat": 42.979,
+"lon": 140.509,
+"hakodate": false
+},
+{
+"name": "寿都",
+"lat": 42.795,
+"lon": 140.226,
+"hakodate": true
+},
+{
+"name": "島牧",
+"lat": 42.691,
+"lon": 140.061,
+"hakodate": true
+},
+{
+"name": "瀬棚",
+"lat": 42.449,
+"lon": 139.853,
+"hakodate": true
+},
+{
+"name": "室蘭",
+"lat": 42.315,
+"lon": 140.974,
+"hakodate": true
+},
+{
+"name": "登別",
+"lat": 42.413,
+"lon": 141.107,
+"hakodate": true
+},
+{
+"name": "白老",
+"lat": 42.551,
+"lon": 141.356,
+"hakodate": true
+},
+{
+"name": "厚真",
+"lat": 42.726,
+"lon": 141.883,
+"hakodate": false
+},
+{
+"name": "日高",
+"lat": 42.478,
+"lon": 142.07,
+"hakodate": false
+},
+{
+"name": "新冠",
+"lat": 42.337,
+"lon": 142.337,
+"hakodate": false
+},
+{
+"name": "静内",
+"lat": 42.342,
+"lon": 142.369,
+"hakodate": false
+},
+{
+"name": "浦河",
+"lat": 42.168,
+"lon": 142.768,
+"hakodate": false
+},
+{
+"name": "様似",
+"lat": 42.126,
+"lon": 142.936,
+"hakodate": false
+},
+{
+"name": "広尾",
+"lat": 42.283,
+"lon": 143.312,
+"hakodate": false
+},
+{
+"name": "大樹",
+"lat": 42.497,
+"lon": 143.279,
+"hakodate": false
+},
+{
+"name": "豊頃",
+"lat": 42.806,
+"lon": 143.516,
+"hakodate": false
+},
+{
+"name": "浦幌",
+"lat": 42.808,
+"lon": 143.654,
+"hakodate": false
+},
+{
+"name": "十勝",
+"lat": 42.9,
+"lon": 143.3,
+"hakodate": false
+},
+{
+"name": "白糠",
+"lat": 42.953,
+"lon": 144.071,
+"hakodate": false
+},
+{
+"name": "釧路",
+"lat": 42.985,
+"lon": 144.382,
+"hakodate": false
+},
+{
+"name": "厚岸",
+"lat": 43.052,
+"lon": 144.847,
+"hakodate": false
+},
+{
+"name": "浜中",
+"lat": 43.095,
+"lon": 145.129,
+"hakodate": false
+},
+{
+"name": "根室",
+"lat": 43.33,
+"lon": 145.583,
+"hakodate": false
+},
+{
+"name": "別海",
+"lat": 43.393,
+"lon": 145.113,
+"hakodate": false
+},
+{
+"name": "標津",
+"lat": 43.662,
+"lon": 145.133,
+"hakodate": false
+},
+{
+"name": "羅臼",
+"lat": 44.021,
+"lon": 145.188,
+"hakodate": false
+},
+{
+"name": "知床",
+"lat": 44.1,
+"lon": 145.1,
+"hakodate": false
+},
+{
+"name": "斜里",
+"lat": 43.911,
+"lon": 144.666,
+"hakodate": false
+},
+{
+"name": "網走",
+"lat": 44.021,
+"lon": 144.273,
+"hakodate": false
+},
+{
+"name": "能取",
+"lat": 44.09,
+"lon": 144.17,
+"hakodate": false
+},
+{
+"name": "常呂",
+"lat": 44.117,
+"lon": 143.965,
+"hakodate": false
+},
+{
+"name": "湧別",
+"lat": 44.198,
+"lon": 143.616,
+"hakodate": false
+},
+{
+"name": "紋別",
+"lat": 44.356,
+"lon": 143.354,
+"hakodate": false
+},
+{
+"name": "興部",
+"lat": 44.471,
+"lon": 143.117,
+"hakodate": false
+},
+{
+"name": "雄武",
+"lat": 44.58,
+"lon": 142.963,
+"hakodate": false
+},
+{
+"name": "枝幸",
+"lat": 44.94,
+"lon": 142.584,
+"hakodate": false
+},
+{
+"name": "猿払",
+"lat": 45.332,
+"lon": 142.111,
+"hakodate": false
+},
+{
+"name": "稚内",
+"lat": 45.416,
+"lon": 141.673,
+"hakodate": false
+},
+{
+"name": "宗谷",
+"lat": 45.52,
+"lon": 141.94,
+"hakodate": false
+},
+{
+"name": "礼文",
+"lat": 45.303,
+"lon": 141.044,
+"hakodate": false
+},
+{
+"name": "利尻",
+"lat": 45.182,
+"lon": 141.238,
+"hakodate": false
+},
+{
+"name": "豊富",
+"lat": 45.1,
+"lon": 141.778,
+"hakodate": false
+},
+{
+"name": "幌延",
+"lat": 45.013,
+"lon": 141.853,
+"hakodate": false
+},
+{
+"name": "天塩",
+"lat": 44.89,
+"lon": 141.743,
+"hakodate": false
+},
+{
+"name": "遠別",
+"lat": 44.72,
+"lon": 141.794,
+"hakodate": false
+},
+{
+"name": "羽幌",
+"lat": 44.36,
+"lon": 141.699,
+"hakodate": false
+},
+{
+"name": "苫前",
+"lat": 44.308,
+"lon": 141.653,
+"hakodate": false
+},
+{
+"name": "小平",
+"lat": 44.013,
+"lon": 141.664,
+"hakodate": false
+},
+{
+"name": "留萌",
+"lat": 43.941,
+"lon": 141.637,
+"hakodate": false
+},
+{
+"name": "増毛",
+"lat": 43.858,
+"lon": 141.522,
+"hakodate": false
+},
+{
+"name": "雄冬",
+"lat": 43.68,
+"lon": 141.38,
+"hakodate": false
+},
+{
+"name": "浜益",
+"lat": 43.59,
+"lon": 141.39,
+"hakodate": false
+},
+{
+"name": "厚田",
+"lat": 43.39,
+"lon": 141.43,
+"hakodate": false
+},
+{
+"name": "道央",
+"lat": 43.0,
+"lon": 141.5,
+"hakodate": false
+},
+{
+"name": "道東",
+"lat": 43.3,
+"lon": 144.5,
+"hakodate": false
+},
+{
+"name": "道北",
+"lat": 44.5,
+"lon": 142.0,
+"hakodate": false
+},
+{
+"name": "大沼",
+"lat": 42.0,
+"lon": 140.67,
+"hakodate": true
+},
+{
+"name": "旭川",
+"lat": 43.77,
+"lon": 142.365,
+"hakodate": false
+},
+{
+"name": "帯広",
+"lat": 42.924,
+"lon": 143.196,
+"hakodate": false
 }
 ]

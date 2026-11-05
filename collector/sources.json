@@ -1,5 +1,19 @@
 [
   {
+    "name": "Google ニュース（北海道 釣果）",
+    "url": "https://news.google.com/rss/search?q=%E5%8C%97%E6%B5%B7%E9%81%93+%E9%87%A3%E6%9E%9C&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true
+  },
+  {
+    "name": "Google ニュース（北海道 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E5%8C%97%E6%B5%B7%E9%81%93+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true
+  },
+  {
     "name": "Google ニュース（函館 釣り）",
     "url": "https://news.google.com/rss/search?q=%E5%87%BD%E9%A4%A8+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
     "type": "rss",
@@ -14,17 +28,17 @@
     "needRegion": true
   },
   {
-    "name": "FISHLAND 函館西桔梗店",
-    "url": "https://fishland.jp/tag/hakodate/feed/",
+    "name": "FISHLAND（道内全店）",
+    "url": "https://fishland.jp/feed/",
     "type": "auto",
-    "fallback": "https://fishland.jp/tag/hakodate/",
+    "fallback": "https://fishland.jp/fishing-risult/",
     "needRegion": false
   },
   {
-    "name": "みんなの北海道釣り情報（函館市）",
-    "url": "https://fishinglife.hatenadiary.jp/rss/category/%E5%87%BD%E9%A4%A8%E5%B8%82",
+    "name": "みんなの北海道釣り情報",
+    "url": "https://fishinglife.hatenadiary.jp/rss",
     "type": "auto",
-    "fallback": "https://fishinglife.hatenadiary.jp/archive/category/%E5%87%BD%E9%A4%A8%E5%B8%82",
+    "fallback": "https://fishinglife.hatenadiary.jp/",
     "needRegion": false
   },
   {
@@ -35,8 +49,8 @@
     "needRegion": false
   },
   {
-    "name": "エギCOM 函館",
-    "url": "https://www.yamaria.com/community/catch/egiou/cities/1",
+    "name": "エギCOM 北海道",
+    "url": "https://www.yamaria.com/community/catch/egiou/prefectures/1",
     "type": "html",
     "filter": "/catches/",
     "needRegion": false,
@@ -46,7 +60,30 @@
     "name": "タックルベリー函館店",
     "url": "https://www.tackleberry.co.jp/shop/30011066/category/%E9%87%A3%E6%9E%9C%E6%83%85%E5%A0%B1/",
     "type": "auto",
-    "filter": "/shop/30011066/",
     "needRegion": false
+  },
+  {
+    "name": "TSURINEWS",
+    "url": "https://tsurinews.jp/feed/",
+    "type": "auto",
+    "needRegion": true
+  },
+  {
+    "name": "ルアマガ＋",
+    "url": "https://plus.luremaga.jp/feed/",
+    "type": "auto",
+    "needRegion": true
+  },
+  {
+    "name": "TSURI HACK",
+    "url": "https://tsurihack.com/feed",
+    "type": "auto",
+    "needRegion": true
+  },
+  {
+    "name": "釣りビジョン ニュース",
+    "url": "https://www.fishing-v.jp/news/",
+    "type": "auto",
+    "needRegion": true
   }
 ]

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""函館周辺の釣果情報を集めて 1 本の RSS にする（Fog アプリ用）。
+"""北海道の釣果情報を集めて RSS にする（Fog アプリ用）。北海道全域と函館周辺の 2 本。
 
 - 取得元は collector/sources.json（RSS / HTML のリンク一覧 / 自動判定）
 - 函館周辺の記事だけ残す（函館・道南・近くの港名や地名を含む。ニュース検索は釣りの語も必要）
@@ -27,12 +27,13 @@ UA = "Fog-feeds/1.0 (+https://github.com/knowlsaws/fog-feeds; personal fishing l
 TZ = dt.timezone(dt.timedelta(hours=9))
 NOW = dt.datetime.now(TZ)
 KEEP_DAYS = 90
-MAX_ITEMS = 600
+MAX_ITEMS = 1500
 MAX_ENRICH = 40
 MAX_ENRICH_PER_SOURCE = 12
 MAX_NEW_PER_SOURCE = 30
 FISHING_WORDS = ["釣", "アイナメ", "アブラコ", "ソイ", "ホッケ", "カレイ", "ヒラメ", "ブリ", "イカ", "サバ", "サケ", "ロックフィッシュ", "ジギング", "エギング", "投げ", "ルアー", "船", "漁港", "堤防", "岸壁", "沖堤"]
-REGION_WORDS = ["函館", "道南", "渡島", "檜山", "噴火湾", "津軽海峡"]
+REGION_WORDS = ["北海道", "道南", "道央", "道東", "道北", "渡島", "檜山", "噴火湾", "津軽海峡", "オホーツク", "石狩湾", "宗谷"]
+HAKODATE_WORDS = ["函館", "道南", "渡島", "檜山", "噴火湾", "津軽海峡"]
 NAV_WORDS = ["トップ", "ホーム", "会社", "お問い合わせ", "お問合せ", "問い合わせ", "プライバシー", "サイトマップ", "ログイン", "カート", "採用", "アクセス", "店舗案内",
              "利用規約", "特定商取引", "home", "contact", "privacy", "login", "cart", "sitemap", "about", "/category/", "/tag/", "page/", "feed", "wp-login", "javascript:"]
 
@@ -307,9 +308,17 @@ def extract_species(text):
 
 
 def is_regional(text):
+    """北海道の記事か（道名・地域名・道内の港名や地名を含む）"""
     if any(w in text for w in REGION_WORDS):
         return True
     return bool(extract_places(text))
+
+
+def is_hakodate(text, places):
+    """函館周辺（道南）の記事か"""
+    if any(w in text for w in HAKODATE_WORDS):
+        return True
+    return any(p.get("hakodate") for p in places)
 
 
 def is_fishing(text):
@@ -322,14 +331,28 @@ def rfc822(d):
     return email.utils.format_datetime(d)
 
 
-def write_outputs(items):
+def write_outputs(all_items):
     os.makedirs(os.path.join(ROOT, "docs"), exist_ok=True)
-    items = sorted(items, key=lambda i: i.get("date") or i["firstSeen"], reverse=True)
+    all_items = sorted(all_items, key=lambda i: i.get("date") or i["firstSeen"], reverse=True)
+    write_feed(all_items, "hokkaido", "北海道の釣果情報（fog-feeds）", "北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。")
+    write_feed([i for i in all_items if i.get("hakodate")], "hakodate", "函館周辺の釣果情報（fog-feeds）", "道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。")
+    rows = "\n".join(f'<li><a href="{html.escape(i["link"])}">{html.escape(i["title"])}</a> <small>{(i.get("date") or i["firstSeen"]).strftime("%m/%d")} {html.escape(i["source"])}'
+                     + (" · " + html.escape("・".join(i["places"][:2])) if i.get("places") else "")
+                     + (" · " + html.escape("・".join(i["species"])) if i.get("species") else "") + "</small></li>" for i in all_items[:150])
+    page = f"""<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>北海道の釣果情報</title>
+<style>body{{font-family:-apple-system,sans-serif;background:#0B0B0C;color:#eee;margin:16px}}a{{color:#9cc49f}}small{{color:#888}}li{{margin:6px 0}}</style></head>
+<body><h1>北海道の釣果情報</h1><p>RSS: <a href="hokkaido.xml">北海道全域</a> ・ <a href="hakodate.xml">函館周辺だけ</a> ・ 更新 {NOW.strftime("%Y-%m-%d %H:%M")} JST ・ {len(all_items)} 件</p><ul>{rows}</ul></body></html>"""
+    with open(os.path.join(ROOT, "docs", "index.html"), "w", encoding="utf-8") as f:
+        f.write(page)
+    open(os.path.join(ROOT, "docs", ".nojekyll"), "w").close()
+
+
+def write_feed(items, name, title, description):
     rss = ET.Element("rss", version="2.0")
     ch = ET.SubElement(rss, "channel")
-    ET.SubElement(ch, "title").text = "函館周辺の釣果情報（fog-feeds）"
+    ET.SubElement(ch, "title").text = title
     ET.SubElement(ch, "link").text = "https://github.com/knowlsaws/fog-feeds"
-    ET.SubElement(ch, "description").text = "道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。"
+    ET.SubElement(ch, "description").text = description
     ET.SubElement(ch, "lastBuildDate").text = rfc822(NOW)
     for it in items:
         e = ET.SubElement(ch, "item")
@@ -351,17 +374,9 @@ def write_outputs(items):
         ET.SubElement(e, "category").text = it["source"]
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
-    tree.write(os.path.join(ROOT, "docs", "hakodate.xml"), encoding="utf-8", xml_declaration=True)
-    with open(os.path.join(ROOT, "docs", "hakodate.json"), "w", encoding="utf-8") as f:
+    tree.write(os.path.join(ROOT, "docs", f"{name}.xml"), encoding="utf-8", xml_declaration=True)
+    with open(os.path.join(ROOT, "docs", f"{name}.json"), "w", encoding="utf-8") as f:
         json.dump([{**it, "date": (it.get("date") or it["firstSeen"]).isoformat(), "firstSeen": it["firstSeen"].isoformat()} for it in items], f, ensure_ascii=False, indent=1)
-    rows = "\n".join(f'<li><a href="{html.escape(i["link"])}">{html.escape(i["title"])}</a> <small>{(i.get("date") or i["firstSeen"]).strftime("%m/%d")} {html.escape(i["source"])}'
-                     + (" · " + html.escape("・".join(i["species"])) if i.get("species") else "") + "</small></li>" for i in items[:100])
-    page = f"""<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>函館周辺の釣果情報</title>
-<style>body{{font-family:-apple-system,sans-serif;background:#0B0B0C;color:#eee;margin:16px}}a{{color:#9cc49f}}small{{color:#888}}li{{margin:6px 0}}</style></head>
-<body><h1>函館周辺の釣果情報</h1><p>RSS: <a href="hakodate.xml">hakodate.xml</a> ・ 更新 {NOW.strftime("%Y-%m-%d %H:%M")} JST ・ {len(items)} 件</p><ul>{rows}</ul></body></html>"""
-    with open(os.path.join(ROOT, "docs", "index.html"), "w", encoding="utf-8") as f:
-        f.write(page)
-    open(os.path.join(ROOT, "docs", ".nojekyll"), "w").close()
 
 
 # ---------- 本体
@@ -444,8 +459,10 @@ def main():
                 enrich(it)
                 enriched += 1; src_enriched += 1
                 text = it["title"] + " " + it.get("summary", "")
-            it["places"] = [p["name"] for p in extract_places(text)]
+            found = extract_places(text)
+            it["places"] = [p["name"] for p in found]
             it["species"] = extract_species(text)
+            it["hakodate"] = is_hakodate(text, found)
             it["firstSeen"] = NOW
             known[it["link"]] = it
             kept += 1
