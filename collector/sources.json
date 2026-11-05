@@ -93,5 +93,124 @@
     "url": "https://tsurihack.com/",
     "type": "auto",
     "needRegion": true
+  },
+  {
+    "name": "北海道釣り情報ブログ（道南エリア釣行記）",
+    "url": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/feed/",
+    "type": "auto",
+    "fallback": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "ヒトニツリ（道南釣行記録）",
+    "url": "https://hitoni-start.com/feed/",
+    "type": "auto",
+    "fallback": "https://hitoni-start.com/",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "気ままに道南釣行記",
+    "url": "https://sshiimaaa.hatenablog.com/rss",
+    "type": "auto",
+    "fallback": "https://sshiimaaa.hatenablog.com/",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "マジカルアワー（噴火湾の遊漁船）",
+    "url": "https://www.magicalhour.net/rss/blog",
+    "type": "auto",
+    "fallback": "https://www.magicalhour.net/%E3%83%96%E3%83%AD%E3%82%B0/",
+    "filter": "/20",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "鹿部漁協（今日の鹿部漁港）",
+    "url": "https://shikabe-gyogyou.jp/feed/",
+    "type": "auto",
+    "fallback": "https://shikabe-gyogyou.jp/archives/cate/blog/tsushin",
+    "filter": "/archives/",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "八雲の釣りブログ（exblog）",
+    "url": "https://vi159xz3.exblog.jp/index.xml",
+    "type": "auto",
+    "fallback": "https://vi159xz3.exblog.jp/",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "釣り情報 fishing.ne.jp（函館港周辺）",
+    "url": "https://fishing.ne.jp/fishingpost/area/hokkaido-hakodateshishikabecyou01",
+    "type": "html",
+    "filter": "/fishingpost/",
+    "needRegion": false,
+    "hakodateDefault": true
+  },
+  {
+    "name": "uosoku（釣り場まとめ）",
+    "url": "https://uosoku.com/feed/",
+    "type": "auto",
+    "fallback": "https://uosoku.com/",
+    "needRegion": true
+  },
+  {
+    "name": "にほんブログ村 北海道釣行記",
+    "url": "https://fishing.blogmura.com/hokkaidoturi/",
+    "type": "auto",
+    "needRegion": false
+  },
+  {
+    "name": "Google ニュース（噴火湾 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E5%99%B4%E7%81%AB%E6%B9%BE+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true,
+    "hakodateDefault": true
+  },
+  {
+    "name": "Google ニュース（鹿部 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E9%B9%BF%E9%83%A8+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true,
+    "hakodateDefault": true
+  },
+  {
+    "name": "Google ニュース（八雲 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E5%85%AB%E9%9B%B2+%E9%87%A3%E3%82%8A+%E5%8C%97%E6%B5%B7%E9%81%93&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true,
+    "hakodateDefault": true
+  },
+  {
+    "name": "Google ニュース（森町 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E6%A3%AE%E7%94%BA+%E9%87%A3%E3%82%8A+%E5%8C%97%E6%B5%B7%E9%81%93&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true,
+    "hakodateDefault": true
+  },
+  {
+    "name": "Google ニュース（北斗市 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E5%8C%97%E6%96%97%E5%B8%82+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true,
+    "hakodateDefault": true
+  },
+  {
+    "name": "Google ニュース（松前 江差 釣り）",
+    "url": "https://news.google.com/rss/search?q=(%E6%9D%BE%E5%89%8D+OR+%E6%B1%9F%E5%B7%AE)+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true,
+    "hakodateDefault": true
   }
 ]
