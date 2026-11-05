@@ -18,14 +18,16 @@
     "url": "https://news.google.com/rss/search?q=%E5%87%BD%E9%A4%A8+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
     "type": "rss",
     "needFishing": true,
-    "needRegion": true
+    "needRegion": true,
+    "hakodateDefault": true
   },
   {
     "name": "Google ニュース（道南 釣果）",
     "url": "https://news.google.com/rss/search?q=%E9%81%93%E5%8D%97+%E9%87%A3%E6%9E%9C&hl=ja&gl=JP&ceid=JP:ja",
     "type": "rss",
     "needFishing": true,
-    "needRegion": true
+    "needRegion": true,
+    "hakodateDefault": true
   },
   {
     "name": "FISHLAND（道内全店）",
@@ -46,7 +48,8 @@
     "url": "http://blog.fs-impact.com/?mode=rss",
     "type": "auto",
     "fallback": "http://blog.fs-impact.com/",
-    "needRegion": false
+    "needRegion": false,
+    "hakodateDefault": true
   },
   {
     "name": "エギCOM 北海道",
@@ -57,10 +60,21 @@
     "noEnrich": true
   },
   {
+    "name": "エギCOM 函館",
+    "url": "https://www.yamaria.com/community/catch/egiou/cities/1",
+    "type": "html",
+    "filter": "/catches/",
+    "needRegion": false,
+    "noEnrich": true,
+    "hakodateDefault": true
+  },
+  {
     "name": "タックルベリー函館店",
     "url": "https://www.tackleberry.co.jp/shop/30011066/category/%E9%87%A3%E6%9E%9C%E6%83%85%E5%A0%B1/",
     "type": "auto",
-    "needRegion": false
+    "needRegion": false,
+    "filter": "/shop/30011066/",
+    "hakodateDefault": true
   },
   {
     "name": "TSURINEWS",
@@ -76,13 +90,7 @@
   },
   {
     "name": "TSURI HACK",
-    "url": "https://tsurihack.com/feed",
-    "type": "auto",
-    "needRegion": true
-  },
-  {
-    "name": "釣りビジョン ニュース",
-    "url": "https://www.fishing-v.jp/news/",
+    "url": "https://tsurihack.com/",
     "type": "auto",
     "needRegion": true
   }

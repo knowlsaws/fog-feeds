@@ -462,7 +462,7 @@ def main():
             found = extract_places(text)
             it["places"] = [p["name"] for p in found]
             it["species"] = extract_species(text)
-            it["hakodate"] = is_hakodate(text, found)
+            it["hakodate"] = bool(src.get("hakodateDefault")) or is_hakodate(text, found)
             it["firstSeen"] = NOW
             known[it["link"]] = it
             kept += 1
