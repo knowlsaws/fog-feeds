@@ -467,6 +467,8 @@ def main():
             text = it["title"] + " " + it.get("summary", "")
             if src.get("needFishing") and not is_fishing(text):
                 continue
+            if src.get("needWords") and not any(w in text for w in src["needWords"]):
+                continue
             can_enrich = enriched < MAX_ENRICH and src_enriched < MAX_ENRICH_PER_SOURCE and not src.get("noEnrich")
             if src.get("needRegion") and not is_regional(text):
                 if not can_enrich:
@@ -481,6 +483,8 @@ def main():
                 enriched += 1; src_enriched += 1
                 text = it["title"] + " " + it.get("summary", "")
             found = extract_places(text)
+            if not found and src.get("defaultPlace") and src["defaultPlace"] in PLACE_BY_NAME:
+                found = [PLACE_BY_NAME[src["defaultPlace"]]]
             it["places"] = [p["name"] for p in found]
             it["species"] = extract_species(text)
             it["hakodate"] = bool(src.get("hakodateDefault")) or is_hakodate(text, found)

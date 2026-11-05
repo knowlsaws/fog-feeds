@@ -2704,5 +2704,29 @@
 "lat": 42.924,
 "lon": 143.196,
 "hakodate": false
+},
+{
+"name": "豊浦",
+"lat": 42.573,
+"lon": 140.692,
+"hakodate": true
+},
+{
+"name": "洞爺",
+"lat": 42.55,
+"lon": 140.75,
+"hakodate": true
+},
+{
+"name": "伊達",
+"lat": 42.471,
+"lon": 140.864,
+"hakodate": true
+},
+{
+"name": "虻田",
+"lat": 42.55,
+"lon": 140.76,
+"hakodate": true
 }
 ]

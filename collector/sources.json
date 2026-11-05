@@ -49,7 +49,8 @@
     "type": "auto",
     "fallback": "http://blog.fs-impact.com/",
     "needRegion": false,
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "defaultPlace": "函館"
   },
   {
     "name": "エギCOM 北海道",
@@ -66,7 +67,8 @@
     "filter": "/catches/",
     "needRegion": false,
     "noEnrich": true,
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "defaultPlace": "函館"
   },
   {
     "name": "タックルベリー函館店",
@@ -74,7 +76,8 @@
     "type": "auto",
     "needRegion": false,
     "filter": "/shop/30011066/",
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "defaultPlace": "函館"
   },
   {
     "name": "TSURINEWS",
@@ -100,15 +103,17 @@
     "type": "auto",
     "fallback": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/",
     "needRegion": false,
-    "hakodateDefault": true
-  },
-  {
-    "name": "ヒトニツリ（道南釣行記録）",
-    "url": "https://hitoni-start.com/feed/",
-    "type": "auto",
-    "fallback": "https://hitoni-start.com/",
-    "needRegion": false,
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "needWords": [
+      "釣行",
+      "釣果",
+      "漁港",
+      "釣れ",
+      "サーフ",
+      "磯",
+      "港で",
+      "ヒット"
+    ]
   },
   {
     "name": "気ままに道南釣行記",
@@ -125,16 +130,16 @@
     "fallback": "https://www.magicalhour.net/%E3%83%96%E3%83%AD%E3%82%B0/",
     "filter": "/20",
     "needRegion": false,
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "defaultPlace": "豊浦"
   },
   {
     "name": "鹿部漁協（今日の鹿部漁港）",
-    "url": "https://shikabe-gyogyou.jp/feed/",
-    "type": "auto",
-    "fallback": "https://shikabe-gyogyou.jp/archives/cate/blog/tsushin",
-    "filter": "/archives/",
+    "url": "https://shikabe-gyogyou.jp/archives/cate/blog/tsushin/feed/",
+    "type": "rss",
     "needRegion": false,
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "defaultPlace": "鹿部漁港"
   },
   {
     "name": "八雲の釣りブログ（exblog）",
@@ -142,15 +147,8 @@
     "type": "auto",
     "fallback": "https://vi159xz3.exblog.jp/",
     "needRegion": false,
-    "hakodateDefault": true
-  },
-  {
-    "name": "釣り情報 fishing.ne.jp（函館港周辺）",
-    "url": "https://fishing.ne.jp/fishingpost/area/hokkaido-hakodateshishikabecyou01",
-    "type": "html",
-    "filter": "/fishingpost/",
-    "needRegion": false,
-    "hakodateDefault": true
+    "hakodateDefault": true,
+    "defaultPlace": "八雲"
   },
   {
     "name": "uosoku（釣り場まとめ）",
@@ -158,12 +156,6 @@
     "type": "auto",
     "fallback": "https://uosoku.com/",
     "needRegion": true
-  },
-  {
-    "name": "にほんブログ村 北海道釣行記",
-    "url": "https://fishing.blogmura.com/hokkaidoturi/",
-    "type": "auto",
-    "needRegion": false
   },
   {
     "name": "Google ニュース（噴火湾 釣り）",
