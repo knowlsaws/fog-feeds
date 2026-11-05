@@ -1,13 +1,58 @@
 [
-  {"name": "Google ニュース（函館 釣り）", "url": "https://news.google.com/rss/search?q=%E5%87%BD%E9%A4%A8+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja", "type": "rss", "needFishing": true},
-  {"name": "Google ニュース（道南 釣果）", "url": "https://news.google.com/rss/search?q=%E9%81%93%E5%8D%97+%E9%87%A3%E6%9E%9C&hl=ja&gl=JP&ceid=JP:ja", "type": "rss", "needFishing": true},
-  {"name": "つりしん", "url": "https://tsurishin.com/", "type": "auto", "needRegion": true},
-  {"name": "FISHLAND 函館西桔梗店", "url": "https://fishland.jp/tag/hakodate/feed/", "type": "auto", "fallback": "https://fishland.jp/tag/hakodate/", "needRegion": false},
-  {"name": "みんなの北海道釣り情報（函館市）", "url": "https://fishinglife.hatenadiary.jp/rss/category/%E5%87%BD%E9%A4%A8%E5%B8%82", "type": "auto", "fallback": "https://fishinglife.hatenadiary.jp/archive/category/%E5%87%BD%E9%A4%A8%E5%B8%82", "needRegion": false},
-  {"name": "フィッシングショップ・インパクト", "url": "https://www.fs-impact.com/", "type": "html", "filter": "/report/", "needRegion": false},
-  {"name": "函館新聞デジタル 釣り", "url": "https://digital.hakoshin.jp/fishing/index", "type": "html", "filter": "/fishing/", "needRegion": false},
-  {"name": "アングラーズ 函館湾", "url": "https://anglers.jp/areas/472", "type": "html", "filter": "/catches/", "needRegion": false},
-  {"name": "エギCOM 函館", "url": "https://www.yamaria.com/community/catch/egiou/cities/1", "type": "html", "filter": "/community/catch/", "needRegion": false},
-  {"name": "タックルベリー函館店", "url": "https://www.tackleberry.co.jp/shop/30011066/category/%E9%87%A3%E6%9E%9C%E6%83%85%E5%A0%B1/", "type": "html", "filter": "/shop/30011066/", "needRegion": false},
-  {"name": "函館のおっさんの釣りブログ", "url": "https://pitta20.naturum.ne.jp/index.xml", "type": "auto", "fallback": "https://pitta20.naturum.ne.jp/", "needRegion": false}
+  {
+    "name": "Google ニュース（函館 釣り）",
+    "url": "https://news.google.com/rss/search?q=%E5%87%BD%E9%A4%A8+%E9%87%A3%E3%82%8A&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true
+  },
+  {
+    "name": "Google ニュース（道南 釣果）",
+    "url": "https://news.google.com/rss/search?q=%E9%81%93%E5%8D%97+%E9%87%A3%E6%9E%9C&hl=ja&gl=JP&ceid=JP:ja",
+    "type": "rss",
+    "needFishing": true,
+    "needRegion": true
+  },
+  {
+    "name": "FISHLAND 函館西桔梗店",
+    "url": "https://fishland.jp/tag/hakodate/feed/",
+    "type": "auto",
+    "fallback": "https://fishland.jp/tag/hakodate/",
+    "needRegion": false
+  },
+  {
+    "name": "みんなの北海道釣り情報（函館市）",
+    "url": "https://fishinglife.hatenadiary.jp/rss/category/%E5%87%BD%E9%A4%A8%E5%B8%82",
+    "type": "auto",
+    "fallback": "https://fishinglife.hatenadiary.jp/archive/category/%E5%87%BD%E9%A4%A8%E5%B8%82",
+    "needRegion": false
+  },
+  {
+    "name": "フィッシングショップ・インパクト",
+    "url": "https://www.fs-impact.com/",
+    "type": "html",
+    "filter": "/report/",
+    "needRegion": false
+  },
+  {
+    "name": "アングラーズ 函館湾",
+    "url": "https://anglers.jp/areas/472",
+    "type": "html",
+    "filter": "/catches/",
+    "needRegion": false
+  },
+  {
+    "name": "エギCOM 函館",
+    "url": "https://www.yamaria.com/community/catch/egiou/cities/1",
+    "type": "html",
+    "filter": "/community/catch/",
+    "needRegion": false
+  },
+  {
+    "name": "タックルベリー函館店",
+    "url": "https://www.tackleberry.co.jp/shop/30011066/category/%E9%87%A3%E6%9E%9C%E6%83%85%E5%A0%B1/",
+    "type": "html",
+    "filter": "/shop/30011066/",
+    "needRegion": false
+  }
 ]

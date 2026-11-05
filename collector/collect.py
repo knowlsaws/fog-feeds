@@ -228,6 +228,9 @@ def parse_html_links(text, base_url, source):
         label = re.sub(r"\s+", " ", html.unescape(label)).strip()
         if len(label) < 6:
             continue
+        # 月別アーカイブ（「2025年4月(14)」「/2025/04」）やページ送りは記事ではない
+        if re.match(r"^\d{4}年\s*\d{1,2}月", label) or re.search(r"/20\d\d/\d{2}/?$", u.path) or re.match(r"^(次|前|Next|Prev|»|«|\d+)$", label, re.I):
+            continue
         low = (label + " " + u.path).lower()
         if not filt and any(w.lower() in low for w in NAV_WORDS):
             continue
@@ -376,6 +379,10 @@ def collect_source(src):
             return []
     # HTML：まずページが指す RSS
     p, items = parse_html_links(text, url, src)
+    if os.environ.get("FOG_DEBUG"):
+        log(f"  [{src['name']}] title={p.title!r} feeds={p.feeds[:3]} raw links={len(p.links)}")
+        for href, label in p.links[:25]:
+            log("    ", repr(re.sub(r"\s+", " ", label).strip()[:40]), urllib.parse.urljoin(url, href)[:100])
     if kind == "auto" and p.feeds:
         feed_url = urllib.parse.urljoin(url, p.feeds[0])
         try:
@@ -421,7 +428,7 @@ def main():
                 text = it["title"] + " " + it.get("summary", "")
                 if not is_regional(text):
                     continue
-            elif (not it.get("summary") or not it.get("date")) and enriched < MAX_ENRICH:
+            elif (len(it.get("summary") or "") < 40 or not it.get("date")) and enriched < MAX_ENRICH:
                 enrich(it)
                 enriched += 1
                 text = it["title"] + " " + it.get("summary", "")
