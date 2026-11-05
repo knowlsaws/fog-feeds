@@ -4,119 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 05 Nov 2026 12:35:27 +0900</lastBuildDate>
-    <item>
-      <title>■トップページ</title>
-      <link>https://www.fs-impact.com/report/index.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/index.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>Ｒやんの噴火湾釣行記</title>
-      <link>https://www.fs-impact.com/report/report/report-new.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/report/report-new.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>場所: 噴火湾（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>ロックフィッシュカップ・ラウンド３</title>
-      <link>https://www.fs-impact.com/report/taikai/rf_cup/2015round3/2015round3.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/rf_cup/2015round3/2015round3.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>１０月のフラットフィッシュダービー</title>
-      <link>https://www.fs-impact.com/report/taikai/ff_durby/2015/10/ff2015-10.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/ff_durby/2015/10/ff2015-10.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>ロックフィッシュカップ・ラウンド２</title>
-      <link>https://www.fs-impact.com/report/taikai/rf_cup/2015round2/2015round2.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/rf_cup/2015round2/2015round2.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>９月のフラットフィッシュダービー</title>
-      <link>https://www.fs-impact.com/report/taikai/ff_durby/2015/09/ff2015-09.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/ff_durby/2015/09/ff2015-09.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>８月のフラットフィッシュダービー</title>
-      <link>https://www.fs-impact.com/report/taikai/ff_durby/2015/08/ff2015-08.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/ff_durby/2015/08/ff2015-08.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>７月のフラットフィッシュダービー</title>
-      <link>https://www.fs-impact.com/report/taikai/ff_durby/2015/07/ff2015-07.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/ff_durby/2015/07/ff2015-07.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>山田さんのヒラメ釣行</title>
-      <link>https://www.fs-impact.com/report/report/report2015/04.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/report/report2015/04.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>魚種: ヒラメ（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>６月のフラットフィッシュダービー</title>
-      <link>https://www.fs-impact.com/report/taikai/ff_durby/2015/06/ff2015-06.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/ff_durby/2015/06/ff2015-06.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>インパクト・ロックフィシュカップ・ラウンド１</title>
-      <link>https://www.fs-impact.com/report/taikai/rf_cup/2015round1/2015round1.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/rf_cup/2015round1/2015round1.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>５月のフラットフィッシュダービー</title>
-      <link>https://www.fs-impact.com/report/taikai/ff_durby/2015/05/ff2015-05.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/ff_durby/2015/05/ff2015-05.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>インパクト・海アメ＆海サクラ大会2015</title>
-      <link>https://www.fs-impact.com/report/taikai/umiame_umisakura/2015/umiame-umisakura2015.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/taikai/umiame_umisakura/2015/umiame-umisakura2015.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
-    <item>
-      <title>釣行記はこちら</title>
-      <link>https://www.fs-impact.com/report/report/report2011/report11-a.html</link>
-      <guid isPermaLink="true">https://www.fs-impact.com/report/report/report2011/report11-a.html</guid>
-      <pubDate>Thu, 05 Nov 2026 12:35:27 +0900</pubDate>
-      <description>（フィッシングショップ・インパクト（釣行レポート））</description>
-      <category>フィッシングショップ・インパクト（釣行レポート）</category>
-    </item>
+    <lastBuildDate>Thu, 05 Nov 2026 12:39:23 +0900</lastBuildDate>
     <item>
       <title>函館市水産物地方卸売市場での生鮮スルメイカ取扱量10月120トン 今季月別で最多 小型釣り漁けん引（函館新聞デジタル） - Yahoo!ニュース</title>
       <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5aVnAtNVJRUGRlelFTOW9XZzIxQnd0OGtMR212QW1sbm1yZFQyeTVXbWI2aXRjS01KWTU2a29PcloyZDJnZVBQSFdBVTJuSmg3YkNWT0lFT183T2ZyUUZTY24xakxObVpuUWVSODBxbE9OTnF1WE9BX0pJLTFRcDA?oc=5</link>
@@ -126,27 +14,27 @@
       <category>Google ニュース（函館 釣り）</category>
     </item>
     <item>
-      <title>3 HIT うみきち🎣🦑 さん 2026-11-04 18:28 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 足元でも掛かってます。 ですが激寒です。😬 詳細ページ →</title>
+      <title>4 HIT うみきち🎣🦑 さん 2026-11-04 18:28 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 足元でも掛かってます。 ですが激寒です。😬 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1317141</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1317141</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
-      <title>3 HIT うみきち🎣🦑 さん 2026-11-04 18:17 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 フォール中に当たりが出ます。 詳細ページ →</title>
+      <title>4 HIT うみきち🎣🦑 さん 2026-11-04 18:17 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 フォール中に当たりが出ます。 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1317139</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1317139</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
-      <title>3 HIT うみきち🎣🦑 さん 2026-11-04 18:04 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 今シーズン初のポイントに入りました。 ここはまだ居るようです。 当たりも魚が掛かった様なガンガン来る当たり</title>
+      <title>4 HIT うみきち🎣🦑 さん 2026-11-04 18:04 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 今シーズン初のポイントに入りました。 ここはまだ居るようです。 当たりも魚が掛かった様なガンガン来る当たり</title>
       <link>https://www.yamaria.com/catches/1317138</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1317138</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
@@ -154,7 +42,7 @@
       <link>https://www.yamaria.com/catches/1316939</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1316939</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
@@ -162,7 +50,7 @@
       <link>https://www.yamaria.com/catches/1316938</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1316938</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
@@ -170,7 +58,7 @@
       <link>https://www.yamaria.com/catches/1316937</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1316937</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
@@ -178,7 +66,7 @@
       <link>https://www.yamaria.com/catches/1316932</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1316932</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
@@ -186,7 +74,7 @@
       <link>https://www.yamaria.com/catches/1316931</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1316931</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
-      <description>場所: 函館 / 魚種: イカ（エギCOM 函館）</description>
+      <description>イカ釣り情報日本最大級！初心者向けにアオリイカの釣り方やエギの選び方、道具、場所、料理までわかる情報と動画が満載。イカの釣果情報は日本一！メンバー25万人を超える無料のエギング専門SNSコミュニティーです。イカ釣りトップのYAMASHITAが運営。 ｜ 場所: 函館 / 魚種: イカ・アオリイカ（エギCOM 函館）</description>
       <category>エギCOM 函館</category>
     </item>
     <item>
@@ -210,7 +98,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%8c%83%f0%9f%a6%91%e5%87%bd%e9%a4%a8%e5%b1%b1%e6%b2%96%e5%a4%9c%e3%82%a4%e3%82%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%f0%9f%a6%91%f0%9f%8c%83/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%8c%83%f0%9f%a6%91%e5%87%bd%e9%a4%a8%e5%b1%b1%e6%b2%96%e5%a4%9c%e3%82%a4%e3%82%ab%e8%a1%8c%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%f0%9f%a6%91%f0%9f%8c%83/</guid>
       <pubDate>Thu, 29 Oct 2026 04:43:03 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 函館山・函館 / 魚種: イカ（FISHLAND 函館西桔梗店）</description>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 10/26（月）当店常連のお客様とご一緒させていただき、当店スタッフ松田が夜イカに挑戦してきました💪 今回お世話になったのは、入船漁港から出港の神凰丸山田船長に乗船させていただきました🚢 出港は21時🌃 まずは山沖100Mライン🌊 始めのうちは潮が速く、仕掛けが流されましたが、第一投目で、スタッフ松田に3ハイのイカがHIT！！！ イカがデカい🍺ビール瓶サイズです👏 タナは70Ｍ前後で良く掛かってきました😊 ご一緒させていただいた、当店常連のお客様T畑様も他点掛けで次々とデカイカをGET😻 ↑85歳とは思えな… ｜ 場所: 函館山 / 魚種: イカ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -218,7 +106,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%8e%a3%e6%9d%be%e5%89%8d%e6%96%b9%e9%9d%a2%e3%83%ad%e3%83%83%e3%82%af%e6%83%85%e5%a0%b1%f0%9f%8e%a3%f0%9f%8c%83-2/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%8e%a3%e6%9d%be%e5%89%8d%e6%96%b9%e9%9d%a2%e3%83%ad%e3%83%83%e3%82%af%e6%83%85%e5%a0%b1%f0%9f%8e%a3%f0%9f%8c%83-2/</guid>
       <pubDate>Thu, 29 Oct 2026 03:40:35 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 函館・松前（FISHLAND 函館西桔梗店）</description>
+      <description>※だたいま（10/29時点）フィッシュランド函館西桔梗店の電話＆FAXが繋がりません。 皆様には大変ご迷惑をおかけしております。 復旧は来週を予定しております。（※NTTさんのお話だと、早ければ11/1（日）頃には仮で使えるようにはとの事ですので、今しばらくお待ちください） その為、お急ぎの方は、フィッシュランド本部 011-219-2101または、フィッシュランド近郊店舗までお問合せ頂きますようお願いします。 ご迷惑おかけいたしますが、よろしくお願い致します。 いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 当店常連のお客様MJ様より情報頂きました 出… ｜ 場所: 函館・松前（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -226,7 +114,7 @@
       <link>https://fishland.jp/2026/10/%e2%98%8f%e8%a5%bf%e6%a1%94%e6%a2%97%e5%ba%97-%e9%9b%bb%e8%a9%b1%ef%bc%86fax%e3%81%8c%e7%b9%8b%e3%81%8c%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e2%98%8f/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%e2%98%8f%e8%a5%bf%e6%a1%94%e6%a2%97%e5%ba%97-%e9%9b%bb%e8%a9%b1%ef%bc%86fax%e3%81%8c%e7%b9%8b%e3%81%8c%e3%82%8a%e3%81%be%e3%81%9b%e3%82%93%e2%98%8f/</guid>
       <pubDate>Thu, 29 Oct 2026 03:06:14 +0000</pubDate>
-      <description>フィッシュランド函館西桔梗店 続きを読む → ｜ 場所: 函館（FISHLAND 函館西桔梗店）</description>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 だたいま（10/29時点）フィッシュランド函館西桔梗店の電話＆FAXが繋がりません。 皆様には大変ご迷惑をおかけしております。 復旧は来週を予定しております。 お急ぎの方は、フィッシュランド本部 011-219-2101または、フィッシュランド近郊店舗までお問合せください。 ご迷惑おかけいたしますが、よろしくお願い致します。 ｜ 場所: 函館（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -234,7 +122,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%9a%a2%e6%a4%b4%e6%b3%95%e8%8f%af%e8%b1%8a%e7%9b%9b%e4%b8%b8-%e3%83%9e%e3%83%80%e3%83%a9%e5%a5%bd%e8%aa%bf%e3%82%a2%e3%82%aa%e3%82%be%e3%82%a4%e3%82%82get%f0%9f%9a%a2/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%9a%a2%e6%a4%b4%e6%b3%95%e8%8f%af%e8%b1%8a%e7%9b%9b%e4%b8%b8-%e3%83%9e%e3%83%80%e3%83%a9%e5%a5%bd%e8%aa%bf%e3%82%a2%e3%82%aa%e3%82%be%e3%82%a4%e3%82%82get%f0%9f%9a%a2/</guid>
       <pubDate>Thu, 29 Oct 2026 03:00:15 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 椴法華・函館 / 魚種: マダラ（FISHLAND 函館西桔梗店）</description>
+      <description>※だたいま（10/29時点）フィッシュランド函館西桔梗店の電話＆FAXが繋がりません。 皆様には大変ご迷惑をおかけしております。 復旧は来週を予定しております。 お急ぎの方は、フィッシュランド本部 011-219-2101または、フィッシュランド近郊店舗までお問合せください。 ご迷惑おかけいたしますが、よろしくお願い致します。 いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 10/24（土）25日（日）2日続けて椴法華漁港から出港の、豊盛丸（田邊船長）より、情報いただきました。 両日とも6時出港🌊椴法華沖の130Mライン。 当店常連のお客様、名人I口様は… ｜ 場所: 椴法華・函館 / 魚種: マダラ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -242,7 +130,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%81%e3%82%ab%e3%82%82%e3%83%92%e3%83%a9%e3%83%a1%e7%b5%b6%e5%a5%bd%e8%aa%bf%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%81%e3%82%ab%e3%82%82%e3%83%92%e3%83%a9%e3%83%a1%e7%b5%b6%e5%a5%bd%e8%aa%bf%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</guid>
       <pubDate>Thu, 29 Oct 2026 02:50:55 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 噴火湾・函館 / 魚種: チカ・ヒラメ（FISHLAND 函館西桔梗店）</description>
+      <description>※だたいま（10/29時点）フィッシュランド函館西桔梗店の電話＆FAXが繋がりません。 皆様には大変ご迷惑をおかけしております。 復旧は来週を予定しております。 お急ぎの方は、フィッシュランド本部 011-219-2101または、フィッシュランド近郊店舗までお問合せください。 ご迷惑おかけいたしますが、よろしくお願い致します。 いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 八雲落部より出港の金宝丸 坂本船長より情報いただきました 10/25（日）まずは港内でエサのチカを確保🐟 短時間で丁度良いサイズのチカをGET(^^♪ その後、調査の為、船頭さんとお… ｜ 場所: 噴火湾・函館・八雲・落部 / 魚種: チカ・ヒラメ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -258,7 +146,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%9a%a3%e7%9f%a5%e5%86%85%e6%96%b9%e9%9d%a2o%e6%9d%91%e5%90%8d%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%a1%e3%82%82%e7%b5%b6%e5%a5%bd%e8%aa%bf%f0%9f%9a%a3/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%9a%a3%e7%9f%a5%e5%86%85%e6%96%b9%e9%9d%a2o%e6%9d%91%e5%90%8d%e4%ba%ba%e3%83%92%e3%83%a9%e3%83%a1%e3%82%82%e7%b5%b6%e5%a5%bd%e8%aa%bf%f0%9f%9a%a3/</guid>
       <pubDate>Sun, 25 Oct 2026 04:28:36 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 函館・知内 / 魚種: ヒラメ（FISHLAND 函館西桔梗店）</description>
+      <description>※だたいま（10/25時点）フィッシュランド函館西桔梗店の電話＆FAXが繋がりません。 皆様には大変ご迷惑をおかけしております。 復旧は来週を予定しております。 お急ぎの方は、フィッシュランド本部 011-219-2101または、フィッシュランド近郊店舗までお問合せください。 ご迷惑おかけいたしますが、よろしくお願い致します。 いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 10/9（金）当店常連のお客様、O村名人様がより情報頂きました 名人の勢いはとどまることを知らず、ノンストップ(^^)/ 名人が振りかざしたバケには、ダブルでヒラメが掛かって来ること… ｜ 場所: 函館・知内 / 魚種: ヒラメ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -266,7 +154,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%90%9f%e5%99%b4%e7%81%ab%e6%b9%be%e6%96%b9%e9%9d%a2%e3%80%81%e3%83%81%e3%82%ab%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0%e9%87%a3%e3%82%8c%e3%81%a6%e3%81%8a%e3%82%8a%e3%81%be%e3%81%99%f0%9f%90%9f/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%90%9f%e5%99%b4%e7%81%ab%e6%b9%be%e6%96%b9%e9%9d%a2%e3%80%81%e3%83%81%e3%82%ab%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0%e9%87%a3%e3%82%8c%e3%81%a6%e3%81%8a%e3%82%8a%e3%81%be%e3%81%99%f0%9f%90%9f/</guid>
       <pubDate>Sun, 25 Oct 2026 02:51:36 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 噴火湾・函館 / 魚種: チカ（FISHLAND 函館西桔梗店）</description>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 八雲落部より出港の金宝丸 坂本船長より情報いただきました 噴火湾の広い範囲で、チカが釣れている様子です✌(‘ω’✌ )三✌(‘ω’)✌三( ✌’ω’)✌ 10/24（土）金宝丸 坂本船長はお友達のK子様とともに朝一、漁港へ🎣 朝一の短時間でしたが、K子様80匹、坂本船長93匹と、絶好調👏 しかもサイズがちょうど良い！！ まだまだチカは釣れております🎊 坂本船長！このたびも情報ありがとうございました。 船も大きく安心安全 トイレも完備しておりますので、女性やお子様でも安心して乗船できます。 仕掛けや道具等、わ… ｜ 場所: 噴火湾・八雲・落部 / 魚種: チカ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -274,7 +162,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%9a%a3%e5%99%b4%e7%81%ab%e6%b9%be%e6%96%b9%e9%9d%a2%e4%ba%94%e7%9b%ae%e9%87%a3%e3%82%8a%e7%b5%b6%e5%a5%bd%e8%aa%bf%f0%9f%9a%a3-2/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%9a%a3%e5%99%b4%e7%81%ab%e6%b9%be%e6%96%b9%e9%9d%a2%e4%ba%94%e7%9b%ae%e9%87%a3%e3%82%8a%e7%b5%b6%e5%a5%bd%e8%aa%bf%f0%9f%9a%a3-2/</guid>
       <pubDate>Sun, 25 Oct 2026 02:40:00 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 噴火湾・函館（FISHLAND 函館西桔梗店）</description>
+      <description>※だたいま（10/25時点）フィッシュランド函館西桔梗店の電話＆FAXが繋がりません。 皆様には大変ご迷惑をおかけしております。 復旧は来週を予定しております。 お急ぎの方は、フィッシュランド本部 011-219-2101または、フィッシュランド近郊店舗までお問合せください。 ご迷惑おかけいたしますが、よろしくお願い致します。 いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 10/24（土）当店常連のお客様、K様より情報頂きましたヾ(*´∀｀*)ﾉ ご自身のゴムボにて噴火湾方面へ🚙 前日に当店でクーラーをご購入して下さったK様😊 終始入れ食い状態が続き、… ｜ 場所: 噴火湾・函館（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -282,7 +170,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%8e%a3%e5%87%bd%e9%a4%a8%e6%b8%af%e5%86%85%e3%82%b5%e3%83%93%e3%82%ad%e9%87%a3%e3%82%8a%e3%81%a7%e3%83%87%e3%82%ab%e3%82%b5%e3%83%90%e5%a5%bd%e8%aa%bf%f0%9f%8e%a3-2/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%8e%a3%e5%87%bd%e9%a4%a8%e6%b8%af%e5%86%85%e3%82%b5%e3%83%93%e3%82%ad%e9%87%a3%e3%82%8a%e3%81%a7%e3%83%87%e3%82%ab%e3%82%b5%e3%83%90%e5%a5%bd%e8%aa%bf%f0%9f%8e%a3-2/</guid>
       <pubDate>Sun, 25 Oct 2026 01:52:30 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 函館港・函館 / 魚種: サバ（FISHLAND 函館西桔梗店）</description>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 10/22（木）当店常連のお客様、おじいちゃん様より情報いただきました この日も元気に函館港内をパトロール🚓 良型のサバが釣れております👏 サバが大きい事もあり、おじいちゃん様は8号のサビキを使用。 白ハゲ皮が付いた針に好反応だった様子。 良型のサバが釣れております👏 こんな感じで、函館港内引き続きデカサバが好調となっております。 おじいちゃん様 この度もありがとうございました。 ｜ 場所: 函館港 / 魚種: サバ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
@@ -290,7 +178,7 @@
       <link>https://fishland.jp/2026/10/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%92%e3%83%a9%e3%83%a1%e7%b5%b6%e5%a5%bd%e8%aa%bf%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2-5/</link>
       <guid isPermaLink="true">https://fishland.jp/2026/10/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%92%e3%83%a9%e3%83%a1%e7%b5%b6%e5%a5%bd%e8%aa%bf%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2-5/</guid>
       <pubDate>Sun, 25 Oct 2026 01:38:12 +0000</pubDate>
-      <description>函館西桔梗店 続きを読む → ｜ 場所: 噴火湾・函館 / 魚種: ヒラメ（FISHLAND 函館西桔梗店）</description>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 八雲落部より出港の金宝丸 坂本船長より情報いただきました 10/20（火）当店常連のお客様、M本様ご一行様とともに出港(^^)/ この日も遠征し、朝一の食いは良く、全員安打(^^)/ ヒラメ初挑戦のアングラーの方も、なんと5枚のヒラメをGETし大喜び😊 ↓当店常連のお客様、M本様はベテランの腕前で、安定の竿頭🎣 この日の最大は、これまたM本様で、65cmと素晴らしい釣果を叩き出して下さいました😊 毎度お見事でございますね👏👏 こんな感じで、まだまだヒラメは好調です！ 坂本船長！このたびも情報ありがとうござい… ｜ 場所: 噴火湾・八雲・落部 / 魚種: ヒラメ（FISHLAND 函館西桔梗店）</description>
       <category>FISHLAND 函館西桔梗店</category>
     </item>
     <item>
