@@ -52,6 +52,7 @@ def load_json(path, default):
 
 PLACES = load_json("collector/places.json", [])
 SPECIES = sorted(load_json("collector/species.json", []), key=len, reverse=True)
+PLACE_BY_NAME = {p["name"]: p for p in PLACES}
 
 
 # ---------- 取得
@@ -358,7 +359,9 @@ def write_outputs(all_items):
 
 
 def write_feed(items, name, title, description):
+    # fog: 名前空間に場所の座標と魚種を入れる（Fog アプリの地図ピンが直接使う）
     rss = ET.Element("rss", version="2.0")
+    rss.set("xmlns:fog", "https://github.com/knowlsaws/fog-feeds")
     ch = ET.SubElement(rss, "channel")
     ET.SubElement(ch, "title").text = title
     ET.SubElement(ch, "link").text = "https://github.com/knowlsaws/fog-feeds"
@@ -382,6 +385,14 @@ def write_feed(items, name, title, description):
             desc = (desc + " ｜ " if desc else "") + " / ".join(tail)
         ET.SubElement(e, "description").text = desc + f"（{it['source']}）"
         ET.SubElement(e, "category").text = it["source"]
+        if it.get("places"):
+            place = PLACE_BY_NAME.get(it["places"][0])
+            if place:
+                ET.SubElement(e, "fog:place").text = place["name"]
+                ET.SubElement(e, "fog:lat").text = f"{place['lat']:.5f}"
+                ET.SubElement(e, "fog:lon").text = f"{place['lon']:.5f}"
+        if it.get("species"):
+            ET.SubElement(e, "fog:species").text = "・".join(it["species"])
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
     tree.write(os.path.join(ROOT, "docs", f"{name}.xml"), encoding="utf-8", xml_declaration=True)
