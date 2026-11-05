@@ -35,13 +35,6 @@
     "needRegion": false
   },
   {
-    "name": "フィッシングショップ・インパクト（釣行レポート）",
-    "url": "https://www.fs-impact.com/report/",
-    "type": "html",
-    "filter": "/report/",
-    "needRegion": false
-  },
-  {
     "name": "エギCOM 函館",
     "url": "https://www.yamaria.com/community/catch/egiou/cities/1",
     "type": "html",

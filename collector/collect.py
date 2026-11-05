@@ -28,7 +28,9 @@ TZ = dt.timezone(dt.timedelta(hours=9))
 NOW = dt.datetime.now(TZ)
 KEEP_DAYS = 90
 MAX_ITEMS = 600
-MAX_ENRICH = 25
+MAX_ENRICH = 40
+MAX_ENRICH_PER_SOURCE = 12
+MAX_NEW_PER_SOURCE = 30
 FISHING_WORDS = ["釣", "アイナメ", "アブラコ", "ソイ", "ホッケ", "カレイ", "ヒラメ", "ブリ", "イカ", "サバ", "サケ", "ロックフィッシュ", "ジギング", "エギング", "投げ", "ルアー", "船", "漁港", "堤防", "岸壁", "沖堤"]
 REGION_WORDS = ["函館", "道南", "渡島", "檜山", "噴火湾", "津軽海峡"]
 NAV_WORDS = ["トップ", "ホーム", "会社", "お問い合わせ", "お問合せ", "問い合わせ", "プライバシー", "サイトマップ", "ログイン", "カート", "採用", "アクセス", "店舗案内",
@@ -232,7 +234,7 @@ def parse_html_links(text, base_url, source):
         if re.match(r"^\d{4}年\s*\d{1,2}月", label) or re.search(r"/20\d\d/\d{2}/?$", u.path) or re.match(r"^(次|前|Next|Prev|»|«|\d+)$", label, re.I):
             continue
         low = (label + " " + u.path).lower()
-        if not filt and any(w.lower() in low for w in NAV_WORDS):
+        if any(w.lower() in low for w in NAV_WORDS) if not filt else any(w.lower() in label.lower() for w in NAV_WORDS):
             continue
         if url in seen:
             continue
@@ -262,7 +264,7 @@ def enrich(item):
     except Exception:
         pass
     desc = p.meta.get("og:description") or p.meta.get("description") or p.meta.get("twitter:description")
-    if not desc:
+    if not desc or len(desc.strip()) < 40 or "続きを読む" in desc:
         body = re.sub(r"<(header|nav|footer|aside)\b.*?</\1>", " ", text, flags=re.S | re.I)
         m = re.search(r"<(article|main)\b.*?</\1>", body, flags=re.S | re.I)
         desc = strip_tags(m.group(0) if m else body, 300)
@@ -418,7 +420,10 @@ def main():
             stats.append((src["name"], "失敗", 0, 0))
             continue
         kept = 0
+        src_enriched = 0
         for it in items:
+            if kept >= MAX_NEW_PER_SOURCE:
+                break
             if not it.get("link") or not it["link"].startswith("http"):
                 continue
             if it["link"] in known:
@@ -426,17 +431,18 @@ def main():
             text = it["title"] + " " + it.get("summary", "")
             if src.get("needFishing") and not is_fishing(text):
                 continue
+            can_enrich = enriched < MAX_ENRICH and src_enriched < MAX_ENRICH_PER_SOURCE
             if src.get("needRegion") and not is_regional(text):
-                if enriched >= MAX_ENRICH:
+                if not can_enrich:
                     continue
                 enrich(it)
-                enriched += 1
+                enriched += 1; src_enriched += 1
                 text = it["title"] + " " + it.get("summary", "")
                 if not is_regional(text):
                     continue
-            elif (len(it.get("summary") or "") < 40 or not it.get("date")) and enriched < MAX_ENRICH:
+            elif (len(it.get("summary") or "") < 40 or not it.get("date")) and can_enrich:
                 enrich(it)
-                enriched += 1
+                enriched += 1; src_enriched += 1
                 text = it["title"] + " " + it.get("summary", "")
             it["places"] = [p["name"] for p in extract_places(text)]
             it["species"] = extract_species(text)
