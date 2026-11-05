@@ -237,7 +237,13 @@ def parse_html_links(text, base_url, source):
         if url in seen:
             continue
         seen.add(url)
-        items.append({"title": label[:120], "link": url, "summary": "", "date": date_in_url(url), "source": source["name"]})
+        # 日付は URL から。無ければリンクの文字から（「2026-11-04 18:28 ツツイカ」のような一覧）
+        date = date_in_url(url)
+        if not date:
+            m = re.search(r"20\d\d[-/年.]\d{1,2}[-/月.]\d{1,2}", label)
+            if m:
+                date = parse_date(m.group(0))
+        items.append({"title": label[:120], "link": url, "summary": "", "date": date, "source": source["name"]})
     return p, items
 
 

@@ -28,30 +28,30 @@
     "needRegion": false
   },
   {
-    "name": "フィッシングショップ・インパクト",
-    "url": "https://www.fs-impact.com/",
-    "type": "html",
-    "filter": "/report/",
+    "name": "フィッシングショップ・インパクト（ブログ）",
+    "url": "http://blog.fs-impact.com/?mode=rss",
+    "type": "auto",
+    "fallback": "http://blog.fs-impact.com/",
     "needRegion": false
   },
   {
-    "name": "アングラーズ 函館湾",
-    "url": "https://anglers.jp/areas/472",
+    "name": "フィッシングショップ・インパクト（釣行レポート）",
+    "url": "https://www.fs-impact.com/report/",
     "type": "html",
-    "filter": "/catches/",
+    "filter": "/report/",
     "needRegion": false
   },
   {
     "name": "エギCOM 函館",
     "url": "https://www.yamaria.com/community/catch/egiou/cities/1",
     "type": "html",
-    "filter": "/community/catch/",
+    "filter": "/catches/",
     "needRegion": false
   },
   {
     "name": "タックルベリー函館店",
     "url": "https://www.tackleberry.co.jp/shop/30011066/category/%E9%87%A3%E6%9E%9C%E6%83%85%E5%A0%B1/",
-    "type": "html",
+    "type": "auto",
     "filter": "/shop/30011066/",
     "needRegion": false
   }
