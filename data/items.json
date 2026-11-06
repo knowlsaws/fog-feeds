@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-06T15:54:55.636775+09:00",
+ "updatedAt": "2026-11-07T01:48:06.231470+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 36,
-   "new": 25
+   "links": 35,
+   "new": 26
   },
   {
    "source": "Google ニュース（北海道 釣り）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 6
+   "new": 0
   },
   {
    "source": "エギCOM 函館",
@@ -119,7 +119,7 @@
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
    "links": 27,
-   "new": 13
+   "new": 12
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -130,26 +130,26 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 8,
+   "links": 9,
    "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 13,
-   "new": 0
+   "links": 14,
+   "new": 1
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
+   "links": 22,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 25,
-   "new": 0
+   "links": 26,
+   "new": 1
   }
  ],
  "items": [
@@ -166,6 +166,33 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-06T15:54:55.636775+09:00"
+  },
+  {
+   "title": "サクラマスが釣れるおすすめのポイント・時期｜海サクラと川の釣り方をわかりやすく！",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/06/190000",
+   "summary": "サクラマスは、北海道の釣り人にとって憧れの魚の一つです。海で育った「海サクラ」と、川で狙う「川サクラ」があり、それぞれ釣り方やポイントが異なります。この記事では、サクラマスが釣れる時期やおすすめのポイント、海と川それぞれの釣り方、守るべきルールをわかりやすく紹介します。 サクラマスとは 釣れる時期 海サクラのポイントと釣り方 川のサクラマスの釣り方 ルールと注意点 当ブログの実績 まとめ 皆様の釣果を募集中です！ サクラマスとは （写真はイメージです） サクラマスは、ヤマメが海へ下って大きく育ったものです。海で生活するものを「海サクラ」、川に戻ってきたものや川に残るものを「川サクラ」と呼ぶことがあります。銀色に輝く体と、桜の季節に釣れることから名付けられたとも言われ、引きの強さも魅力です。 釣れる時期 海サクラは、冬から春にかけてが主なシーズンです。寒い時期に接岸してくる群れを、サーフや磯…",
+   "date": "2026-11-06T19:00:00+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [],
+   "species": [
+    "サクラマス",
+    "ヤマメ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-07T01:48:06.231470+09:00"
+  },
+  {
+   "title": "【海の異変？】記録的不漁のサンマが突然、網走港に続々と押し寄せる―連日大勢の釣り人でにぎわう「サンマ高いので助かります！」釣り糸垂らせば数秒で釣れる\"入れ食い\"状態、網ですくう人も＜北海道＞ - UHB 北海道文化放送",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQ0ZvMlExZS14OWloQ3JBUWZabnMtd0JKVFplRnoyeFBTT1ZXbWVyTy1YazBGYW95YzJVb3dpM3pBdG5oQjlmNGNyNUpCeGRBcU1iSDJQUQ?oc=5",
+   "summary": "【海の異変？】記録的不漁のサンマが突然、網走港に続々と押し寄せる―連日大勢の釣り人でにぎわう「サンマ高いので助かります！」釣り糸垂らせば数秒で釣れる\"入れ食い\"状態、網ですくう人も＜北海道＞ UHB 北海道文化放送",
+   "date": "2026-11-06T09:43:52+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "網走港"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-07T01:48:06.231470+09:00"
   },
   {
    "title": "ワカサギ釣りの始め方｜氷上釣りの道具・仕掛け・ポイントをわかりやすく！",
@@ -2785,6 +2812,19 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "釣らない釣りクラブ、人脈「釣れた」 江差で転勤族ら活動 交流人口創出に貢献 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVlhUOHdIQWY2cDgtSDV2aFF5a082bEdkV1Yyb2NIMTNhbG41WGpfejAzS2Zya2k4OFRsdFl4Qk44bXlKbDl4ckZDWEpHWHpuRXJjWmVmczIwZw?oc=5",
+   "summary": "釣らない釣りクラブ、人脈「釣れた」 江差で転勤族ら活動 交流人口創出に貢献 北海道新聞デジタル",
+   "date": "2025-08-05T07:00:00+00:00",
+   "source": "Google ニュース（松前 江差 釣り）",
+   "places": [
+    "江差"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-07T01:48:06.231470+09:00"
+  },
+  {
    "title": "夕マヅメのロックゲームで44cm頭にアイナメ連発！【北海道・噴火湾】小エビ捕食パターンで攻略 - TSURINEWS",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wRkhCa3llTXhpMEE3dkVSa1pjWW8ybGk2cU5FQ0lWNHZnQ1Eta3p2WWNlN2pLWExUeXMycFJUTzRCZw?oc=5",
    "summary": "夕マヅメのロックゲームで44cm頭にアイナメ連発！【北海道・噴火湾】小エビ捕食パターンで攻略 TSURINEWS",
@@ -3018,6 +3058,19 @@
    ],
    "hakodate": true,
    "firstSeen": "2026-11-06T06:29:01.595040+09:00"
+  },
+  {
+   "title": "【フォトレポート】北海道・大沼のワカサギ釣り | 絶景釣り紀行 - 本田技研工業株式会社",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTUnFBS3RMNWJxRFJLLVBnQk5qR3RpVXB1OUFTS2hkLTFXa2YyaVNoUTg0YWRvMkd0TGRBLUZEb2ZVc2s5YWFvUGR0b0FkRTFYTGNsRkRmNU1QWV9LVnFoWmw4VXZWd1E?oc=5",
+   "summary": "【フォトレポート】北海道・大沼のワカサギ釣り | 絶景釣り紀行 本田技研工業株式会社",
+   "date": "2018-07-24T00:58:12+00:00",
+   "source": "Google ニュース（森町 釣り）",
+   "places": [
+    "大沼"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-07T01:48:06.231470+09:00"
   },
   {
    "title": "北海道森町・鷲ノ木漁港で秋のハモを堪能 - 日刊スポーツ",

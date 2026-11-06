@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 06 Nov 2026 15:54:55 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:48:06 +0900</lastBuildDate>
     <item>
       <title>シマノ FS-060Q を買いました｜ラジアルスパイクはピン8本の「堤防用」。磯・船との履き分けも整理</title>
       <link>https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/shimano-fs060q-radial-spike/</link>
@@ -1030,6 +1030,17 @@
       <fog:lon>140.72900</fog:lon>
     </item>
     <item>
+      <title>釣らない釣りクラブ、人脈「釣れた」 江差で転勤族ら活動 交流人口創出に貢献 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVlhUOHdIQWY2cDgtSDV2aFF5a082bEdkV1Yyb2NIMTNhbG41WGpfejAzS2Zya2k4OFRsdFl4Qk44bXlKbDl4ckZDWEpHWHpuRXJjWmVmczIwZw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVlhUOHdIQWY2cDgtSDV2aFF5a082bEdkV1Yyb2NIMTNhbG41WGpfejAzS2Zya2k4OFRsdFl4Qk44bXlKbDl4ckZDWEpHWHpuRXJjWmVmczIwZw?oc=5</guid>
+      <pubDate>Tue, 05 Aug 2025 07:00:00 +0000</pubDate>
+      <description>釣らない釣りクラブ、人脈「釣れた」 江差で転勤族ら活動 交流人口創出に貢献 北海道新聞デジタル ｜ 場所: 江差（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:place>江差</fog:place>
+      <fog:lat>41.86900</fog:lat>
+      <fog:lon>140.12700</fog:lon>
+    </item>
+    <item>
       <title>夕マヅメのロックゲームで44cm頭にアイナメ連発！【北海道・噴火湾】小エビ捕食パターンで攻略 - TSURINEWS</title>
       <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wRkhCa3llTXhpMEE3dkVSa1pjWW8ybGk2cU5FQ0lWNHZnQ1Eta3p2WWNlN2pLWExUeXMycFJUTzRCZw?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wRkhCa3llTXhpMEE3dkVSa1pjWW8ybGk2cU5FQ0lWNHZnQ1Eta3p2WWNlN2pLWExUeXMycFJUTzRCZw?oc=5</guid>
@@ -1212,6 +1223,17 @@
       <fog:lat>42.25400</fog:lat>
       <fog:lon>140.26500</fog:lon>
       <fog:species>マゾイ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>【フォトレポート】北海道・大沼のワカサギ釣り | 絶景釣り紀行 - 本田技研工業株式会社</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTUnFBS3RMNWJxRFJLLVBnQk5qR3RpVXB1OUFTS2hkLTFXa2YyaVNoUTg0YWRvMkd0TGRBLUZEb2ZVc2s5YWFvUGR0b0FkRTFYTGNsRkRmNU1QWV9LVnFoWmw4VXZWd1E?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTUnFBS3RMNWJxRFJLLVBnQk5qR3RpVXB1OUFTS2hkLTFXa2YyaVNoUTg0YWRvMkd0TGRBLUZEb2ZVc2s5YWFvUGR0b0FkRTFYTGNsRkRmNU1QWV9LVnFoWmw4VXZWd1E?oc=5</guid>
+      <pubDate>Tue, 24 Jul 2018 00:58:12 +0000</pubDate>
+      <description>【フォトレポート】北海道・大沼のワカサギ釣り | 絶景釣り紀行 本田技研工業株式会社 ｜ 場所: 大沼（Google ニュース（森町 釣り））</description>
+      <category>Google ニュース（森町 釣り）</category>
+      <fog:place>大沼</fog:place>
+      <fog:lat>42.00000</fog:lat>
+      <fog:lon>140.67000</fog:lon>
     </item>
     <item>
       <title>北海道森町・鷲ノ木漁港で秋のハモを堪能 - 日刊スポーツ</title>
