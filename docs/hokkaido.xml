@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 07 Nov 2026 01:48:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:14:03 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -29,6 +29,17 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aQ0ZvMlExZS14OWloQ3JBUWZabnMtd0JKVFplRnoyeFBTT1ZXbWVyTy1YazBGYW95YzJVb3dpM3pBdG5oQjlmNGNyNUpCeGRBcU1iSDJQUQ?oc=5</guid>
       <pubDate>Fri, 06 Nov 2026 09:43:52 +0000</pubDate>
       <description>【海の異変？】記録的不漁のサンマが突然、網走港に続々と押し寄せる―連日大勢の釣り人でにぎわう「サンマ高いので助かります！」釣り糸垂らせば数秒で釣れる"入れ食い"状態、網ですくう人も＜北海道＞ UHB 北海道文化放送 ｜ 場所: 網走港（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>網走港</fog:place>
+      <fog:lat>44.02872</fog:lat>
+      <fog:lon>144.28610</fog:lon>
+    </item>
+    <item>
+      <title>【海の異変？】記録的不漁のサンマが突然、網走港に続々と押し寄せる―連日大勢の釣り人でにぎわう「サンマ高いので助かります！」釣り糸垂らせば数秒で釣れる"入れ食い"状態、網ですくう人も＜北海道＞ - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMjh0NGt5S1otSW8wYl9DLUs1d3FaUDBsTUtMWFBrVnBnWC04X00xQ2F4Y3dIeFpXT21HS0xhVjRaU2ZzRXExeE9saTV2TjBzSF96THNpcktCVVhMRjNFUmdmTE43bEpSdkh4VVBiclZEeVZWcHlMeWVzd0U1LW8?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMjh0NGt5S1otSW8wYl9DLUs1d3FaUDBsTUtMWFBrVnBnWC04X00xQ2F4Y3dIeFpXT21HS0xhVjRaU2ZzRXExeE9saTV2TjBzSF96THNpcktCVVhMRjNFUmdmTE43bEpSdkh4VVBiclZEeVZWcHlMeWVzd0U1LW8?oc=5</guid>
+      <pubDate>Fri, 06 Nov 2026 09:30:01 +0000</pubDate>
+      <description>【海の異変？】記録的不漁のサンマが突然、網走港に続々と押し寄せる―連日大勢の釣り人でにぎわう「サンマ高いので助かります！」釣り糸垂らせば数秒で釣れる"入れ食い"状態、網ですくう人も＜北海道＞ Yahoo!ニュース ｜ 場所: 網走港（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
       <fog:place>網走港</fog:place>
       <fog:lat>44.02872</fog:lat>
@@ -75,6 +86,17 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE90MnBYRks3Y3h4TlVwQms0aGNhVzhXdXlqMEVyM1ZMNWlZQ3pIeFBoYVFWdFlqRE8tMzBvQ2Uta0hVa1Fnd2NHTC1GVGFMUThWTGRfblI0Wk4zNEpSeWVMOElwT3hhaDFUMDBFTjA3T3VtVWhadFUxcDBDdm5XYk0?oc=5</guid>
       <pubDate>Thu, 05 Nov 2026 08:56:14 +0000</pubDate>
       <description>記録的不漁の一方で…網走港にサンマの大群押し寄せ釣り人歓喜「めちゃくちゃ釣れる」冷たい海流を避け沿岸部に集結か Yahoo!ニュース ｜ 場所: 網走港（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>網走港</fog:place>
+      <fog:lat>44.02872</fog:lat>
+      <fog:lon>144.28610</fog:lon>
+    </item>
+    <item>
+      <title>記録的不漁の一方で…網走港にサンマの大群押し寄せ釣り人歓喜「めちゃくちゃ釣れる」冷たい海流を避け沿岸部に集結か - TBS NEWS DIG</title>
+      <link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMFJ5c3Z3ekZEOFY0VUJxV2VmVHl0YkJvbXk1TmprMVlXb3huSU45VVROUjRNRlVWQTVQNllRdkMyUVBSNUtXcF9GNEpmbkM0clRQbDQ2a0d4dW1CNnBVU3BZeEw5VU0?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HMFJ5c3Z3ekZEOFY0VUJxV2VmVHl0YkJvbXk1TmprMVlXb3huSU45VVROUjRNRlVWQTVQNllRdkMyUVBSNUtXcF9GNEpmbkM0clRQbDQ2a0d4dW1CNnBVU3BZeEw5VU0?oc=5</guid>
+      <pubDate>Thu, 05 Nov 2026 08:54:00 +0000</pubDate>
+      <description>記録的不漁の一方で…網走港にサンマの大群押し寄せ釣り人歓喜「めちゃくちゃ釣れる」冷たい海流を避け沿岸部に集結か TBS NEWS DIG ｜ 場所: 網走港（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
       <fog:place>網走港</fog:place>
       <fog:lat>44.02872</fog:lat>
@@ -824,6 +846,60 @@
       <title>52 HIT フルさん さん 2026-11-04 18:03 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 反応は少し表層に近くなって来た スティ長めが良い様だ 詳細ページ →</title>
       <link>https://www.yamaria.com/catches/1317615</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1317615</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>5 HIT フルさん さん 2026-11-04 19:40 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 少しだけ活性上昇か、小さな誘いでグンときた！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1318001</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1318001</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>5 HIT フルさん さん 2026-11-04 19:12 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 遠投し潮目狙いで 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317999</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317999</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>5 HIT フルさん さん 2026-11-04 18:42 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ポツポツ反応出始めるがまだ渋い 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317998</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317998</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>12 HIT ケンタッキー さん 2026-11-04 18:36 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層で連チャンです！今日は型も良いです！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317976</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317976</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>13 HIT ケンタッキー さん 2026-11-04 18:34 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層で、また廻ってきたようです！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317973</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317973</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>13 HIT ケンタッキー さん 2026-11-04 18:03 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層で、これで止まった 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1317972</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1317972</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0900</pubDate>
       <description>魚種: イカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
