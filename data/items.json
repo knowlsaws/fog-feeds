@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T22:10:29.321923+09:00",
+ "updatedAt": "2026-11-08T04:27:44.890715+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
@@ -10,7 +10,7 @@
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 60,
+   "links": 61,
    "new": 30
   },
   {
@@ -29,13 +29,13 @@
    "source": "FISHLAND（道内全店）",
    "status": "OK",
    "links": 10,
-   "new": 5
+   "new": 0
   },
   {
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 19
+   "new": 18
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 0
+   "new": 6
   },
   {
    "source": "エギCOM 函館",
@@ -118,7 +118,7 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 28,
+   "links": 27,
    "new": 13
   },
   {
@@ -136,7 +136,7 @@
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 15,
+   "links": 14,
    "new": 0
   },
   {
@@ -369,6 +369,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-06T06:29:01.595040+09:00"
+  },
+  {
+   "title": "16 HIT キャプテン ポリッシュ さん 2026-11-06 02:16 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 大雨で、渋くて、来週は場所変えます。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1318436",
+   "summary": "",
+   "date": "2026-11-06T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-08T04:27:44.890715+09:00"
+  },
+  {
+   "title": "17 HIT キャプテン ポリッシュ さん 2026-11-06 02:00 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層。薄い。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1318433",
+   "summary": "",
+   "date": "2026-11-06T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-08T04:27:44.890715+09:00"
+  },
+  {
+   "title": "17 HIT キャプテン ポリッシュ さん 2026-11-06 01:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 群れ狙いで、ランガン。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1318430",
+   "summary": "",
+   "date": "2026-11-06T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-08T04:27:44.890715+09:00"
   },
   {
    "title": "12月に今釣れるおすすめの魚！チカ・ワカサギ・ホッケなど",
@@ -1566,6 +1605,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T08:14:03.821923+09:00"
+  },
+  {
+   "title": "16 HIT フルさん さん 2026-11-04 22:17 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 少し粘ってみるがサイズダウン 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1318446",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-08T04:27:44.890715+09:00"
+  },
+  {
+   "title": "16 HIT フルさん さん 2026-11-04 22:03 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 1時間以上当たりが止まる、粘るか帰るか迷った時の嬉しい1匹 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1318444",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-08T04:27:44.890715+09:00"
+  },
+  {
+   "title": "17 HIT フルさん さん 2026-11-04 20:12 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 群れは無いが、通り道が見えて来た 広角に探る 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1318441",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-08T04:27:44.890715+09:00"
   },
   {
    "title": "26ステラSWの値段と違い｜5000XGを20ストラディックSWと比べたら、重さ5g・ドラグ1kgの差で値段は4倍以上",
