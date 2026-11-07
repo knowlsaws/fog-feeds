@@ -4,7 +4,43 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 07 Nov 2026 15:06:03 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:10:29 +0900</lastBuildDate>
+    <item>
+      <title>🚢噴火湾マガレイ始まってきました！金宝丸🚢</title>
+      <link>https://fishland.jp/2026/11/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%9e%e3%82%ac%e3%83%ac%e3%82%a4%e5%a7%8b%e3%81%be%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</link>
+      <guid isPermaLink="true">https://fishland.jp/2026/11/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%9e%e3%82%ac%e3%83%ac%e3%82%a4%e5%a7%8b%e3%81%be%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</guid>
+      <pubDate>Sat, 07 Nov 2026 08:54:26 +0000</pubDate>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 11/5（木）八雲落部より出港の金宝丸 坂本船長より情報いただきました🌊 まずはヒラメ釣りからのスタート🎣 朝一から10時まで。最大62cmを筆頭に、竿頭の方でヒラメ10枚と素晴らしい釣果✌(‘ω’✌ )三✌(‘ω’)✌三( ✌’ω’)✌ その後、マガレイ釣りにチェンジ🎣 肉厚の美味しいマガレイが上がり、１人5～6枚ほどのマガレイをGET👏 ↓坂本船長はスペシャルゲストが😊 トウベツカジカのでかいやつが釣れました😊 こんな感じで、ヒラメ、マガレイと、噴火湾はまだまだ船釣りを楽しむことが出来ますね👏 坂本船長… ｜ 場所: 噴火湾・八雲・落部 / 魚種: マガレイ・ヒラメ・カジカ（FISHLAND（道内全店））</description>
+      <category>FISHLAND（道内全店）</category>
+      <fog:place>噴火湾</fog:place>
+      <fog:lat>42.25000</fog:lat>
+      <fog:lon>140.60000</fog:lon>
+      <fog:species>マガレイ・ヒラメ・カジカ</fog:species>
+    </item>
+    <item>
+      <title>🎣函館港内サビキ釣りでまだまだサバ釣れております🎣</title>
+      <link>https://fishland.jp/2026/11/%f0%9f%8e%a3%e5%87%bd%e9%a4%a8%e6%b8%af%e5%86%85%e3%82%b5%e3%83%93%e3%82%ad%e9%87%a3%e3%82%8a%e3%81%a7%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0%e3%82%b5%e3%83%90%e9%87%a3%e3%82%8c%e3%81%a6%e3%81%8a/</link>
+      <guid isPermaLink="true">https://fishland.jp/2026/11/%f0%9f%8e%a3%e5%87%bd%e9%a4%a8%e6%b8%af%e5%86%85%e3%82%b5%e3%83%93%e3%82%ad%e9%87%a3%e3%82%8a%e3%81%a7%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0%e3%82%b5%e3%83%90%e9%87%a3%e3%82%8c%e3%81%a6%e3%81%8a/</guid>
+      <pubDate>Sat, 07 Nov 2026 08:45:03 +0000</pubDate>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 11/1（日）当店常連のお客様より情報いただきました😊 かなりいいサイズのデカサバが釣れております👏 お客様は9号の針を使用。 針数のサバが掛かって来ることもあり、とっても楽しかったと、おっしゃっておりました😊 こんな感じで、函館港内、引き続きデカサバ釣れております🎣 ｜ 場所: 函館港 / 魚種: サバ（FISHLAND（道内全店））</description>
+      <category>FISHLAND（道内全店）</category>
+      <fog:place>函館港</fog:place>
+      <fog:lat>41.79083</fog:lat>
+      <fog:lon>140.69389</fog:lon>
+      <fog:species>サバ</fog:species>
+    </item>
+    <item>
+      <title>🚢噴火湾まだまだヒラメ釣れてます！金宝丸🚢</title>
+      <link>https://fishland.jp/2026/11/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0%e3%83%92%e3%83%a9%e3%83%a1%e9%87%a3%e3%82%8c%e3%81%a6%e3%81%be%e3%81%99%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</link>
+      <guid isPermaLink="true">https://fishland.jp/2026/11/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%81%be%e3%81%a0%e3%81%be%e3%81%a0%e3%83%92%e3%83%a9%e3%83%a1%e9%87%a3%e3%82%8c%e3%81%a6%e3%81%be%e3%81%99%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</guid>
+      <pubDate>Sat, 07 Nov 2026 08:31:52 +0000</pubDate>
+      <description>いつも当店のHPをご覧いただき誠にありがとうございます。 西桔梗店スタッフの松田です。 10/31（土）八雲落部より出港の金宝丸 坂本船長より情報いただきました🌊 朝のうちは魚の活性が良く、バラシもありましたが、皆さん良型ヒラメを次々とGET👏 最大は62cm✌(‘ω’✌ )三✌(‘ω’)✌三( ✌’ω’)✌ いい人で8枚のヒラメをGETです👏 こんな感じで、まだまだヒラメは好調です！ 坂本船長！このたびも情報ありがとうございました。 金宝丸さんはトイレも完備🚽女性やお子様でも安心してご乗船出来ます。 広い船内はゆったりと釣りを楽しむことができます😊 皆様のご乗船お待ちしております🚢 八雲落部… ｜ 場所: 噴火湾・八雲・落部 / 魚種: ヒラメ（FISHLAND（道内全店））</description>
+      <category>FISHLAND（道内全店）</category>
+      <fog:place>噴火湾</fog:place>
+      <fog:lat>42.25000</fog:lat>
+      <fog:lon>140.60000</fog:lon>
+      <fog:species>ヒラメ</fog:species>
+    </item>
     <item>
       <title>シマノ FS-060Q を買いました｜ラジアルスパイクはピン8本の「堤防用」。磯・船との履き分けも整理</title>
       <link>https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/shimano-fs060q-radial-spike/</link>
