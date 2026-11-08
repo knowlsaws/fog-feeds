@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-08T19:28:52.657557+09:00",
+ "updatedAt": "2026-11-09T02:57:11.703972+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
    "links": 35,
-   "new": 25
+   "new": 26
   },
   {
    "source": "Google ニュース（北海道 釣り）",
@@ -22,7 +22,7 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 21,
+   "links": 20,
    "new": 0
   },
   {
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 18
+   "new": 16
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 3
+   "new": 5
   },
   {
    "source": "エギCOM 函館",
@@ -65,7 +65,7 @@
    "source": "TSURINEWS",
    "status": "OK",
    "links": 11,
-   "new": 1
+   "new": 0
   },
   {
    "source": "ルアマガ＋",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 56,
+   "links": 53,
    "new": 0
   },
   {
@@ -119,7 +119,7 @@
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
    "links": 28,
-   "new": 13
+   "new": 14
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -131,12 +131,12 @@
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
    "links": 8,
-   "new": 1
+   "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 15,
+   "links": 12,
    "new": 0
   },
   {
@@ -148,7 +148,7 @@
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 27,
+   "links": 26,
    "new": 0
   }
  ],
@@ -230,6 +230,59 @@
    "species": [],
    "hakodate": false,
    "firstSeen": "2026-11-08T19:28:52.657557+09:00"
+  },
+  {
+   "title": "13 HIT うみきち🎣🦑 さん 2026-11-08 18:24 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 時速2杯みたいな感じです。 写真は撮ってませんが、この後スルメイカが掛かってます。 ですが大きめなので、",
+   "link": "https://www.yamaria.com/catches/1319190",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ",
+    "スルメイカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T02:57:11.703972+09:00"
+  },
+  {
+   "title": "13 HIT うみきち🎣🦑 さん 2026-11-08 18:04 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 風か強いせいなのか、やはり渋いです。 足元でした。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319187",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T02:57:11.703972+09:00"
+  },
+  {
+   "title": "13 HIT うみきち🎣🦑 さん 2026-11-08 17:14 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 激寒爆風の中でした。 今日は渋めです。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319182",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T02:57:11.703972+09:00"
+  },
+  {
+   "title": "38 HIT Mikazuki さん 2026-11-08 12:40 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 寒い🥶風が冷たい🥶 昼過ぎからの 1投目！！ 期待⤵︎⤵︎ 遠投からの エギ回収からの手前で〜 詳細",
+   "link": "https://www.yamaria.com/catches/1319093",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T02:57:11.703972+09:00"
   },
   {
    "title": "2月に今釣れるおすすめの魚！ニシン・ワカサギ・チカなど",
@@ -1774,6 +1827,19 @@
    "firstSeen": "2026-11-08T09:43:17.167855+09:00"
   },
   {
+   "title": "5 HIT フルさん さん 2026-11-04 22:41 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 当たりが遠く、最後のあがきでフルキャスト〜 嬉しい当たり！ これにて納竿 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319213",
+   "summary": "",
+   "date": "2026-11-04T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T02:57:11.703972+09:00"
+  },
+  {
    "title": "26ステラSWの値段と違い｜5000XGを20ストラディックSWと比べたら、重さ5g・ドラグ1kgの差で値段は4倍以上",
    "link": "https://xn--nbkzd3exd059r6ngg8p23x0w5ekjd.com/stella-sw-5000xg-vs-stradic-sw/",
    "summary": "2026年に新しくなったシマノ26ステラSWを、僕がメインで使っている20ストラディックSW 5000XGと同じ番手で並べました。カタログの差は重さ5gと最大ドラグ力1kgでした。 The post 26ステラSWの値段と違い｜5000XGを20ストラディックSWと比べたら、重さ5g・ドラグ1kgの差で値段は4倍以上 first appeared on 北海道釣り情報ブログ .",
@@ -3018,6 +3084,19 @@
    "firstSeen": "2026-11-05T12:56:58.716106+09:00"
   },
   {
+   "title": "釣り初心者におすすめ！北海道で手軽に狙える「エゾメバル」を釣ってみた - TSURINEWS",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBYaU9rUkRWNVBEMWsxcm5KQlBGZ2Nzc2tFMS1YeEFzRUQwSE1FVHhRS1lGU2F6VVZKUFhlMzYtRFVVQQ?oc=5",
+   "summary": "釣り初心者におすすめ！北海道で手軽に狙える「エゾメバル」を釣ってみた TSURINEWS",
+   "date": "2026-07-01T07:00:00+00:00",
+   "source": "Google ニュース（北海道 釣果）",
+   "places": [],
+   "species": [
+    "エゾメバル"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T02:57:11.703972+09:00"
+  },
+  {
    "title": "2026青物釣行記③",
    "link": "https://sshiimaaa.hatenablog.com/entry/2026/06/29/125243",
    "summary": "6/27 日本海側某磯 3:30〜5:30 また行ってきました、ショアジギング！！ ハイシーズン、今年こそブリサイズを！と思ったのですが、あんな結果になるとは…。 天気は雨だが…！ 雨が少し強めに降りますが、波は釣りに支障なく、風は向かい風ですがちょうどよく、なかなか良いコンディションです。 最初はミノーを先発にしますが不発。 続いて激投ジグのピンクグローを投入します。 明るくなってきた4時頃、遠投して着底させ、誘い始めた直後、 ガン！ ときました！久しぶりのショアジギでの魚！！ 最初こそ引きましたが、すぐに勝負がついた感じ。 これはお久しぶりの… ヒラメ42cm （水の中で活かしていたつもりが、岩肌にこすれボロボロに。ごめんね💦） ヒラメとしては大きくありませんが、久しぶりのヒラメサイズということもあり、お持ち帰りすることに。釣れてくれてありがとう！ ついに訪れた対決！！ その時は突然来…",
@@ -3193,17 +3272,6 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
-   "title": "三笠・桂沢湖、ワカサギ釣り休止 不漁で受精卵放流できず 月形町は解禁、砂川市は結氷待ち - 北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sUzRkN1Q5VjJXbVBuOVVFZGpPaFJhLWFCUk9meTV4YzI0TTB1RVlVNmJ6VldGQVRCeTBFS3o3am4ySFlOMW1fb2puZjdqd2kyX1VWOEY0UzhCQQ?oc=5",
-   "summary": "三笠・桂沢湖、ワカサギ釣り休止 不漁で受精卵放流できず 月形町は解禁、砂川市は結氷待ち 北海道新聞デジタル",
-   "date": "2026-01-21T08:00:00+00:00",
-   "source": "Google ニュース（北海道 釣果）",
-   "places": [],
-   "species": [],
-   "hakodate": false,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
   },
   {
    "title": "【氷点下の激闘🎣】伊藤大海『釣り人のプライドかけた戦い…2025年を振り返る！』【故郷・鹿部町】 - パ・リーグ.com",
