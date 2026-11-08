@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/knowlsaws/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Mon, 09 Nov 2026 02:57:11 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:12:02 +0900</lastBuildDate>
     <item>
       <title>🚢噴火湾マガレイ始まってきました！金宝丸🚢</title>
       <link>https://fishland.jp/2026/11/%f0%9f%9a%a2%e5%99%b4%e7%81%ab%e6%b9%be%e3%83%9e%e3%82%ac%e3%83%ac%e3%82%a4%e5%a7%8b%e3%81%be%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81%e9%87%91%e5%ae%9d%e4%b8%b8%f0%9f%9a%a2/</link>
@@ -377,6 +377,18 @@
       <fog:place>豊浦</fog:place>
       <fog:lat>42.57300</fog:lat>
       <fog:lon>140.69200</fog:lon>
+      <fog:species>ヒラメ</fog:species>
+    </item>
+    <item>
+      <title>第9局 北海道・道南 連敗記録を断て！！アウェイの地でヒラメ攻略！！ - ABEMA</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UT0I2RXdZdm5kSWFsb3BEVVFOSklPMkVwMy1Pbk90ZEtQSFMwNmJWc0xjQ3A4MTBjaGdMWDh5OUlQSl9KcEhrMktySnlSU2Rxa1c5LUJMSEZsX0tF?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UT0I2RXdZdm5kSWFsb3BEVVFOSklPMkVwMy1Pbk90ZEtQSFMwNmJWc0xjQ3A4MTBjaGdMWDh5OUlQSl9KcEhrMktySnlSU2Rxa1c5LUJMSEZsX0tF?oc=5</guid>
+      <pubDate>Wed, 14 Oct 2026 09:44:20 +0000</pubDate>
+      <description>第9局 北海道・道南 連敗記録を断て！！アウェイの地でヒラメ攻略！！ ABEMA ｜ 場所: 道南 / 魚種: ヒラメ（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:place>道南</fog:place>
+      <fog:lat>41.90000</fog:lat>
+      <fog:lon>140.50000</fog:lon>
       <fog:species>ヒラメ</fog:species>
     </item>
     <item>
@@ -982,6 +994,17 @@
       <fog:place>鹿部</fog:place>
       <fog:lat>42.02800</fog:lat>
       <fog:lon>140.81400</fog:lon>
+    </item>
+    <item>
+      <title>サンマ釣りにぎわう 根室港、岸壁に太公望続々【根室市】 - 北海道ニュースリンク</title>
+      <link>https://news.google.com/rss/articles/CBMiTEFVX3lxTE15OFE0ZDFDTC1pUDlnaE1TLVJEZHRjenp0SUR4TmtGWHotSmpUUnA2aldNZHdWeXdFTmVwNGtGQWd0WVJfSGNCWW9hY0g?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTEFVX3lxTE15OFE0ZDFDTC1pUDlnaE1TLVJEZHRjenp0SUR4TmtGWHotSmpUUnA2aldNZHdWeXdFTmVwNGtGQWd0WVJfSGNCWW9hY0g?oc=5</guid>
+      <pubDate>Mon, 17 Nov 2025 08:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 根室港・根室（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:place>根室港</fog:place>
+      <fog:lat>43.34519</fog:lat>
+      <fog:lon>145.57535</fog:lon>
     </item>
     <item>
       <title>第693回 道南・木古内沖に舞い踊るヒラメ ～ジグヘッドで誘うボートキャスティング～｜夢釣行～一魚一会の旅 - BS日テレ</title>
