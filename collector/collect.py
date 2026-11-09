@@ -23,7 +23,7 @@ import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-UA = "Fog-feeds/1.0 (+https://github.com/knowlsaws/fog-feeds; personal fishing log aggregator)"
+UA = "Fog-feeds/1.0 (+https://github.com/sawswork/fog-feeds; personal fishing log aggregator)"
 TZ = dt.timezone(dt.timedelta(hours=9))
 NOW = dt.datetime.now(TZ)
 KEEP_DAYS = 90
@@ -361,10 +361,10 @@ def write_outputs(all_items):
 def write_feed(items, name, title, description):
     # fog: 名前空間に場所の座標と魚種を入れる（Fog アプリの地図ピンが直接使う）
     rss = ET.Element("rss", version="2.0")
-    rss.set("xmlns:fog", "https://github.com/knowlsaws/fog-feeds")
+    rss.set("xmlns:fog", "https://github.com/sawswork/fog-feeds")
     ch = ET.SubElement(rss, "channel")
     ET.SubElement(ch, "title").text = title
-    ET.SubElement(ch, "link").text = "https://github.com/knowlsaws/fog-feeds"
+    ET.SubElement(ch, "link").text = "https://github.com/sawswork/fog-feeds"
     ET.SubElement(ch, "description").text = description
     ET.SubElement(ch, "lastBuildDate").text = rfc822(NOW)
     for it in items:
