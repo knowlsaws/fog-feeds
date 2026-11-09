@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:fog="https://github.com/knowlsaws/fog-feeds">
+<rss version="2.0" xmlns:fog="https://github.com/sawswork/fog-feeds">
   <channel>
     <title>北海道の釣果情報（fog-feeds）</title>
-    <link>https://github.com/knowlsaws/fog-feeds</link>
+    <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Mon, 09 Nov 2026 15:44:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:52:42 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,66 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldW5LaVF4TnMwbFFiSG1FSkNRdnRVaTdtdnc0TmRKbjZVUXhtN29QWm1DYm1JWHpnYUxzV2RVLUFaQ2lGc2tJc1VsX2ZSQnBfcFJDNlA3cm5lMVJ0aWpQaFo3Zlc2WTJWYnZtRmo0b21BT2FuMEpDZTF5ekMyUVE?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldW5LaVF4TnMwbFFiSG1FSkNRdnRVaTdtdnc0TmRKbjZVUXhtN29QWm1DYm1JWHpnYUxzV2RVLUFaQ2lGc2tJc1VsX2ZSQnBfcFJDNlA3cm5lMVJ0aWpQaFo3Zlc2WTJWYnZtRmo0b21BT2FuMEpDZTF5ekMyUVE?oc=5</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:02 +0000</pubDate>
+      <description>【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ Yahoo!ニュース ｜ 場所: 根室港・根室（Google ニュース（北海道 釣果））</description>
+      <category>Google ニュース（北海道 釣果）</category>
+      <fog:place>根室港</fog:place>
+      <fog:lat>43.34519</fog:lat>
+      <fog:lon>145.57535</fog:lon>
+    </item>
+    <item>
+      <title>石狩湾新港のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/09/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/09/190000</guid>
+      <pubDate>Mon, 09 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 石狩湾新港は、札幌近郊で一番人気の釣り場です。札幌市内から車で1時間ほどで着くため、初心者からベテランまで多くの釣り人が訪れます。広い港には堤防や岸壁が多く、季節ごとにさまざまな魚が釣れるのが魅力です。この記事では、石狩湾新港のポイント解説、季節ごとに釣れる魚、仕掛けの目安、マナーと注意点までわかりやすくまとめます。 石狩湾新港のポイント解説 石狩湾新港はとても広い港です。エリアごとに水深や潮の流れ、底の様子が違うため、狙う魚や仕掛けも変わります。初めて行くときは、無理に奥まで行かず、まずは人が集まる釣りやすい場所から始めましょう。立入禁止区域には絶対に入らないようにしてください。 樽川方面 樽川方面は、サーフに近いエリアです。広い砂浜や護岸があり、投げ釣りやルア… ｜ 場所: 石狩湾新港・札幌（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>石狩湾新港</fog:place>
+      <fog:lat>43.21111</fog:lat>
+      <fog:lon>141.26972</fog:lon>
+    </item>
+    <item>
+      <title>不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 - UQライフ</title>
+      <link>https://news.google.com/rss/articles/CBMigAFBVV95cUxNelV5cjJKM2wzX0dzLUZPTlhSWEstMWY4c1ZFOFZfcnc2eVNZTXlldEpxSVl4MmduZ1VRX0l5dUMteDdUYkJRRmxBY3hzM24wbmFYdmpEbmR0eGZ3bXlIeTRiSVBFZThLOXVTdnItV3VLYzBreVlmcnhKemNOZk1hRQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMigAFBVV95cUxNelV5cjJKM2wzX0dzLUZPTlhSWEstMWY4c1ZFOFZfcnc2eVNZTXlldEpxSVl4MmduZ1VRX0l5dUMteDdUYkJRRmxBY3hzM24wbmFYdmpEbmR0eGZ3bXlIeTRiSVBFZThLOXVTdnItV3VLYzBreVlmcnhKemNOZk1hRQ?oc=5</guid>
+      <pubDate>Mon, 09 Nov 2026 09:19:00 +0000</pubDate>
+      <description>不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 UQライフ ｜ 場所: 網走（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>網走</fog:place>
+      <fog:lat>44.02100</fog:lat>
+      <fog:lon>144.27300</fog:lon>
+    </item>
+    <item>
+      <title>不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 - FNNプライムオンライン</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vZHJSMWRIc292NjVQNWllcVg1cVRvVzZHbzhWNzlnR0Q5eUt5Y2x3MU43c3l2QlBkOGE0NGFITU5weTVfSUR1Z2stb0R2dw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vZHJSMWRIc292NjVQNWllcVg1cVRvVzZHbzhWNzlnR0Q5eUt5Y2x3MU43c3l2QlBkOGE0NGFITU5weTVfSUR1Z2stb0R2dw?oc=5</guid>
+      <pubDate>Mon, 09 Nov 2026 09:15:00 +0000</pubDate>
+      <description>不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 FNNプライムオンライン ｜ 場所: 網走（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>網走</fog:place>
+      <fog:lat>44.02100</fog:lat>
+      <fog:lon>144.27300</fog:lon>
+    </item>
+    <item>
+      <title>【海の異変？】記録的不漁のサンマ_北海道で"入れ食い状態"30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道＞ - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9Ec29pR0NLUFNTaDJ4SFlLR2hvaXQzZ1RGWGNPX1R5T3dhUVFYY0dNbWpSV2N3MjNRaUpfRUhqbGswcHJZMkZyLU1MaV9RNDlFdm9LSnhhTXV5bXpVVWlTdXZTWXNjUmZZbjdQak52VVM4TzFRR01sREtLR0Q5RFlxQzRTV29LcUFNTHh3?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9Ec29pR0NLUFNTaDJ4SFlLR2hvaXQzZ1RGWGNPX1R5T3dhUVFYY0dNbWpSV2N3MjNRaUpfRUhqbGswcHJZMkZyLU1MaV9RNDlFdm9LSnhhTXV5bXpVVWlTdXZTWXNjUmZZbjdQak52VVM4TzFRR01sREtLR0Q5RFlxQzRTV29LcUFNTHh3?oc=5</guid>
+      <pubDate>Mon, 09 Nov 2026 07:01:02 +0000</pubDate>
+      <description>【海の異変？】記録的不漁のサンマ_北海道で"入れ食い状態"30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道＞ Yahoo!ニュース（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+    </item>
+    <item>
+      <title>【海の異変？】記録的不漁のサンマ_北海道で”入れ食い状態”30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道 - FNNプライムオンライン</title>
+      <link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MRlZPaS1uZmVWX1dRdWlFQnUxWDRDOW8xcUhSZzY4ZmdZMHNfNUNHdjVtaF9ldTA4TWZnR0d3cXVDd0tualk5SXpUY1c4QQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MRlZPaS1uZmVWX1dRdWlFQnUxWDRDOW8xcUhSZzY4ZmdZMHNfNUNHdjVtaF9ldTA4TWZnR0d3cXVDd0tualk5SXpUY1c4QQ?oc=5</guid>
+      <pubDate>Mon, 09 Nov 2026 06:50:00 +0000</pubDate>
+      <description>【海の異変？】記録的不漁のサンマ_北海道で”入れ食い状態”30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道 FNNプライムオンライン（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
     </item>
     <item>
       <title>アキアジ（秋鮭）が釣れるおすすめのポイント・釣り場｜釣り方や仕掛けもわかりやすく！</title>
@@ -42,6 +102,89 @@
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>8 HIT はるお さん 2026-11-09 20:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ボトムで 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319804</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319804</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>8 HIT はるお さん 2026-11-09 21:36 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 アイコスに気を取られてるうちに釣れたイカ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319803</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319803</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>9 HIT はるお さん 2026-11-09 21:27 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 巻き上げからのサイトで 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319802</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319802</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>12 HIT マングース さん 2026-11-09 18:31 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 厳しい状態が続きましたがなんとか釣れました。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319750</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319750</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>12 HIT マングース さん 2026-11-09 18:00 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 かなり厳しい状況です(T ^ T) 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319744</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319744</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>38 HIT うみきち🎣🦑 さん 2026-11-09 18:30 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 キャスト後フォール中、浅めで掛けました。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319686</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319686</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>36 HIT うみきち🎣🦑 さん 2026-11-09 18:28 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 何度かシャクリ後、中層で掛けました。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1319685</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319685</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>33 HIT うみきち🎣🦑 さん 2026-11-09 17:39 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 気温3℃風速5mくらいでした。 調べたら体感温度－3℃の中、エギCOM メンバー5人集まりました。😅 今</title>
+      <link>https://www.yamaria.com/catches/1319683</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1319683</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFLU1QUXVPdzA0by1VVlJYMElCbGlWU3hBTUZxNUpyN1NOYkhsU1RjSW1BZkFVN2xuc2FGTlpRUS15dzNpOGNBWFlGQzlxaEFtTEtNcFJ1NA?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFLU1QUXVPdzA0by1VVlJYMElCbGlWU3hBTUZxNUpyN1NOYkhsU1RjSW1BZkFVN2xuc2FGTlpRUS15dzNpOGNBWFlGQzlxaEFtTEtNcFJ1NA?oc=5</guid>
+      <pubDate>Sun, 08 Nov 2026 12:17:20 +0000</pubDate>
+      <description>【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ UHB 北海道文化放送 ｜ 場所: 根室港・根室（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>根室港</fog:place>
+      <fog:lat>43.34519</fog:lat>
+      <fog:lon>145.57535</fog:lon>
     </item>
     <item>
       <title>網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う - 北海道新聞デジタル</title>
@@ -2418,15 +2561,6 @@
       <fog:lon>140.72900</fog:lon>
     </item>
     <item>
-      <title>春の北海道でアイナメを狙おう！ 漁港で楽しむルアー＆ブラクリ釣り入門 - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoMWd5UGU3Z25kRjY5Y19GQ2dXbVRRdkF5WkExcXJpdFBHN3ZzZlhjdERHS3k0U2k3aXdUVnFWTDRndw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoMWd5UGU3Z25kRjY5Y19GQ2dXbVRRdkF5WkExcXJpdFBHN3ZzZlhjdERHS3k0U2k3aXdUVnFWTDRndw?oc=5</guid>
-      <pubDate>Tue, 14 Apr 2026 07:00:00 +0000</pubDate>
-      <description>春の北海道でアイナメを狙おう！ 漁港で楽しむルアー＆ブラクリ釣り入門 TSURINEWS ｜ 魚種: アイナメ（Google ニュース（北海道 釣果））</description>
-      <category>Google ニュース（北海道 釣果）</category>
-      <fog:species>アイナメ</fog:species>
-    </item>
-    <item>
       <title>函館地域協議会「新春ワカサギ釣り大会」が大盛況！ - UAゼンセン</title>
       <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5</guid>
@@ -2610,6 +2744,17 @@
       <fog:species>アイナメ・ヒラメ</fog:species>
     </item>
     <item>
+      <title>道南の無人島 釣りの楽園 松前小島 前編 - YouTube</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5</guid>
+      <pubDate>Tue, 17 Jun 2025 07:00:00 +0000</pubDate>
+      <description>道南の無人島 釣りの楽園 松前小島 前編 YouTube ｜ 場所: 松前・道南（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:place>松前</fog:place>
+      <fog:lat>41.43000</fog:lat>
+      <fog:lon>140.10800</fog:lon>
+    </item>
+    <item>
       <title>北海道の漁港ロックフィッシュゲームで43cm頭にアイナメ複数安打を達成！ - TSURINEWS</title>
       <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWGtrb20zRW5tU1RVc00wN0Y4N05CcndNd1JiRXotcmg2S3lCaG0zenJqWllzMi0xZWlXaklLTEV3QQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWGtrb20zRW5tU1RVc00wN0Y4N05CcndNd1JiRXotcmg2S3lCaG0zenJqWllzMi0xZWlXaklLTEV3QQ?oc=5</guid>
@@ -2654,16 +2799,15 @@
       <fog:lon>140.26500</fog:lon>
     </item>
     <item>
-      <title>北海道ロックフィッシュゲームで40cmアイナメと対面成功【噴火湾】ゲストに良型トウベツカジカも - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ja240RFJEcDU3UHhRWTJYUFZxakc5dlIxUUtULTktMUVYNXVqQld6Y0cxd2dCNHFxVDVUa05ReVdFZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ja240RFJEcDU3UHhRWTJYUFZxakc5dlIxUUtULTktMUVYNXVqQld6Y0cxd2dCNHFxVDVUa05ReVdFZw?oc=5</guid>
-      <pubDate>Mon, 09 Dec 2024 08:00:00 +0000</pubDate>
-      <description>北海道ロックフィッシュゲームで40cmアイナメと対面成功【噴火湾】ゲストに良型トウベツカジカも TSURINEWS ｜ 場所: 噴火湾 / 魚種: アイナメ・カジカ（Google ニュース（噴火湾 釣り））</description>
+      <title>北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 - Lemino</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5</guid>
+      <pubDate>Thu, 19 Dec 2024 08:06:45 +0000</pubDate>
+      <description>北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 Lemino ｜ 場所: 支笏湖（Google ニュース（噴火湾 釣り））</description>
       <category>Google ニュース（噴火湾 釣り）</category>
-      <fog:place>噴火湾</fog:place>
-      <fog:lat>42.25000</fog:lat>
-      <fog:lon>140.60000</fog:lon>
-      <fog:species>アイナメ・カジカ</fog:species>
+      <fog:place>支笏湖</fog:place>
+      <fog:lat>42.74700</fog:lat>
+      <fog:lon>141.35000</fog:lon>
     </item>
     <item>
       <title>ロックフィッシュ開幕！【日本列島縦断テスト釣行旅 in 北海道 】～トモ清水のガッ釣りソルト～ - LureNews</title>

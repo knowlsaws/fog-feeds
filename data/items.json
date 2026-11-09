@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-09T15:44:20.901083+09:00",
+ "updatedAt": "2026-11-10T04:52:42.743075+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 35,
-   "new": 25
+   "links": 33,
+   "new": 23
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 61,
+   "links": 67,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 42,
-   "new": 28
+   "links": 41,
+   "new": 27
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
    "links": 21,
-   "new": 1
+   "new": 0
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 16
+   "new": 15
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -59,7 +59,7 @@
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 1
+   "new": 0
   },
   {
    "source": "TSURINEWS",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 53,
+   "links": 54,
    "new": 0
   },
   {
@@ -118,8 +118,8 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 28,
-   "new": 14
+   "links": 30,
+   "new": 15
   },
   {
    "source": "Google ニュース（鹿部 釣り）",
@@ -136,20 +136,20 @@
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 13,
+   "links": 15,
    "new": 0
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 25,
+   "links": 26,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 26,
-   "new": 0
+   "links": 28,
+   "new": 1
   }
  ],
  "items": [
@@ -182,6 +182,82 @@
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
   },
   {
+   "title": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ldW5LaVF4TnMwbFFiSG1FSkNRdnRVaTdtdnc0TmRKbjZVUXhtN29QWm1DYm1JWHpnYUxzV2RVLUFaQ2lGc2tJc1VsX2ZSQnBfcFJDNlA3cm5lMVJ0aWpQaFo3Zlc2WTJWYnZtRmo0b21BT2FuMEpDZTF5ekMyUVE?oc=5",
+   "summary": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ Yahoo!ニュース",
+   "date": "2026-11-09T12:00:02+00:00",
+   "source": "Google ニュース（北海道 釣果）",
+   "places": [
+    "根室港",
+    "根室"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "石狩湾新港のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/09/190000",
+   "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 石狩湾新港は、札幌近郊で一番人気の釣り場です。札幌市内から車で1時間ほどで着くため、初心者からベテランまで多くの釣り人が訪れます。広い港には堤防や岸壁が多く、季節ごとにさまざまな魚が釣れるのが魅力です。この記事では、石狩湾新港のポイント解説、季節ごとに釣れる魚、仕掛けの目安、マナーと注意点までわかりやすくまとめます。 石狩湾新港のポイント解説 石狩湾新港はとても広い港です。エリアごとに水深や潮の流れ、底の様子が違うため、狙う魚や仕掛けも変わります。初めて行くときは、無理に奥まで行かず、まずは人が集まる釣りやすい場所から始めましょう。立入禁止区域には絶対に入らないようにしてください。 樽川方面 樽川方面は、サーフに近いエリアです。広い砂浜や護岸があり、投げ釣りやルア…",
+   "date": "2026-11-09T19:00:00+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [
+    "石狩湾新港",
+    "札幌"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 - UQライフ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelV5cjJKM2wzX0dzLUZPTlhSWEstMWY4c1ZFOFZfcnc2eVNZTXlldEpxSVl4MmduZ1VRX0l5dUMteDdUYkJRRmxBY3hzM24wbmFYdmpEbmR0eGZ3bXlIeTRiSVBFZThLOXVTdnItV3VLYzBreVlmcnhKemNOZk1hRQ?oc=5",
+   "summary": "不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 UQライフ",
+   "date": "2026-11-09T09:19:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "網走"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 - FNNプライムオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vZHJSMWRIc292NjVQNWllcVg1cVRvVzZHbzhWNzlnR0Q5eUt5Y2x3MU43c3l2QlBkOGE0NGFITU5weTVfSUR1Z2stb0R2dw?oc=5",
+   "summary": "不漁のサンマが突然“豊漁”に“入れ食い状態”の「大漁」で釣り人が漁港に 網ですくう人も 原因は沿岸部の水温か 北海道・網走市 FNNプライムオンライン",
+   "date": "2026-11-09T09:15:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "網走"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "【海の異変？】記録的不漁のサンマ_北海道で\"入れ食い状態\"30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道＞ - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcG9Ec29pR0NLUFNTaDJ4SFlLR2hvaXQzZ1RGWGNPX1R5T3dhUVFYY0dNbWpSV2N3MjNRaUpfRUhqbGswcHJZMkZyLU1MaV9RNDlFdm9LSnhhTXV5bXpVVWlTdXZTWXNjUmZZbjdQak52VVM4TzFRR01sREtLR0Q5RFlxQzRTV29LcUFNTHh3?oc=5",
+   "summary": "【海の異変？】記録的不漁のサンマ_北海道で\"入れ食い状態\"30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道＞ Yahoo!ニュース",
+   "date": "2026-11-09T07:01:02+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "【海の異変？】記録的不漁のサンマ_北海道で”入れ食い状態”30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道 - FNNプライムオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MRlZPaS1uZmVWX1dRdWlFQnUxWDRDOW8xcUhSZzY4ZmdZMHNfNUNHdjVtaF9ldTA4TWZnR0d3cXVDd0tualk5SXpUY1c4QQ?oc=5",
+   "summary": "【海の異変？】記録的不漁のサンマ_北海道で”入れ食い状態”30分ほどでバケツ一杯に「型いいですね」連日大勢の釣り人でにぎわう＜北海道 FNNプライムオンライン",
+   "date": "2026-11-09T06:50:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
    "title": "アキアジ（秋鮭）が釣れるおすすめのポイント・釣り場｜釣り方や仕掛けもわかりやすく！",
    "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/09/124919",
    "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 アキアジ（秋鮭）は、秋の北海道を代表する魚です。川へ戻るために沿岸に寄ってくる群れを、サーフや漁港から狙うことができ、大きな引きが魅力です。11月はシーズン終盤ですが、群れに当たれば今からでも十分に楽しめます。この記事では、アキアジが釣れる時期やおすすめのポイント、仕掛けと釣り方、食べ方と注意点までわかりやすくまとめます。 （写真はイメージです） アキアジが釣れる時期 北海道のアキアジは、 8月下旬〜11月 が主なシーズンです。9月から10月にかけて最盛期を迎え、11月に入ると終盤になります。終盤でも、潮や天候のタイミングが合えば群れが接岸し、大きなアキアジが釣れることがあります。 11月に狙いたい魚の全体像は「 11月に今釣れるおすすめの魚 」の記事もあわせてど…",
@@ -206,6 +282,124 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "8 HIT はるお さん 2026-11-09 20:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ボトムで 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319804",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "8 HIT はるお さん 2026-11-09 21:36 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 アイコスに気を取られてるうちに釣れたイカ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319803",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "9 HIT はるお さん 2026-11-09 21:27 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 巻き上げからのサイトで 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319802",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "12 HIT マングース さん 2026-11-09 18:31 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 厳しい状態が続きましたがなんとか釣れました。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319750",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "12 HIT マングース さん 2026-11-09 18:00 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 かなり厳しい状況です(T ^ T) 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319744",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "38 HIT うみきち🎣🦑 さん 2026-11-09 18:30 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 キャスト後フォール中、浅めで掛けました。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319686",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "36 HIT うみきち🎣🦑 さん 2026-11-09 18:28 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 何度かシャクリ後、中層で掛けました。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319685",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "33 HIT うみきち🎣🦑 さん 2026-11-09 17:39 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 気温3℃風速5mくらいでした。 調べたら体感温度－3℃の中、エギCOM メンバー5人集まりました。😅 今",
+   "link": "https://www.yamaria.com/catches/1319683",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ - UHB 北海道文化放送",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFLU1QUXVPdzA0by1VVlJYMElCbGlWU3hBTUZxNUpyN1NOYkhsU1RjSW1BZkFVN2xuc2FGTlpRUS15dzNpOGNBWFlGQzlxaEFtTEtNcFJ1NA?oc=5",
+   "summary": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ UHB 北海道文化放送",
+   "date": "2026-11-08T12:17:20+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室港",
+    "根室"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
   },
   {
    "title": "網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う - 北海道新聞デジタル",
@@ -3438,19 +3632,6 @@
    "firstSeen": "2026-11-05T12:56:58.716106+09:00"
   },
   {
-   "title": "春の北海道でアイナメを狙おう！ 漁港で楽しむルアー＆ブラクリ釣り入門 - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBoMWd5UGU3Z25kRjY5Y19GQ2dXbVRRdkF5WkExcXJpdFBHN3ZzZlhjdERHS3k0U2k3aXdUVnFWTDRndw?oc=5",
-   "summary": "春の北海道でアイナメを狙おう！ 漁港で楽しむルアー＆ブラクリ釣り入門 TSURINEWS",
-   "date": "2026-04-14T07:00:00+00:00",
-   "source": "Google ニュース（北海道 釣果）",
-   "places": [],
-   "species": [
-    "アイナメ"
-   ],
-   "hakodate": false,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
    "title": "函館地域協議会「新春ワカサギ釣り大会」が大盛況！ - UAゼンセン",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5",
    "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -3683,6 +3864,20 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "道南の無人島 釣りの楽園 松前小島 前編 - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5",
+   "summary": "道南の無人島 釣りの楽園 松前小島 前編 YouTube",
+   "date": "2025-06-17T07:00:00+00:00",
+   "source": "Google ニュース（松前 江差 釣り）",
+   "places": [
+    "松前",
+    "道南"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
    "title": "北海道の漁港ロックフィッシュゲームで43cm頭にアイナメ複数安打を達成！ - TSURINEWS",
    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWGtrb20zRW5tU1RVc00wN0Y4N05CcndNd1JiRXotcmg2S3lCaG0zenJqWllzMi0xZWlXaklLTEV3QQ?oc=5",
    "summary": "北海道の漁港ロックフィッシュゲームで43cm頭にアイナメ複数安打を達成！ TSURINEWS",
@@ -3740,20 +3935,17 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
-   "title": "北海道ロックフィッシュゲームで40cmアイナメと対面成功【噴火湾】ゲストに良型トウベツカジカも - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ja240RFJEcDU3UHhRWTJYUFZxakc5dlIxUUtULTktMUVYNXVqQld6Y0cxd2dCNHFxVDVUa05ReVdFZw?oc=5",
-   "summary": "北海道ロックフィッシュゲームで40cmアイナメと対面成功【噴火湾】ゲストに良型トウベツカジカも TSURINEWS",
-   "date": "2024-12-09T08:00:00+00:00",
+   "title": "北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 - Lemino",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5",
+   "summary": "北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 Lemino",
+   "date": "2024-12-19T08:06:45+00:00",
    "source": "Google ニュース（噴火湾 釣り）",
    "places": [
-    "噴火湾"
+    "支笏湖"
    ],
-   "species": [
-    "アイナメ",
-    "カジカ"
-   ],
+   "species": [],
    "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
+   "firstSeen": "2026-11-10T04:52:42.743075+09:00"
   },
   {
    "title": "ロックフィッシュ開幕！【日本列島縦断テスト釣行旅 in 北海道 】～トモ清水のガッ釣りソルト～ - LureNews",

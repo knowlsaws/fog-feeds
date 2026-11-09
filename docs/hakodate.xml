@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:fog="https://github.com/knowlsaws/fog-feeds">
+<rss version="2.0" xmlns:fog="https://github.com/sawswork/fog-feeds">
   <channel>
     <title>函館周辺の釣果情報（fog-feeds）</title>
-    <link>https://github.com/knowlsaws/fog-feeds</link>
+    <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Mon, 09 Nov 2026 15:44:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:52:42 +0900</lastBuildDate>
     <item>
       <title>2026/11/09 △▲△ﾛｯｸﾊﾞｲﾌﾞｼｬｯﾄﾞ入荷しました！！△▲△</title>
       <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/09/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%9b%ef%bd%af%ef%bd%b8%ef%be%8a%ef%be%9e%ef%bd%b2%ef%be%8c%ef%be%9e%ef%bd%bc%ef%bd%ac%ef%bd%af%ef%be%84%ef%be%9e%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</link>
@@ -1170,6 +1170,17 @@
       <fog:species>アイナメ・ヒラメ</fog:species>
     </item>
     <item>
+      <title>道南の無人島 釣りの楽園 松前小島 前編 - YouTube</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE02Ni1hSlhhUktXQWJuWFkxRXdjQ2xMLTh1UmtyYXlnRXlEc3Y2cDc1NGZOaW41ZXU2QjQtR2FwVUw5dnJwc1JnZmVsaE5RUWdoWWFWN1FqdnBVUjF6?oc=5</guid>
+      <pubDate>Tue, 17 Jun 2025 07:00:00 +0000</pubDate>
+      <description>道南の無人島 釣りの楽園 松前小島 前編 YouTube ｜ 場所: 松前・道南（Google ニュース（松前 江差 釣り））</description>
+      <category>Google ニュース（松前 江差 釣り）</category>
+      <fog:place>松前</fog:place>
+      <fog:lat>41.43000</fog:lat>
+      <fog:lon>140.10800</fog:lon>
+    </item>
+    <item>
       <title>北海道の漁港ロックフィッシュゲームで43cm頭にアイナメ複数安打を達成！ - TSURINEWS</title>
       <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWGtrb20zRW5tU1RVc00wN0Y4N05CcndNd1JiRXotcmg2S3lCaG0zenJqWllzMi0xZWlXaklLTEV3QQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWGtrb20zRW5tU1RVc00wN0Y4N05CcndNd1JiRXotcmg2S3lCaG0zenJqWllzMi0xZWlXaklLTEV3QQ?oc=5</guid>
@@ -1214,16 +1225,15 @@
       <fog:lon>140.26500</fog:lon>
     </item>
     <item>
-      <title>北海道ロックフィッシュゲームで40cmアイナメと対面成功【噴火湾】ゲストに良型トウベツカジカも - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ja240RFJEcDU3UHhRWTJYUFZxakc5dlIxUUtULTktMUVYNXVqQld6Y0cxd2dCNHFxVDVUa05ReVdFZw?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTE5Ja240RFJEcDU3UHhRWTJYUFZxakc5dlIxUUtULTktMUVYNXVqQld6Y0cxd2dCNHFxVDVUa05ReVdFZw?oc=5</guid>
-      <pubDate>Mon, 09 Dec 2024 08:00:00 +0000</pubDate>
-      <description>北海道ロックフィッシュゲームで40cmアイナメと対面成功【噴火湾】ゲストに良型トウベツカジカも TSURINEWS ｜ 場所: 噴火湾 / 魚種: アイナメ・カジカ（Google ニュース（噴火湾 釣り））</description>
+      <title>北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 - Lemino</title>
+      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5</guid>
+      <pubDate>Thu, 19 Dec 2024 08:06:45 +0000</pubDate>
+      <description>北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 Lemino ｜ 場所: 支笏湖（Google ニュース（噴火湾 釣り））</description>
       <category>Google ニュース（噴火湾 釣り）</category>
-      <fog:place>噴火湾</fog:place>
-      <fog:lat>42.25000</fog:lat>
-      <fog:lon>140.60000</fog:lon>
-      <fog:species>アイナメ・カジカ</fog:species>
+      <fog:place>支笏湖</fog:place>
+      <fog:lat>42.74700</fog:lat>
+      <fog:lon>141.35000</fog:lon>
     </item>
     <item>
       <title>ロックフィッシュ開幕！【日本列島縦断テスト釣行旅 in 北海道 】～トモ清水のガッ釣りソルト～ - LureNews</title>
