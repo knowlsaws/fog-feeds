@@ -2,9 +2,9 @@
 
 北海道の釣果・釣行情報を複数のサイトから集め、RSS にまとめる。釣りアプリ Fog の「釣果情報」に登録して使う。
 
-- RSS（北海道全域）: `https://raw.githubusercontent.com/knowlsaws/fog-feeds/main/docs/hokkaido.xml`
-- RSS（函館周辺だけ）: `https://raw.githubusercontent.com/knowlsaws/fog-feeds/main/docs/hakodate.xml`
-- 一覧ページ: `docs/index.html`（GitHub Pages を有効にすると `https://knowlsaws.github.io/fog-feeds/`）
+- RSS（北海道全域）: `https://raw.githubusercontent.com/sawswork/fog-feeds/main/docs/hokkaido.xml`
+- RSS（函館周辺だけ）: `https://raw.githubusercontent.com/sawswork/fog-feeds/main/docs/hakodate.xml`
+- 一覧ページ: `docs/index.html`（GitHub Pages を有効にすると `https://sawswork.github.io/fog-feeds/`）
 - JSON: `docs/hokkaido.json` / `docs/hakodate.json`
 
 ## 仕組み
