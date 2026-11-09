@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-09T07:12:02.076830+09:00",
+ "updatedAt": "2026-11-09T15:44:20.901083+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
    "links": 35,
-   "new": 26
+   "new": 25
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 62,
+   "links": 61,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
    "links": 42,
-   "new": 27
+   "new": 28
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
    "links": 21,
-   "new": 2
+   "new": 1
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 3
+   "new": 8
   },
   {
    "source": "エギCOM 函館",
@@ -59,7 +59,7 @@
    "source": "タックルベリー函館店",
    "status": "OK",
    "links": 6,
-   "new": 0
+   "new": 1
   },
   {
    "source": "TSURINEWS",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 54,
+   "links": 53,
    "new": 0
   },
   {
@@ -130,25 +130,25 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 9,
+   "links": 8,
    "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 11,
+   "links": 13,
    "new": 0
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
+   "links": 25,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 25,
+   "links": 26,
    "new": 0
   }
  ],
@@ -180,6 +180,32 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
+  },
+  {
+   "title": "アキアジ（秋鮭）が釣れるおすすめのポイント・釣り場｜釣り方や仕掛けもわかりやすく！",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/09/124919",
+   "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 アキアジ（秋鮭）は、秋の北海道を代表する魚です。川へ戻るために沿岸に寄ってくる群れを、サーフや漁港から狙うことができ、大きな引きが魅力です。11月はシーズン終盤ですが、群れに当たれば今からでも十分に楽しめます。この記事では、アキアジが釣れる時期やおすすめのポイント、仕掛けと釣り方、食べ方と注意点までわかりやすくまとめます。 （写真はイメージです） アキアジが釣れる時期 北海道のアキアジは、 8月下旬〜11月 が主なシーズンです。9月から10月にかけて最盛期を迎え、11月に入ると終盤になります。終盤でも、潮や天候のタイミングが合えば群れが接岸し、大きなアキアジが釣れることがあります。 11月に狙いたい魚の全体像は「 11月に今釣れるおすすめの魚 」の記事もあわせてど…",
+   "date": "2026-11-09T12:49:19+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [],
+   "species": [
+    "アキアジ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "2026/11/09 △▲△ﾛｯｸﾊﾞｲﾌﾞｼｬｯﾄﾞ入荷しました！！△▲△",
+   "link": "https://www.tackleberry.co.jp/shop/30011066/2026/11/09/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%9b%ef%bd%af%ef%bd%b8%ef%be%8a%ef%be%9e%ef%bd%b2%ef%be%8c%ef%be%9e%ef%bd%bc%ef%bd%ac%ef%bd%af%ef%be%84%ef%be%9e%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/",
+   "summary": "Just another 釣具の販売｜中古釣具オークション、高価買取、通販【タックルベリー】サイト site",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "タックルベリー函館店",
+   "places": [
+    "函館"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
   },
   {
    "title": "網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う - 北海道新聞デジタル",
@@ -283,6 +309,72 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-09T02:57:11.703972+09:00"
+  },
+  {
+   "title": "14 HIT はるお さん 2026-11-08 21:58 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 帰り際、根性の１杯 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319500",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "14 HIT はるお さん 2026-11-08 20:20 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層あたりで着いてすぐ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319499",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "27 HIT たがし さん 2026-11-08 20:19 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 連チャンで掛かりました！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319432",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "27 HIT たがし さん 2026-11-08 20:15 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ラインが横に走りました！ 良いサイズのマイカでした。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319431",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ",
+    "マイカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "26 HIT たがし さん 2026-11-08 19:20 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 足下で群れが通過した時に、掛かりました！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319430",
+   "summary": "",
+   "date": "2026-11-08T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
   },
   {
    "title": "2月に今釣れるおすすめの魚！ニシン・ワカサギ・チカなど",
@@ -1266,6 +1358,47 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-09T07:12:02.076830+09:00"
+  },
+  {
+   "title": "7 HIT タクポン さん 2026-11-05 22:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：磯 当たりも無くなり、終了としました。 小樽は港内は釣れなくなりましたが、磯はまだ釣れます！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319550",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "小樽"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "7 HIT タクポン さん 2026-11-05 22:35 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：磯 マメじゃないイカ狙いに変えて、タックルもLのロッドでエギも２号に変えて狙ってみましたが、釣れて来たのはマメでした！",
+   "link": "https://www.yamaria.com/catches/1319549",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "7 HIT タクポン さん 2026-11-05 22:13 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：磯 またマメじゃないイカが釣れてきました。 群れがいるのかも！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1319548",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
   },
   {
    "title": "【2026年10月】ショックリーダー人気ランキングTOP10｜口コミが多い順に並べてみた",
@@ -2825,6 +2958,21 @@
    "firstSeen": "2026-11-05T23:43:36.141097+09:00"
   },
   {
+   "title": "秋サケ「1人1日3匹」罰則効果あるか 不漁予測でオホーツク東部に危機感 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kZVpaWnZJRGRnNVI3Tzk4NVpkT0Fha1dGVWkxR0ZJRHVfQTFpUGFna2NvWHVzbldTWktLR2c2WGk4NmhaNDVHcUxGeGdldzJ4SWU1Y2xna2p3QQ?oc=5",
+   "summary": "秋サケ「1人1日3匹」罰則効果あるか 不漁予測でオホーツク東部に危機感 北海道新聞デジタル",
+   "date": "2026-08-22T07:00:00+00:00",
+   "source": "Google ニュース（道南 釣果）",
+   "places": [
+    "オホーツク"
+   ],
+   "species": [
+    "サケ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
    "title": "蝦夷松山",
    "link": "http://vi159xz3.exblog.jp/30998979/",
    "summary": "お盆休みが終わりそうな15日、最後のあがきのように登山に出かけた。 函館市内から登山できる蝦夷松山という初めての山だ。 陣川の温泉のあったあたりから、林道に入り登っていく。 登山口の目印となる十字路をまっすぐ進み、花の道コースを行くことにした。 登り始めてすぐに見たこともない大きい直径30㎝の傘のキノコを発見！ ラフレシアキノコと命名。 見たこともない五枚葉の植物…。 ウコギ類かなぁとは思う...",
@@ -3231,6 +3379,22 @@
   },
   {
    "title": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakQyc0pHdHFqYzdfZ3BPM3ZPOVpBT004TGR3akJMNUc5Sm1JS1ZTZExZT3VqWEl6UVlqM1NxMmFMTW00MjNNd1NGNERVM3pSTFB2bEIxNXQ2alFhWlI4SVJVWHBZbXZzekpGU2Z5cXVnalZmbWh2WWdJM0RXRHJDbEVPYTk0WFlX?oc=5",
+   "summary": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 北海道新聞デジタル",
+   "date": "2026-05-19T17:04:24+00:00",
+   "source": "Google ニュース（函館 釣り）",
+   "places": [
+    "函館",
+    "厚岸"
+   ],
+   "species": [
+    "スルメイカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-09T15:44:20.901083+09:00"
+  },
+  {
+   "title": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2s2UzlVcENsNm5RTHBJSVluQ3pGd2dabmRPaVlycmxXWmZpQ1pRa3JRSUE1bzFpTTB5OHQydUk1TE5Ob05sNDkzeE5SdkFVQjFJWXVWdmVnb2FoRjFUaFlMZ1VJQjhURWxHMGE2UW9yZzBpUFdhczlfRkdJM2NjTjh2ajRwNlVS?oc=5",
    "summary": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 北海道新聞デジタル",
    "date": "2026-05-19T09:22:30+00:00",
@@ -3378,21 +3542,6 @@
    "source": "Google ニュース（函館 釣り）",
    "places": [
     "函館港",
-    "函館"
-   ],
-   "species": [
-    "イカ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
-   "title": "活イカ戻ったぜ、函館 小型船釣り漁再開、1キロ4000円近い高値 [北海道] - 朝日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWlZBeEZ5X1BRMHprTmJBUnhGbW5pUzduUE9pN19YaHFWZjlqNjI0Q0VEc0FpZDZQamJfbWVjSTNrOXpBUGU5NVMzWUEyaUFOTHQxSVZtUmlvZmV6WktKVXpMVkdHQ28?oc=5",
-   "summary": "活イカ戻ったぜ、函館 小型船釣り漁再開、1キロ4000円近い高値 [北海道] 朝日新聞",
-   "date": "2025-11-12T08:00:00+00:00",
-   "source": "Google ニュース（函館 釣り）",
-   "places": [
     "函館"
    ],
    "species": [
