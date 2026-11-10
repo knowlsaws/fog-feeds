@@ -1,23 +1,23 @@
 {
- "updatedAt": "2026-11-10T23:58:02.123475+09:00",
+ "updatedAt": "2026-11-11T06:19:45.739003+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 32,
-   "new": 23
+   "links": 33,
+   "new": 25
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 66,
+   "links": 68,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 42,
-   "new": 28
+   "links": 41,
+   "new": 27
   },
   {
    "source": "Google ニュース（道南 釣果）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 13
+   "new": 12
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -47,7 +47,7 @@
    "source": "エギCOM 北海道",
    "status": "OK",
    "links": 8,
-   "new": 6
+   "new": 3
   },
   {
    "source": "エギCOM 函館",
@@ -76,7 +76,7 @@
   {
    "source": "TSURI HACK",
    "status": "OK",
-   "links": 54,
+   "links": 53,
    "new": 0
   },
   {
@@ -107,7 +107,7 @@
    "source": "八雲の釣りブログ（exblog）",
    "status": "OK",
    "links": 15,
-   "new": 4
+   "new": 3
   },
   {
    "source": "uosoku（釣り場まとめ）",
@@ -142,13 +142,13 @@
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
+   "links": 25,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 26,
+   "links": 27,
    "new": 0
   }
  ],
@@ -227,6 +227,19 @@
    "species": [],
    "hakodate": false,
    "firstSeen": "2026-11-10T23:58:02.123475+09:00"
+  },
+  {
+   "title": "なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か（HTB北海道ニュース） - ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PYU1YVmZObk54U2t4c3JUWkJsN1BRa0VqYU5nNXM1ejRUZktZVTlvMzE3TE1ZX2ttcWxVdHBqa0t2S3pvRmpCMllNRlZVQjhLMkNnSU5ONzZ6VWl6WWhnVG1QMF9lcTRVV2U5cg?oc=5",
+   "summary": "なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か（HTB北海道ニュース） ｄメニューニュース",
+   "date": "2026-11-10T08:43:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室港"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-11T06:19:45.739003+09:00"
   },
   {
    "title": "ニシンが釣れるおすすめのポイント・釣り場｜釣り方や仕掛けもわかりやすく！",
@@ -345,6 +358,20 @@
    "firstSeen": "2026-11-10T04:52:42.743075+09:00"
   },
   {
+   "title": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市 - FNNプライムオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wbGNhMWhFV1Y0clpDTTVSbnhHc1FhYmJLeE5TWDc2cHhNM0h1YlhrVjdzWVdobERVWVZDclRWVkRnU250OTRnUkdybFY2UQ?oc=5",
+   "summary": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市 FNNプライムオンライン",
+   "date": "2026-11-09T12:00:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室港",
+    "根室"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-11T06:19:45.739003+09:00"
+  },
+  {
    "title": "石狩湾新港のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
    "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/09/190000",
    "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 石狩湾新港は、札幌近郊で一番人気の釣り場です。札幌市内から車で1時間ほどで着くため、初心者からベテランまで多くの釣り人が訪れます。広い港には堤防や岸壁が多く、季節ごとにさまざまな魚が釣れるのが魅力です。この記事では、石狩湾新港のポイント解説、季節ごとに釣れる魚、仕掛けの目安、マナーと注意点までわかりやすくまとめます。 石狩湾新港のポイント解説 石狩湾新港はとても広い港です。エリアごとに水深や潮の流れ、底の様子が違うため、狙う魚や仕掛けも変わります。初めて行くときは、無理に奥まで行かず、まずは人が集まる釣りやすい場所から始めましょう。立入禁止区域には絶対に入らないようにしてください。 樽川方面 樽川方面は、サーフに近いエリアです。広い砂浜や護岸があり、投げ釣りやルア…",
@@ -427,6 +454,19 @@
    "species": [],
    "hakodate": false,
    "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "【海の異変？】記録的不漁のサンマが根室港で入れ食い状態「ダブル」「トリプル」も 釣り糸垂らせばすぐに 30分ほどでバケツ一杯の釣り人も＜北海道 - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RSTctUlU0V2lhN3FtR19XSkhQS0ktcjdHeEM3WWRfRTZjbVNldEVWNzV2N2tWU2V3TlZmaEpuYjlnODlNQm5XenVnSWNDLTFnQTd5cE8tdGpudXpY?oc=5",
+   "summary": "【海の異変？】記録的不漁のサンマが根室港で入れ食い状態「ダブル」「トリプル」も 釣り糸垂らせばすぐに 30分ほどでバケツ一杯の釣り人も＜北海道 YouTube",
+   "date": "2026-11-09T06:29:18+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室港"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-11T06:19:45.739003+09:00"
   },
   {
    "title": "アキアジ（秋鮭）が釣れるおすすめのポイント・釣り場｜釣り方や仕掛けもわかりやすく！",
@@ -557,6 +597,32 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-10T04:52:42.743075+09:00"
+  },
+  {
+   "title": "5 HIT ケンタッキー さん 2026-11-09 20:04 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層で、イカが少ないのか？強風で上手く操作できてないのか分からない？とにかく極寒です！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1320261",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-11T06:19:45.739003+09:00"
+  },
+  {
+   "title": "6 HIT ケンタッキー さん 2026-11-09 19:01 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層で、やっとです💦強風極寒で集中できません💧 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1320260",
+   "summary": "",
+   "date": "2026-11-09T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-11T06:19:45.739003+09:00"
   },
   {
    "title": "【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ - UHB 北海道文化放送",
@@ -1816,6 +1882,19 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-10T12:37:20.342095+09:00"
+  },
+  {
+   "title": "5 HIT ケンタッキー さん 2026-11-05 17:35 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 連チャンです！これで終了。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1320259",
+   "summary": "",
+   "date": "2026-11-05T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-11T06:19:45.739003+09:00"
   },
   {
    "title": "【2026年10月】ショックリーダー人気ランキングTOP10｜口コミが多い順に並べてみた",
