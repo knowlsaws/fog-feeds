@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Tue, 10 Nov 2026 04:52:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:37:20 +0900</lastBuildDate>
     <item>
       <title>2026/11/09 △▲△ﾛｯｸﾊﾞｲﾌﾞｼｬｯﾄﾞ入荷しました！！△▲△</title>
       <link>https://www.tackleberry.co.jp/shop/30011066/2026/11/09/%e2%96%b3%e2%96%b2%e2%96%b3%ef%be%9b%ef%bd%af%ef%bd%b8%ef%be%8a%ef%be%9e%ef%bd%b2%ef%be%8c%ef%be%9e%ef%bd%bc%ef%bd%ac%ef%bd%af%ef%be%84%ef%be%9e%e5%85%a5%e8%8d%b7%e3%81%97%e3%81%be%e3%81%97%e3%81%9f/</link>
@@ -724,18 +724,6 @@
       <fog:place>えりも</fog:place>
       <fog:lat>41.92700</fog:lat>
       <fog:lon>143.14700</fog:lon>
-    </item>
-    <item>
-      <title>真夏のビッグラッシュ！MAX８８ｃｍ</title>
-      <link>https://www.magicalhour.net/2026/08/12/%E7%9C%9F%E5%A4%8F%E3%81%AE%E3%83%93%E3%83%83%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-max%EF%BC%98%EF%BC%98%EF%BD%83%EF%BD%8D/</link>
-      <guid isPermaLink="true">https://www.magicalhour.net/2026/08/12/%E7%9C%9F%E5%A4%8F%E3%81%AE%E3%83%93%E3%83%83%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5-max%EF%BC%98%EF%BC%98%EF%BD%83%EF%BD%8D/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:22:35 +0900</pubDate>
-      <description>８月８～１１日ヒラメ。良かったり渋かったり。１１日は山の日なのにビッグ祭り～ヽ(^。^)ノ 先ずは８日土曜日。朝から快調な一日でした 開始一発！ ドカンっと一発！７７ｃｍ！ビッグヒットおめでとうございます(^^)/ キャスティングも好調でユーイチくんは二桁ヒット 「こ、今シーズン一番かも・・(&gt;_&lt;)」 んん？？コイツはヒラメ違うんじゃ・・立派なブリちゃん７ｋｇ！腕パンパンになってました 春のメータラに続いて嬉しい一本。家族には好評だそうです ポツポツではありますが順調にヒット。魚の居場所はミートしている感じ ６４ｃｍ！ こちらは６２ｃｍ！ おっきいのからちっちゃいのまで。コンスタンにヒットヒット！良い釣れ具合でしたヽ(^。^)ノ 翌日曜日 開始一発６４ｃｍ！ Ｈさん達はご予約３連敗でようやく出船決定。今年の週末組はかなりの運が試されました 朝は好調にヒットヒット！しかし時間と共に反応が薄… ｜ 場所: 豊浦 / 魚種: ヒラメ・ブリ（マジカルアワー（噴火湾の遊漁船））</description>
-      <category>マジカルアワー（噴火湾の遊漁船）</category>
-      <fog:place>豊浦</fog:place>
-      <fog:lat>42.57300</fog:lat>
-      <fog:lon>140.69200</fog:lon>
-      <fog:species>ヒラメ・ブリ</fog:species>
     </item>
     <item>
       <title>【北海道・函館】早起き必須！朝市名物「活いか釣り」に行って来た（トンちゃん） - エキスパート - Yahoo!ニュース</title>
