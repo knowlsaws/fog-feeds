@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Tue, 10 Nov 2026 12:37:20 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:58:02 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -24,6 +24,41 @@
       <fog:species>チカ・ホッケ</fog:species>
     </item>
     <item>
+      <title>小樽のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/10/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/10/190000</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 小樽は札幌から電車で30分ほどの港町で、歴史ある港の風景と釣りを一緒に楽しめる街です。港内の埠頭や岸壁を中心に、季節ごとにいろいろな魚が狙えます。この記事では、小樽の釣りポイントの見方と、釣れる魚・時期・注意点をわかりやすくまとめます。 小樽で釣りができる主なエリア 小樽港は大きな港で、釣りができる場所は港内の埠頭・岸壁と、その外側の防波堤まわりに分かれます。場所ごとの特徴は次のとおりです。 港内の埠頭・岸壁：足場がよく、ファミリーや初心者でも釣りやすい場所が多いです。サビキ釣りやちょい投げの中心になります 防波堤まわり：潮通しがよく、魚の通り道になりやすい場所です。先端ほど実績が出やすい反面、波や風の影響を受けやすいので注意が必要です テトラポッド帯：クロソイな… ｜ 場所: 小樽港・港町・札幌・小樽 / 魚種: クロソイ（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+      <fog:place>小樽港</fog:place>
+      <fog:lat>43.20028</fog:lat>
+      <fog:lon>141.01861</fog:lon>
+      <fog:species>クロソイ</fog:species>
+    </item>
+    <item>
+      <title>秋の南茅部開幕-アブラコ40㎝</title>
+      <link>http://vi159xz3.exblog.jp/31209385/</link>
+      <guid isPermaLink="true">http://vi159xz3.exblog.jp/31209385/</guid>
+      <pubDate>Tue, 10 Nov 2026 18:57:39 +0900</pubDate>
+      <description>しばらく川釣りでイワナやヤマメを釣っていたので、 デカい海魚の強烈な引きが恋しくなった。 11月に入り、秋シーズンが開幕した南茅部の南部に行くことにした。 前日は波風が荒れて、釣りはちょっと無理かもという感じだったが、 今日は波が少し収まって磯に入れた。 それでも磯に波が被っていたので、入る場所に制限のある釣行となった。 向かい風を受けながら投げていると小さいアタリが何度か繰り返される... ｜ 場所: 南茅部 / 魚種: アブラコ・ヤマメ（八雲の釣りブログ（exblog））</description>
+      <category>八雲の釣りブログ（exblog）</category>
+      <fog:place>南茅部</fog:place>
+      <fog:lat>41.93400</fog:lat>
+      <fog:lon>140.95900</fog:lon>
+      <fog:species>アブラコ・ヤマメ</fog:species>
+    </item>
+    <item>
+      <title>なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か - Yahoo!ニュース</title>
+      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9ha2x0SFJCRnBnbjhtdTQ5TmE4WWZFNzV0ZWRuY0VOem1nS1VxZzBqcDZ1RDdfNU9TQTFxdXhrY29pc0VVQlhSd0N6Q3lCVEgzMk0zWDVMaUNXMWs3VS04dVZobWUwVUNqM0pBRW9IaFBxQV8yU3Jid1ZOWHRITk0?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE9ha2x0SFJCRnBnbjhtdTQ5TmE4WWZFNzV0ZWRuY0VOem1nS1VxZzBqcDZ1RDdfNU9TQTFxdXhrY29pc0VVQlhSd0N6Q3lCVEgzMk0zWDVMaUNXMWs3VS04dVZobWUwVUNqM0pBRW9IaFBxQV8yU3Jid1ZOWHRITk0?oc=5</guid>
+      <pubDate>Tue, 10 Nov 2026 08:43:59 +0000</pubDate>
+      <description>なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か Yahoo!ニュース ｜ 場所: 根室港（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>根室港</fog:place>
+      <fog:lat>43.34519</fog:lat>
+      <fog:lon>145.57535</fog:lon>
+    </item>
+    <item>
       <title>ニシンが釣れるおすすめのポイント・釣り場｜釣り方や仕掛けもわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/10/094658</link>
       <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/10/094658</guid>
@@ -39,6 +74,60 @@
       <pubDate>Mon, 09 Nov 2026 23:02:36 +0000</pubDate>
       <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
+    </item>
+    <item>
+      <title>14 HIT しん さん 2026-11-10 21:24 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 中層で掛かりました😊 寒い中ノルマ達成したので急いで撤収💨 最近は自分が来ると釣れないパターンになってます</title>
+      <link>https://www.yamaria.com/catches/1320184</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1320184</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>14 HIT しん さん 2026-11-10 21:11 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 エギチェンしたら直ぐ来ました🙂 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1320180</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1320180</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>14 HIT しん さん 2026-11-10 20:19 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 1ハイ目が長かった😓 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1320178</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1320178</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>17 HIT うみきち🎣🦑 さん 2026-11-10 17:39 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ラインを張っても風に煽られてライン操作が厳しいです。 エギのシャクリも難しかったです。 修行の様な寒さで</title>
+      <link>https://www.yamaria.com/catches/1320148</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1320148</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>19 HIT うみきち🎣🦑 さん 2026-11-10 17:10 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 今日は全く見えません。 深めでした。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1320146</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1320146</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>19 HIT うみきち🎣🦑 さん 2026-11-10 17:06 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 今日も風が強くマイナス気温でした。 遠めでは掛かりません。 足元近くでした。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1320145</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1320145</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>【サンマが大漁】根室港で突然「入れ食い」状態に―竿を入れると一気に数匹釣れ30分ほどでバケツ一杯の釣果―体長20センチほどの魚群が沿岸に集まったか＜北海道根室市＞ - Yahoo!ニュース</title>
@@ -223,6 +312,17 @@
       <title>網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う - 北海道新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wU0k1UmdKOXcySllpaHg5QzFVdVIzQ1V2YkZNNnNSTWlXemlnYUxJNjB2YjRNUnludjBvYWZxQXZ5dy1XZm9oRkwyWTluUzdHN0lmVHI2dl9rMVNYbWt1LTZFQWM?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wU0k1UmdKOXcySllpaHg5QzFVdVIzQ1V2YkZNNnNSTWlXemlnYUxJNjB2YjRNUnludjBvYWZxQXZ5dy1XZm9oRkwyWTluUzdHN0lmVHI2dl9rMVNYbWt1LTZFQWM?oc=5</guid>
+      <pubDate>Sun, 08 Nov 2026 09:49:34 +0000</pubDate>
+      <description>網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う 北海道新聞デジタル ｜ 場所: 網走港（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>網走港</fog:place>
+      <fog:lat>44.02872</fog:lat>
+      <fog:lon>144.28610</fog:lon>
+    </item>
+    <item>
+      <title>網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVElzSHd6RUxDRXhfMjU2ZHZrQnNTTkh0b0x1dHFsU3N0ampSb2x6a0RBQk9UYlljUVUwMTR1alJqU21zcDZWOHFtRk5kLTU0a3FkMmpWd1NoQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVElzSHd6RUxDRXhfMjU2ZHZrQnNTTkh0b0x1dHFsU3N0ampSb2x6a0RBQk9UYlljUVUwMTR1alJqU21zcDZWOHFtRk5kLTU0a3FkMmpWd1NoQQ?oc=5</guid>
       <pubDate>Sun, 08 Nov 2026 09:49:34 +0000</pubDate>
       <description>網走港に「秋の味覚」 水揚げ低迷のサンマ続々 夜の岸壁に釣り人集う 北海道新聞デジタル ｜ 場所: 網走港（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
