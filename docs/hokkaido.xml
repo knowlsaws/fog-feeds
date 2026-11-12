@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 12 Nov 2026 20:23:52 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:59:53 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -34,6 +34,18 @@
       <fog:lat>41.60000</fog:lat>
       <fog:lon>140.80000</fog:lon>
       <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>網走と斜里のサケ釣り自粛 20日から11日間 全海域で釣り客に要請 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbWpNdm1DTkdnLUQ2a182cVIzZVNQQjRxakdrb2syMU9HV0hsQW9hN1F6VWxqYzZNNk81T25yck5sZ1EzV0RzOUxwdFFZUUJ3RUFYcVBncjhRUQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFbWpNdm1DTkdnLUQ2a182cVIzZVNQQjRxakdrb2syMU9HV0hsQW9hN1F6VWxqYzZNNk81T25yck5sZ1EzV0RzOUxwdFFZUUJ3RUFYcVBncjhRUQ?oc=5</guid>
+      <pubDate>Thu, 12 Nov 2026 06:45:32 +0000</pubDate>
+      <description>網走と斜里のサケ釣り自粛 20日から11日間 全海域で釣り客に要請 北海道新聞デジタル ｜ 場所: 斜里・網走 / 魚種: サケ（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>斜里</fog:place>
+      <fog:lat>43.91100</fog:lat>
+      <fog:lon>144.66600</fog:lon>
+      <fog:species>サケ</fog:species>
     </item>
     <item>
       <title>網走と斜里のサケ釣り自粛　20日から11日間　全海域で釣り客に要請 - ｄメニューニュース</title>
@@ -66,6 +78,60 @@
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
       <fog:lon>140.72900</fog:lon>
+    </item>
+    <item>
+      <title>7 HIT Bマサ さん 2026-11-12 20:42 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 同じくボトムで 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321314</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321314</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>8 HIT Bマサ さん 2026-11-12 20:20 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 イカの姿見えなくボトム狙いで！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321313</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321313</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>8 HIT Bマサ さん 2026-11-12 20:11 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 誰もいないポイントで1投目！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321312</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321312</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>21 HIT うみきち🎣🦑 さん 2026-11-12 17:54 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 プチラッシュでした。 この後も連続で掛かってます。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321295</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321295</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>21 HIT うみきち🎣🦑 さん 2026-11-12 17:51 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ベーシックに変えて強めのシャクリで掛けました。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321294</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321294</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>20 HIT うみきち🎣🦑 さん 2026-11-12 17:20 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 ボトム近くで掛けました。 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321292</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321292</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>久しぶりのボートロック！めっちゃ釣れた～ヽ(^。^)ノ</title>
@@ -243,6 +309,24 @@
       <title>92 HIT タクポン さん 2026-11-11 20:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 20時過ぎまで粘りましたが、時速1マメペースで好転は望めそうもないので、寒さに負けて終了としました。 ヤリが</title>
       <link>https://www.yamaria.com/catches/1320892</link>
       <guid isPermaLink="true">https://www.yamaria.com/catches/1320892</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>1 HIT ケンタッキー さん 2026-11-11 17:41 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 中層で 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321444</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321444</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>1 HIT ケンタッキー さん 2026-11-11 17:33 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 中層でスッテに 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321443</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321443</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
       <description>魚種: イカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
@@ -2999,6 +3083,18 @@
       <category>気ままに道南釣行記</category>
     </item>
     <item>
+      <title>北海道釣りツアー２０２６スタート！・大サバ、ヤリイカ、アブラコ、ダツ・函館港海岸町船だまり・函館湖西埠頭・木古内漁港・木古内サーフ「４年連続車中泊で北海道～沖縄日本全国釣りの旅」 - YouTube</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zOUhyeEhGN09yY2dIVDFzUi1NOEUzeEVsMld4SmJ3TjN4a3dWcjA4TjRGeGp6UmNNMjJwWkhXMzJNLWNfWU1CYXF4Y0k3SWpPdllDc0pJUEwtYWVM?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zOUhyeEhGN09yY2dIVDFzUi1NOEUzeEVsMld4SmJ3TjN4a3dWcjA4TjRGeGp6UmNNMjJwWkhXMzJNLWNfWU1CYXF4Y0k3SWpPdllDc0pJUEwtYWVM?oc=5</guid>
+      <pubDate>Sat, 13 Jun 2026 07:00:00 +0000</pubDate>
+      <description>北海道釣りツアー２０２６スタート！・大サバ、ヤリイカ、アブラコ、ダツ・函館港海岸町船だまり・函館湖西埠頭・木古内漁港・木古内サーフ「４年連続車中泊で北海道～沖縄日本全国釣りの旅」 YouTube ｜ 場所: 木古内漁港・函館港・木古内・海岸町・函館 / 魚種: サバ・ヤリイカ・アブラコ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>木古内漁港</fog:place>
+      <fog:lat>41.68617</fog:lat>
+      <fog:lon>140.44698</fog:lon>
+      <fog:species>サバ・ヤリイカ・アブラコ</fog:species>
+    </item>
+    <item>
       <title>【北海道でチップ釣り】銀色の魚体も湖面もキラキラ！「チップ」と呼ばれるサケ科のヒメマス“水温低く”序盤の釣果は『厳しめ』―8月末ごろまで〈北海道千歳市〉 - UHB 北海道文化放送</title>
       <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hOF93NGZ4V3Z2SHY3bmhiR2JrSzJuajJiUXJJdGowSGR1UjVqV0RFOGRlNXZOUFUtdEs1cDRXUk9tcTdsSWs3S3Vwa002TFIzc1U1YTJFUQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hOF93NGZ4V3Z2SHY3bmhiR2JrSzJuajJiUXJJdGowSGR1UjVqV0RFOGRlNXZOUFUtdEs1cDRXUk9tcTdsSWs3S3Vwa002TFIzc1U1YTJFUQ?oc=5</guid>
@@ -3152,18 +3248,6 @@
       <fog:species>ヒラメ</fog:species>
     </item>
     <item>
-      <title>【速報】小型イカ釣り漁船と貨物船が衝突…漁船は船首が損傷し2人が病院に搬送＜北海道函館市・函館港＞ - UHB 北海道文化放送</title>
-      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JR3VDSXlHZHBTSjhFMFRLcEk4c1RvSEduZFBiRmxlMkhjQTE1aE1LM3BSSEZGOWpMalJtaTJTbi04QnFYUjdYeFlYMWl3cjdJWFgzaDk4UQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JR3VDSXlHZHBTSjhFMFRLcEk4c1RvSEduZFBiRmxlMkhjQTE1aE1LM3BSSEZGOWpMalJtaTJTbi04QnFYUjdYeFlYMWl3cjdJWFgzaDk4UQ?oc=5</guid>
-      <pubDate>Fri, 14 Nov 2025 08:00:00 +0000</pubDate>
-      <description>【速報】小型イカ釣り漁船と貨物船が衝突…漁船は船首が損傷し2人が病院に搬送＜北海道函館市・函館港＞ UHB 北海道文化放送 ｜ 場所: 函館港・函館 / 魚種: イカ（Google ニュース（函館 釣り））</description>
-      <category>Google ニュース（函館 釣り）</category>
-      <fog:place>函館港</fog:place>
-      <fog:lat>41.79083</fog:lat>
-      <fog:lon>140.69389</fog:lon>
-      <fog:species>イカ</fog:species>
-    </item>
-    <item>
       <title>摘発の瞬間「室蘭海上保安部だ！動くな、検挙します」暗闇に紛れて秋サケを狙う密漁者 禁止エリアで取材カメラが捉えた釣り人たち…モラルなき現場を直撃 北海道・白老町 - TBS NEWS DIG</title>
       <link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VU0tHMFcxR3JXcm1XZS1SS0dmYUFjNWhJTUNYMzhuY2RnSEVUYVZTM1p0YnhtcjRaS2hyeUw4QTlnZGY1bFN6WFl4SmtPN0RFSXptS2prRUtoa0x0MUs3R2tZOA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VU0tHMFcxR3JXcm1XZS1SS0dmYUFjNWhJTUNYMzhuY2RnSEVUYVZTM1p0YnhtcjRaS2hyeUw4QTlnZGY1bFN6WFl4SmtPN0RFSXptS2prRUtoa0x0MUs3R2tZOA?oc=5</guid>
@@ -3219,6 +3303,18 @@
       <fog:place>江差</fog:place>
       <fog:lat>41.86900</fog:lat>
       <fog:lon>140.12700</fog:lon>
+    </item>
+    <item>
+      <title>今年も「大サバ」を狙って室蘭港へ釣りにGO!! 過去2年と比較 - YouTube</title>
+      <link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE5relZVcjFFNmIzUlkzRlJrcTJzWXhwVTF6ZDBhUHNuMTlNa05kVzNRSVpyNWFFbnpQdXlvNkREOEIxZkJCcThrYkFPX3V2NzR4YTF6LWJDR1lEbUhT?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiXEFVX3lxTE5relZVcjFFNmIzUlkzRlJrcTJzWXhwVTF6ZDBhUHNuMTlNa05kVzNRSVpyNWFFbnpQdXlvNkREOEIxZkJCcThrYkFPX3V2NzR4YTF6LWJDR1lEbUhT?oc=5</guid>
+      <pubDate>Wed, 30 Jul 2025 07:00:00 +0000</pubDate>
+      <description>今年も「大サバ」を狙って室蘭港へ釣りにGO!! 過去2年と比較 YouTube ｜ 場所: 室蘭港 / 魚種: サバ（Google ニュース（噴火湾 釣り））</description>
+      <category>Google ニュース（噴火湾 釣り）</category>
+      <fog:place>室蘭港</fog:place>
+      <fog:lat>42.34796</fog:lat>
+      <fog:lon>140.95977</fog:lon>
+      <fog:species>サバ</fog:species>
     </item>
     <item>
       <title>夕マヅメのロックゲームで44cm頭にアイナメ連発！【北海道・噴火湾】小エビ捕食パターンで攻略 - TSURINEWS</title>
@@ -3323,17 +3419,6 @@
       <fog:lon>140.26500</fog:lon>
     </item>
     <item>
-      <title>北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 - Lemino</title>
-      <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiowFBVV95cUxOWU8yUllUTXBjbGJ1bmx5SnBrZnREVUM4ZEhqNTQyQXZZck5XTVBUdlpPRTdlVEp5S0ZHUVozVVNmQlNFTTJRdkEtay1kSjdSSThMQU1qZmNTV1NtbHdrYi1qTmkwUlRncDlXZm1BY2dBMVNMSXE5VHFvS1ZGRUJSU1BxcmFlSy1vYkZvRHRLNkJBRTFtMldydEZ2T3puSUt2aGZj?oc=5</guid>
-      <pubDate>Thu, 19 Dec 2024 08:06:45 +0000</pubDate>
-      <description>北海道つり部 5 支笏湖のルアーフィッシング【後編】 | Lemino(レミノ) - 映画・ドラマ・アニメや音楽・ライブが見放題 Lemino ｜ 場所: 支笏湖（Google ニュース（噴火湾 釣り））</description>
-      <category>Google ニュース（噴火湾 釣り）</category>
-      <fog:place>支笏湖</fog:place>
-      <fog:lat>42.74700</fog:lat>
-      <fog:lon>141.35000</fog:lon>
-    </item>
-    <item>
       <title>ロックフィッシュ開幕！【日本列島縦断テスト釣行旅 in 北海道 】～トモ清水のガッ釣りソルト～ - LureNews</title>
       <link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fV3lPakNvT25UUEt0QUJiTUdEcXB5UWlLUngwNzh4MGEwLXFKWXp3al9qTFJSeUtNSW4waTE2UEVJOVNmeUE2WA?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fV3lPakNvT25UUEt0QUJiTUdEcXB5UWlLUngwNzh4MGEwLXFKWXp3al9qTFJSeUtNSW4waTE2UEVJOVNmeUE2WA?oc=5</guid>
@@ -3422,6 +3507,18 @@
       <fog:lat>41.90000</fog:lat>
       <fog:lon>140.50000</fog:lon>
       <fog:species>カレイ</fog:species>
+    </item>
+    <item>
+      <title>北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ - 日刊スポーツ</title>
+      <link>https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWRCSllzZGp2Nk9jNmZ5UHB5cHR4WHhXbDlCRFU1blEtd3FIOFJzUjREREx3NXU4dHhlU04yUWJ3MHA0MXhIellVUkVoVm4zR2xrVXp1b0hoeGRmX3NVQXZDMkdBVm1neXlMdEJwRVRqcmpZWHBFaHZ3Qnl2UE9HRkVRUlBaanlqbkhXbWk0Z01RbkJMZWgzQg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMimAFBVV95cUxQVWRCSllzZGp2Nk9jNmZ5UHB5cHR4WHhXbDlCRFU1blEtd3FIOFJzUjREREx3NXU4dHhlU04yUWJ3MHA0MXhIellVUkVoVm4zR2xrVXp1b0hoeGRmX3NVQXZDMkdBVm1neXlMdEJwRVRqcmpZWHBFaHZ3Qnl2UE9HRkVRUlBaanlqbkhXbWk0Z01RbkJMZWgzQg?oc=5</guid>
+      <pubDate>Thu, 21 Apr 2022 07:00:00 +0000</pubDate>
+      <description>北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ 日刊スポーツ ｜ 場所: せたな・八雲 / 魚種: ホッケ・カレイ（Google ニュース（八雲 釣り））</description>
+      <category>Google ニュース（八雲 釣り）</category>
+      <fog:place>せたな</fog:place>
+      <fog:lat>42.44900</fog:lat>
+      <fog:lon>139.85300</fog:lon>
+      <fog:species>ホッケ・カレイ</fog:species>
     </item>
     <item>
       <title>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる - 日刊スポーツ</title>
