@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Thu, 12 Nov 2026 02:13:21 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:47:48 +0900</lastBuildDate>
     <item>
       <title>久しぶりのボートロック！めっちゃ釣れた～ヽ(^。^)ノ</title>
       <link>https://www.magicalhour.net/2026/11/11/%E4%B9%85%E3%81%97%E3%81%B6%E3%82%8A%E3%81%AE%E3%83%9C%E3%83%BC%E3%83%88%E3%83%AD%E3%83%83%E3%82%AF-%E3%82%81%E3%81%A3%E3%81%A1%E3%82%83%E9%87%A3%E3%82%8C%E3%81%9F-%E3%83%BD-%E3%83%8E/</link>
@@ -1403,6 +1403,18 @@
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
       <description>「子どもだったら嬉しくて走り回る」凧揚げ、海釣り、キャンプも楽しめる 北海道・鷗島灯台の“絶景”ポイント クレアウェブ（Google ニュース（松前 江差 釣り））</description>
       <category>Google ニュース（松前 江差 釣り）</category>
+    </item>
+    <item>
+      <title>投げ釣りの冬シーズン突入！北海道・道南で大型カレイが乱舞！［シマノ・日置淳］ - ルアマガプラス</title>
+      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdjhvcDFLellXVnItdUJhN1hySlRjNWZNa2FRQlE0ZU9RYWxneEI5Q0t2dFdxRUlfV195MEhvazRIN1pSbFdtWDJDdFZYZzk2N3pYY0NR?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdjhvcDFLellXVnItdUJhN1hySlRjNWZNa2FRQlE0ZU9RYWxneEI5Q0t2dFdxRUlfV195MEhvazRIN1pSbFdtWDJDdFZYZzk2N3pYY0NR?oc=5</guid>
+      <pubDate>Sat, 19 Nov 2022 08:00:00 +0000</pubDate>
+      <description>投げ釣りの冬シーズン突入！北海道・道南で大型カレイが乱舞！［シマノ・日置淳］ ルアマガプラス ｜ 場所: 道南 / 魚種: カレイ（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:place>道南</fog:place>
+      <fog:lat>41.90000</fog:lat>
+      <fog:lon>140.50000</fog:lon>
+      <fog:species>カレイ</fog:species>
     </item>
     <item>
       <title>北海道・八雲町熊石大成区で40センチ超マゾイ まだまだホッケも楽しめる - 日刊スポーツ</title>
