@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 13 Nov 2026 10:52:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:07:14 +0900</lastBuildDate>
     <item>
       <title>函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/12/190000</link>
@@ -1357,6 +1357,15 @@
       <category>Google ニュース（道南 釣果）</category>
     </item>
     <item>
+      <title>大型のニジマスとアメマスを釣る秋の北海道 - ANA</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcGxVejM4Ry14S0dPMi1jakpxOGgzSEFVVlZ1XzlQX3JBWUU2bFZqdkM1ekhUN3dXSE12bE5aTUlRQVMxSnZmTUk1WVJmZlRxMDNYb1V5dXlpSWcycnA1Rg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcGxVejM4Ry14S0dPMi1jakpxOGgzSEFVVlZ1XzlQX3JBWUU2bFZqdkM1ekhUN3dXSE12bE5aTUlRQVMxSnZmTUk1WVJmZlRxMDNYb1V5dXlpSWcycnA1Rg?oc=5</guid>
+      <pubDate>Tue, 15 Oct 2024 07:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 魚種: ニジマス（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:species>ニジマス</fog:species>
+    </item>
+    <item>
       <title>Vol.55～専門店スタッフが語る釣りのお話3～ - 北海道の人、暮らし、仕事。 くらしごと</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE5pU2c1WE9BSmJmNmJGY0RnRTdkMHhtRlFzZGJmVXJ3c19NenozNnhRcy02dWR4YjFLaHNzQnFNQUlSTUlfVWZsUDJRb1ktbEVjU3JIcTNXZkRUUmlxLThHR2I3ZzRJNVdxaUxPVTJmdDVybVE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE5pU2c1WE9BSmJmNmJGY0RnRTdkMHhtRlFzZGJmVXJ3c19NenozNnhRcy02dWR4YjFLaHNzQnFNQUlSTUlfVWZsUDJRb1ktbEVjU3JIcTNXZkRUUmlxLThHR2I3ZzRJNVdxaUxPVTJmdDVybVE?oc=5</guid>
@@ -1425,18 +1434,6 @@
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
       <description>「子どもだったら嬉しくて走り回る」凧揚げ、海釣り、キャンプも楽しめる 北海道・鷗島灯台の“絶景”ポイント クレアウェブ（Google ニュース（松前 江差 釣り））</description>
       <category>Google ニュース（松前 江差 釣り）</category>
-    </item>
-    <item>
-      <title>投げ釣りの冬シーズン突入！北海道・道南で大型カレイが乱舞！［シマノ・日置淳］ - ルアマガプラス</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdjhvcDFLellXVnItdUJhN1hySlRjNWZNa2FRQlE0ZU9RYWxneEI5Q0t2dFdxRUlfV195MEhvazRIN1pSbFdtWDJDdFZYZzk2N3pYY0NR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdjhvcDFLellXVnItdUJhN1hySlRjNWZNa2FRQlE0ZU9RYWxneEI5Q0t2dFdxRUlfV195MEhvazRIN1pSbFdtWDJDdFZYZzk2N3pYY0NR?oc=5</guid>
-      <pubDate>Sat, 19 Nov 2022 08:00:00 +0000</pubDate>
-      <description>投げ釣りの冬シーズン突入！北海道・道南で大型カレイが乱舞！［シマノ・日置淳］ ルアマガプラス ｜ 場所: 道南 / 魚種: カレイ（Google ニュース（道南 釣果））</description>
-      <category>Google ニュース（道南 釣果）</category>
-      <fog:place>道南</fog:place>
-      <fog:lat>41.90000</fog:lat>
-      <fog:lon>140.50000</fog:lon>
-      <fog:species>カレイ</fog:species>
     </item>
     <item>
       <title>北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ - 日刊スポーツ</title>

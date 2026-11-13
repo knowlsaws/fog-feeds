@@ -4,7 +4,7 @@
     <title>北海道の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>北海道全域の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 13 Nov 2026 10:52:37 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:07:14 +0900</lastBuildDate>
     <item>
       <title>1月に今釣れるおすすめの魚！ワカサギ・チカ・ホッケなど</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/06/073309</link>
@@ -22,6 +22,31 @@
       <description>1月の北海道は、一年で最も寒さが厳しい時期です。雪と氷に覆われた景色の中でも、釣りの楽しみはしっかりあります。氷上でのワカサギ釣りが本番を迎え、港ではチカやホッケの数釣りも楽しめる季節です。 この記事では、1月に北海道で今釣れるおすすめの魚を5つ紹介します。極寒の中での釣りになるので、防寒と安全にしっかり気をつけて、真冬の釣りを楽しみましょう。 1月に今釣れる魚！ ワカサギ （写真はイメージです） ワカサギは、1月の氷上釣りシーズン本番の主役です。氷に穴を開けて狙うワカサギ釣りは、北海道の冬ならではの楽しみで、群れに当たればたくさんの釣果が期待できます。ただし、氷上釣りができるのは解禁した場所だけで、氷の厚さや状態は日々変わります。必ず現地の解禁情報と氷の状態を確認してから出かけましょう。詳しくは、こちらのワカサギ釣りの始め方ガイドも参考にしてください。 ワカサギ釣りの始め方｜氷上釣りの道… ｜ 魚種: チカ・ホッケ（みんなの北海道釣り情報）</description>
       <category>みんなの北海道釣り情報</category>
       <fog:species>チカ・ホッケ</fog:species>
+    </item>
+    <item>
+      <title>北海道の氷上ワカサギ釣りはいつから？湖ごとの解禁時期と準備まとめ</title>
+      <link>https://fishinglife.hatenadiary.jp/entry/2026/11/13/190000</link>
+      <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/13/190000</guid>
+      <pubDate>Fri, 13 Nov 2026 19:00:00 +0900</pubDate>
+      <description>※2026年11月に公開しました。この記事はシーズン前の準備編です。今季の正式な解禁日は各湖の管理団体・漁協からこれから発表されます。出かける前に必ず最新の公式情報を確認してください。 北海道の冬の風物詩、氷上ワカサギ釣りの季節が近づいてきました。凍った湖の上にテントや小屋を構え、小さな穴から糸を垂らす非日常の釣りです。この記事では、氷上ワカサギ釣りがいつから始まるのか、主な湖ごとの解禁時期の目安（例年）と、解禁前に済ませたい準備をまとめます。 氷上ワカサギ釣りはいつから？ 北海道の氷上ワカサギ釣りは、早い場所で12月下旬から始まり、中心は1月上旬から3月上旬です。ただし「解禁日」はカレンダーで決まるのではなく、氷の厚さが安全な基準に達し、管理団体や漁協が安全を確認してから発表されます。そのため年によって1週間以上前後することも珍しくありません。 11月中旬の今は、まだ今季の解禁発表が出て…（みんなの北海道釣り情報）</description>
+      <category>みんなの北海道釣り情報</category>
+    </item>
+    <item>
+      <title>サケが獲れない北海道で増えている魚とは？　シイラ・フグ・ブリに新たな可能性</title>
+      <link>https://tsurinews.jp/416924/</link>
+      <guid isPermaLink="true">https://tsurinews.jp/416924/</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:55 +0000</pubDate>
+      <description>サケが獲れない北海道で増えている魚とは？ シイラ・フグ・ブリに新たな可能性"&gt; 海外に売れば高い「シイラ」 世界中で急速に進行している海水温上昇。なかでも我が国の北海道周辺の海域は世界で最も高温化が進んでいる海域とされ、棲息している魚の種類がごく短いスパンでどんどん変化していって … "サケが獲れない北海道で増えている魚とは？ シイラ・フグ・ブリに新たな可能性" の 続きを読む ｜ 魚種: サケ・ブリ（TSURINEWS）</description>
+      <category>TSURINEWS</category>
+      <fog:species>サケ・ブリ</fog:species>
+    </item>
+    <item>
+      <title>ルアーで釣れないはずの「ボラ」が連発！　漁師も驚いたワームの意外な使い方とは？</title>
+      <link>https://tsurinews.jp/416746/</link>
+      <guid isPermaLink="true">https://tsurinews.jp/416746/</guid>
+      <pubDate>Fri, 13 Nov 2026 02:30:32 +0000</pubDate>
+      <description>ルアーで釣れないはずの「ボラ」が連発！ 漁師も驚いたワームの意外な使い方とは？"&gt; ルアーでは狙いにくいボラを釣る ボラは北海道以南に広く見られる魚で、海だけでなく河口や汽水域にも多く生息している。単独行動はあまりせず、同じくらいの大きさの個体で群れを作り、水面付近を泳ぎ回っている姿 … "ルアーで釣れないはずの「ボラ」が連発！ 漁師も驚いたワームの意外な使い方とは？" の 続きを読む（TSURINEWS）</description>
+      <category>TSURINEWS</category>
     </item>
     <item>
       <title>サビキ釣りの始め方｜仕掛け・釣り方・釣れる魚をわかりやすく！</title>
@@ -186,6 +211,24 @@
       <description>魚種: イカ・ヤリイカ（エギCOM 北海道）</description>
       <category>エギCOM 北海道</category>
       <fog:species>イカ・ヤリイカ</fog:species>
+    </item>
+    <item>
+      <title>13 HIT Bマサ さん 2026-11-12 21:52 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 帰りぎわ群見つけて1杯,その後廻ってくるけどやる気0でした 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321629</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321629</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>13 HIT Bマサ さん 2026-11-12 21:14 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 中層で 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321627</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321627</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
     </item>
     <item>
       <title>久しぶりのボートロック！めっちゃ釣れた～ヽ(^。^)ノ</title>
@@ -396,6 +439,24 @@
       <fog:species>イカ・マイカ</fog:species>
     </item>
     <item>
+      <title>34 HIT kuro さん 2026-11-11 21:19 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 まだ居るような感じです！ 中層で！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321623</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321623</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
+      <title>34 HIT kuro さん 2026-11-11 21:26 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 中層で！ 詳細ページ →</title>
+      <link>https://www.yamaria.com/catches/1321621</link>
+      <guid isPermaLink="true">https://www.yamaria.com/catches/1321621</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0900</pubDate>
+      <description>魚種: イカ（エギCOM 北海道）</description>
+      <category>エギCOM 北海道</category>
+      <fog:species>イカ</fog:species>
+    </item>
+    <item>
       <title>小樽のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/10/190000</link>
       <guid isPermaLink="true">https://fishinglife.hatenadiary.jp/entry/2026/11/10/190000</guid>
@@ -447,6 +508,17 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMibEFVX3lxTE5PYU1YVmZObk54U2t4c3JUWkJsN1BRa0VqYU5nNXM1ejRUZktZVTlvMzE3TE1ZX2ttcWxVdHBqa0t2S3pvRmpCMllNRlZVQjhLMkNnSU5ONzZ6VWl6WWhnVG1QMF9lcTRVV2U5cg?oc=5</guid>
       <pubDate>Tue, 10 Nov 2026 08:43:00 +0000</pubDate>
       <description>なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か（HTB北海道ニュース） ｄメニューニュース ｜ 場所: 根室港（Google ニュース（北海道 釣り））</description>
+      <category>Google ニュース（北海道 釣り）</category>
+      <fog:place>根室港</fog:place>
+      <fog:lat>43.34519</fog:lat>
+      <fog:lon>145.57535</fog:lon>
+    </item>
+    <item>
+      <title>なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か HTB北海道ニュース - HTB 北海道テレビ</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSFBmdEhnNmUtNTlEaGZzMjlXMTFoOGFxWHBSZHNabTItNFpMV2xNLXp0UDhuMkVvLWtsdVU5bWlBS3JFUlZyOXVpR3hqeFA1UnV1TFRyTC1CQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSFBmdEhnNmUtNTlEaGZzMjlXMTFoOGFxWHBSZHNabTItNFpMV2xNLXp0UDhuMkVvLWtsdVU5bWlBS3JFUlZyOXVpR3hqeFA1UnV1TFRyTC1CQQ?oc=5</guid>
+      <pubDate>Tue, 10 Nov 2026 08:43:00 +0000</pubDate>
+      <description>なぜ？記録的不漁のサンマが根室港へ押し寄せ…釣り人「2時間半で150匹」 水温変化が原因か HTB北海道ニュース HTB 北海道テレビ ｜ 場所: 根室港（Google ニュース（北海道 釣り））</description>
       <category>Google ニュース（北海道 釣り）</category>
       <fog:place>根室港</fog:place>
       <fog:lat>43.34519</fog:lat>
@@ -3499,6 +3571,15 @@
       <category>Google ニュース（道南 釣果）</category>
     </item>
     <item>
+      <title>大型のニジマスとアメマスを釣る秋の北海道 - ANA</title>
+      <link>https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcGxVejM4Ry14S0dPMi1jakpxOGgzSEFVVlZ1XzlQX3JBWUU2bFZqdkM1ekhUN3dXSE12bE5aTUlRQVMxSnZmTUk1WVJmZlRxMDNYb1V5dXlpSWcycnA1Rg?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GcGxVejM4Ry14S0dPMi1jakpxOGgzSEFVVlZ1XzlQX3JBWUU2bFZqdkM1ekhUN3dXSE12bE5aTUlRQVMxSnZmTUk1WVJmZlRxMDNYb1V5dXlpSWcycnA1Rg?oc=5</guid>
+      <pubDate>Tue, 15 Oct 2024 07:00:00 +0000</pubDate>
+      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 魚種: ニジマス（Google ニュース（道南 釣果））</description>
+      <category>Google ニュース（道南 釣果）</category>
+      <fog:species>ニジマス</fog:species>
+    </item>
+    <item>
       <title>Vol.55～専門店スタッフが語る釣りのお話3～ - 北海道の人、暮らし、仕事。 くらしごと</title>
       <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE5pU2c1WE9BSmJmNmJGY0RnRTdkMHhtRlFzZGJmVXJ3c19NenozNnhRcy02dWR4YjFLaHNzQnFNQUlSTUlfVWZsUDJRb1ktbEVjU3JIcTNXZkRUUmlxLThHR2I3ZzRJNVdxaUxPVTJmdDVybVE?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMic0FVX3lxTE5pU2c1WE9BSmJmNmJGY0RnRTdkMHhtRlFzZGJmVXJ3c19NenozNnhRcy02dWR4YjFLaHNzQnFNQUlSTUlfVWZsUDJRb1ktbEVjU3JIcTNXZkRUUmlxLThHR2I3ZzRJNVdxaUxPVTJmdDVybVE?oc=5</guid>
@@ -3567,18 +3648,6 @@
       <pubDate>Thu, 16 Nov 2023 08:00:00 +0000</pubDate>
       <description>「子どもだったら嬉しくて走り回る」凧揚げ、海釣り、キャンプも楽しめる 北海道・鷗島灯台の“絶景”ポイント クレアウェブ（Google ニュース（松前 江差 釣り））</description>
       <category>Google ニュース（松前 江差 釣り）</category>
-    </item>
-    <item>
-      <title>投げ釣りの冬シーズン突入！北海道・道南で大型カレイが乱舞！［シマノ・日置淳］ - ルアマガプラス</title>
-      <link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdjhvcDFLellXVnItdUJhN1hySlRjNWZNa2FRQlE0ZU9RYWxneEI5Q0t2dFdxRUlfV195MEhvazRIN1pSbFdtWDJDdFZYZzk2N3pYY0NR?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zdjhvcDFLellXVnItdUJhN1hySlRjNWZNa2FRQlE0ZU9RYWxneEI5Q0t2dFdxRUlfV195MEhvazRIN1pSbFdtWDJDdFZYZzk2N3pYY0NR?oc=5</guid>
-      <pubDate>Sat, 19 Nov 2022 08:00:00 +0000</pubDate>
-      <description>投げ釣りの冬シーズン突入！北海道・道南で大型カレイが乱舞！［シマノ・日置淳］ ルアマガプラス ｜ 場所: 道南 / 魚種: カレイ（Google ニュース（道南 釣果））</description>
-      <category>Google ニュース（道南 釣果）</category>
-      <fog:place>道南</fog:place>
-      <fog:lat>41.90000</fog:lat>
-      <fog:lon>140.50000</fog:lon>
-      <fog:species>カレイ</fog:species>
     </item>
     <item>
       <title>北海道・せたな町～八雲町沿岸 60cm大型アカハラ、ホッケ＆カレイ40cm超 土本さんＶ - 日刊スポーツ</title>
