@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Fri, 13 Nov 2026 20:07:14 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:47:46 +0900</lastBuildDate>
     <item>
       <title>函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/12/190000</link>
@@ -988,6 +988,18 @@
       <fog:species>イワシ</fog:species>
     </item>
     <item>
+      <title>オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NTk2WHVPdXB1S1FDUWV1aVlBVHJpTTFsNGdLaFRnSHRsOXNYWWV0WkQ4R1JORjVySlQ0Zzl0aVJRVVdnQTZlMDcwNVRoTU8wMDhwUnU1Q1RLQQ?oc=5</guid>
+      <pubDate>Mon, 13 Jul 2026 07:00:00 +0000</pubDate>
+      <description>オホーツク東部の秋サケ釣り「1日3匹まで」 罰則も 資源保護へ初の指示 北海道新聞デジタル ｜ 場所: オホーツク / 魚種: サケ（Google ニュース（森町 釣り））</description>
+      <category>Google ニュース（森町 釣り）</category>
+      <fog:place>オホーツク</fog:place>
+      <fog:lat>44.50000</fog:lat>
+      <fog:lon>143.50000</fog:lon>
+      <fog:species>サケ</fog:species>
+    </item>
+    <item>
       <title>2026青物釣行記④〜⑥</title>
       <link>https://sshiimaaa.hatenablog.com/entry/2026/07/11/150310</link>
       <guid isPermaLink="true">https://sshiimaaa.hatenablog.com/entry/2026/07/11/150310</guid>
@@ -1202,6 +1214,18 @@
       <fog:species>サケ</fog:species>
     </item>
     <item>
+      <title>サケくわえたクマ目撃 八雲・見市川河口 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zODhPVk5NV0JoRDRkSHBCUWM1LXlQbll4QVpTZC1OYzlsLXhtdEJfVG9veUlWTWhfd2JJT3o5M3M3eDRzcGhoeGlCSkJ6dk1zMmV3emI1MlM5Zw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zODhPVk5NV0JoRDRkSHBCUWM1LXlQbll4QVpTZC1OYzlsLXhtdEJfVG9veUlWTWhfd2JJT3o5M3M3eDRzcGhoeGlCSkJ6dk1zMmV3emI1MlM5Zw?oc=5</guid>
+      <pubDate>Sat, 11 Oct 2025 07:00:00 +0000</pubDate>
+      <description>サケくわえたクマ目撃 八雲・見市川河口 北海道新聞デジタル ｜ 場所: 八雲 / 魚種: サケ（Google ニュース（八雲 釣り））</description>
+      <category>Google ニュース（八雲 釣り）</category>
+      <fog:place>八雲</fog:place>
+      <fog:lat>42.25400</fog:lat>
+      <fog:lon>140.26500</fog:lon>
+      <fog:species>サケ</fog:species>
+    </item>
+    <item>
       <title>幕末のロマンが蘇る「開陽丸記念館」と江差で楽しめる船釣り「OCEAN TERRA」 - visit-hokkaido.jp</title>
       <link>https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KdzNUa2dLUWxJb1NkdDd5VHg4cDFMQkkyZGxDNFR6M0c5Qm9OeHZlX0xqWHRNTlN6bGV3WDl4SnV6TXdwX3ZEbXB0bXlLZlFPeS1jWQ?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KdzNUa2dLUWxJb1NkdDd5VHg4cDFMQkkyZGxDNFR6M0c5Qm9OeHZlX0xqWHRNTlN6bGV3WDl4SnV6TXdwX3ZEbXB0bXlLZlFPeS1jWQ?oc=5</guid>
@@ -1404,17 +1428,6 @@
       <fog:lat>42.25000</fog:lat>
       <fog:lon>140.60000</fog:lon>
       <fog:species>アイナメ</fog:species>
-    </item>
-    <item>
-      <title>朱鞠内湖で釣り人クマに襲われ…きょうであれから１年 悲劇繰り返すな対応訓練 北海道幌加内町 - 日テレNEWS NNN</title>
-      <link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWEdoX0JUbGdPWjdSV2NJRXNBMVIyamdQQS1ZT2FsUGlsRlVCQ3FMMzluZHhOR1c5TXlISjAtZzR2bDRIZFBjV2hrc0xPNmFLY3pEZ1c5N0pZM2RXeUdNQ2duR2JiNUJ1c3gzemdiSEduQ3NrckhheTloRld3ZkE?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMif0FVX3lxTE5nWEdoX0JUbGdPWjdSV2NJRXNBMVIyamdQQS1ZT2FsUGlsRlVCQ3FMMzluZHhOR1c5TXlISjAtZzR2bDRIZFBjV2hrc0xPNmFLY3pEZ1c5N0pZM2RXeUdNQ2duR2JiNUJ1c3gzemdiSEduQ3NrckhheTloRld3ZkE?oc=5</guid>
-      <pubDate>Tue, 14 May 2024 03:11:27 +0000</pubDate>
-      <description>朱鞠内湖で釣り人クマに襲われ…きょうであれから１年 悲劇繰り返すな対応訓練 北海道幌加内町 日テレNEWS NNN ｜ 場所: 朱鞠内湖（Google ニュース（森町 釣り））</description>
-      <category>Google ニュース（森町 釣り）</category>
-      <fog:place>朱鞠内湖</fog:place>
-      <fog:lat>44.33300</fog:lat>
-      <fog:lon>142.16700</fog:lon>
     </item>
     <item>
       <title>196万人都市でワカサギ釣り 茨戸川で体感する奥深い札幌の風土＜冬のおすすめアドベンチャートラベル＞【PR】 - 北海道新聞デジタル</title>
