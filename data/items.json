@@ -1,11 +1,11 @@
 {
- "updatedAt": "2026-11-14T04:47:46.563967+09:00",
+ "updatedAt": "2026-11-14T10:28:25.410189+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 32,
-   "new": 23
+   "links": 33,
+   "new": 24
   },
   {
    "source": "Google ニュース（北海道 釣り）",
@@ -22,7 +22,7 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 23,
+   "links": 22,
    "new": 1
   },
   {
@@ -130,13 +130,13 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 13,
-   "new": 1
+   "links": 14,
+   "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 15,
+   "links": 16,
    "new": 4
   },
   {
@@ -182,6 +182,40 @@
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
   },
   {
+   "title": "【速報】網走・斜里でサケ釣りの自粛要請｜11月20日〜30日は全海域で協力を",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/14/094252",
+   "summary": "※2026年11月14日に公開しました。状況は変わることがあるため、出かける前に各自治体・振興局の最新情報の確認をお願いします。 【速報】網走市と斜里町で、2026年11月20日（金）から11月30日（月）までの11日間、釣り客に対してサケ釣りの自粛が呼びかけられます。対象は両市町の全海域です。期間中に網走・斜里方面でアキアジ（秋サケ）釣りを予定している方は、計画の見直しをお願いします。 （写真はイメージです） 何が発表されたのか 北海道新聞（2026年11月12日付）の報道によると、網走管内さけます資源対策協議会による秋サケ定置網漁の自主規制に伴い、網走市と斜里町の2市町が、11月20日から30日までの11日間、釣り客にサケ釣りの自粛を呼びかけます。対象は全海域とされています。 あわせて、北海道オホーツク総合振興局の公式ページ「サケ資源保護への協力のお願い」では、2026年11月10日現…",
+   "date": "2026-11-14T09:42:52+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [
+    "オホーツク",
+    "斜里",
+    "網走"
+   ],
+   "species": [
+    "サケ",
+    "アキアジ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "タコ空釣り縄漁始まる 根室地区、落石で22㌧初水揚げ 北海道根室市（釧路新聞電子版） - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wQXE5ZDdhRjd4OXhqaHRKSFl2TkhZZkZUVTdIVjVSYnppMjNXQ2FJelBFTnMwNjAtU0x3ZDVUakgyWGZqUy03R3N0cFdicldaVW1TV0QtWTBPb3ZCdklzMEFMdXdmbHlKd3JXQURsYXlRenZaejdkS3YyMjBHejQ?oc=5",
+   "summary": "タコ空釣り縄漁始まる 根室地区、落石で22㌧初水揚げ 北海道根室市（釧路新聞電子版） Yahoo!ニュース",
+   "date": "2026-11-13T23:06:01+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "釧路",
+    "根室"
+   ],
+   "species": [
+    "タコ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
    "title": "20～30日の11日間 サケ釣りの自粛を 網走、斜里 - 北海道新聞デジタル",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40YXowZm5nR3Nxd3prb3JxbG1zM3BuT2xQal9jdE1XdzVWZlhoZEw0WWJvWWtoV043TVdaREFZT01lVHNJSHNCd000anpDTWpRYjhfTlgzdml3Zw?oc=5",
    "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -196,6 +230,20 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T04:47:46.563967+09:00"
+  },
+  {
+   "title": "11 HIT ひがしでっこ さん 2026-11-14 01:22 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 合計32🦑内、ヤリイカ4。プチラッシュあり、楽しめました〜沖目の底付近が多かったかな？でもこれ以上寒くな",
+   "link": "https://www.yamaria.com/catches/1322212",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ",
+    "ヤリイカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
   },
   {
    "title": "北海道の氷上ワカサギ釣りはいつから？湖ごとの解禁時期と準備まとめ",
@@ -298,6 +346,58 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T04:47:46.563967+09:00"
+  },
+  {
+   "title": "10 HIT ひがしでっこ さん 2026-11-13 20:22 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ポツポツ。中層くらい、食いは良い◯ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322208",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "9 HIT ひがしでっこ さん 2026-11-13 19:44 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 久々🦑表層でぐいっと持っていきました。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322207",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "12 HIT 北のイカ墨 さん 2026-11-13 23:48 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 またまた同じパターンで三杯目と四杯目のダブル🦑🦑 今日は巻きの日。 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322185",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "12 HIT 北のイカ墨 さん 2026-11-13 23:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 同じパターンで二杯目🦑 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322183",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
   },
   {
    "title": "函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -588,6 +688,45 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T04:47:46.563967+09:00"
+  },
+  {
+   "title": "8 HIT タクポン さん 2026-11-12 19:15 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 遠投ベタ底巻き巻きでスッテに来ました。 先端部のエギンガーさんは相変わらず好調で、私が1パイ釣る間に3バイは釣",
+   "link": "https://www.yamaria.com/catches/1322376",
+   "summary": "",
+   "date": "2026-11-12T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "8 HIT タクポン さん 2026-11-12 18:51 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ポツポツと釣れてはくる。 パターンは遠投ベタ底ステイしてスロー巻き巻きだと思うのですが、先端部のエギンガーはコ",
+   "link": "https://www.yamaria.com/catches/1322372",
+   "summary": "",
+   "date": "2026-11-12T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "9 HIT タクポン さん 2026-11-12 18:23 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 遠投ボトムズル引きでキャッチ！ この場所は風無し、波無し、根掛かり無しで釣りやすい！ 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322371",
+   "summary": "",
+   "date": "2026-11-12T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
   },
   {
    "title": "久しぶりのボートロック！めっちゃ釣れた～ヽ(^。^)ノ",
@@ -4220,6 +4359,20 @@
    "firstSeen": "2026-11-05T12:56:58.716106+09:00"
   },
   {
+   "title": "【北海道】【釣り】我慢して合わせ、止めて喰わし極太ゲット！＃サケ釣り＃アキアジ釣り＃ウキルアー - YouTube",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFWUxJczUyWHhPLXViSDMwaUZXZXcya1hCdFFyV0JiWDZXZ3B0NThKVEF3Q011VHpJV1JlbGhWdGlaM096SlZnN0ZqTHFwcHJGTUs1ckdHRjloWEZQ?oc=5",
+   "summary": "【北海道】【釣り】我慢して合わせ、止めて喰わし極太ゲット！＃サケ釣り＃アキアジ釣り＃ウキルアー YouTube",
+   "date": "2026-09-01T07:00:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [],
+   "species": [
+    "サケ",
+    "アキアジ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
    "title": "【トラウト釣り】愛しのドールと釣り旅！北海道でオショロコマ&アメマス（釣りビジョン マガジン） - Yahoo!ニュース",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlS2J3MG40UkkydmFVaGRGc3JDczNuLUJWQUNsRDMzd1k3d1RrYTVhU3dqUnJrYkZUS21Bay04cUVGSUxVekhrZ3BUVGZkcWxtYjd1MDVGN3U5WWg0b056WldTQzgzY2FOaXE3RmZ5WWNvT2o2R1d1RTVLY20wS3c?oc=5",
    "summary": "【トラウト釣り】愛しのドールと釣り旅！北海道でオショロコマ&アメマス（釣りビジョン マガジン） Yahoo!ニュース",
@@ -4770,6 +4923,22 @@
   },
   {
    "title": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2ZrMzBUclpiVW9wWS1HeW9ZaXVpblY2RjZDSnppcVh0Ym1YUE40STVDcngtdEFXUmdmeDJycGU1Y1FOejNGNzJzY3lxQ2c3TTVWSkFSdklRYmU5aWZ2Ym1QSkRsOU4xY09JQlhSUVd2NlpRYS16MFNJVEYyMEhFbEZoX2dsb1lX?oc=5",
+   "summary": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 北海道新聞デジタル",
+   "date": "2026-05-19T22:26:35+00:00",
+   "source": "Google ニュース（函館 釣り）",
+   "places": [
+    "函館",
+    "厚岸"
+   ],
+   "species": [
+    "スルメイカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakQyc0pHdHFqYzdfZ3BPM3ZPOVpBT004TGR3akJMNUc5Sm1JS1ZTZExZT3VqWEl6UVlqM1NxMmFMTW00MjNNd1NGNERVM3pSTFB2bEIxNXQ2alFhWlI4SVJVWHBZbXZzekpGU2Z5cXVnalZmbWh2WWdJM0RXRHJDbEVPYTk0WFlX?oc=5",
    "summary": "小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 北海道新聞デジタル",
    "date": "2026-05-19T17:04:24+00:00",
@@ -4833,19 +5002,6 @@
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a1NnbklWRmlwN0JzX2JHVWtPdHVheFV1ZnJFQ04wNFFMSlBfZFF0V2tBa205dV9KZGxYSFVhYzdnOV9DcVV1eHJnQk9YOGhrN0daUHlucjItSmtCc0hLTDdsU0pMODA?oc=5",
    "summary": "はるばるきたぜ函館へ！いか釣り体験でまさかの事態!?王林が「エルボーショルダー」に大変身?? ABA青森朝日放送",
    "date": "2026-05-02T07:00:00+00:00",
-   "source": "Google ニュース（函館 釣り）",
-   "places": [
-    "函館"
-   ],
-   "species": [],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T12:56:58.716106+09:00"
-  },
-  {
-   "title": "函館地域協議会「新春ワカサギ釣り大会」が大盛況！ - UAゼンセン",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5",
-   "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
-   "date": "2026-02-17T08:00:00+00:00",
    "source": "Google ニュース（函館 釣り）",
    "places": [
     "函館"

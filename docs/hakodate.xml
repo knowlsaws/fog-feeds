@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 14 Nov 2026 04:47:46 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:28:25 +0900</lastBuildDate>
     <item>
       <title>函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/12/190000</link>
@@ -1066,6 +1066,18 @@
     </item>
     <item>
       <title>小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル</title>
+      <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2ZrMzBUclpiVW9wWS1HeW9ZaXVpblY2RjZDSnppcVh0Ym1YUE40STVDcngtdEFXUmdmeDJycGU1Y1FOejNGNzJzY3lxQ2c3TTVWSkFSdklRYmU5aWZ2Ym1QSkRsOU4xY09JQlhSUVd2NlpRYS16MFNJVEYyMEhFbEZoX2dsb1lX?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN2ZrMzBUclpiVW9wWS1HeW9ZaXVpblY2RjZDSnppcVh0Ym1YUE40STVDcngtdEFXUmdmeDJycGU1Y1FOejNGNzJzY3lxQ2c3TTVWSkFSdklRYmU5aWZ2Ym1QSkRsOU4xY09JQlhSUVd2NlpRYS16MFNJVEYyMEhFbEZoX2dsb1lX?oc=5</guid>
+      <pubDate>Tue, 19 May 2026 22:26:35 +0000</pubDate>
+      <description>小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 北海道新聞デジタル ｜ 場所: 函館・厚岸 / 魚種: スルメイカ（Google ニュース（函館 釣り））</description>
+      <category>Google ニュース（函館 釣り）</category>
+      <fog:place>函館</fog:place>
+      <fog:lat>41.76870</fog:lat>
+      <fog:lon>140.72900</fog:lon>
+      <fog:species>スルメイカ</fog:species>
+    </item>
+    <item>
+      <title>小型船スルメイカ釣り漁、北海道限定で再開 函館や厚岸で待望の出漁 - 北海道新聞デジタル</title>
       <link>https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakQyc0pHdHFqYzdfZ3BPM3ZPOVpBT004TGR3akJMNUc5Sm1JS1ZTZExZT3VqWEl6UVlqM1NxMmFMTW00MjNNd1NGNERVM3pSTFB2bEIxNXQ2alFhWlI4SVJVWHBZbXZzekpGU2Z5cXVnalZmbWh2WWdJM0RXRHJDbEVPYTk0WFlX?oc=5</link>
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakQyc0pHdHFqYzdfZ3BPM3ZPOVpBT004TGR3akJMNUc5Sm1JS1ZTZExZT3VqWEl6UVlqM1NxMmFMTW00MjNNd1NGNERVM3pSTFB2bEIxNXQ2alFhWlI4SVJVWHBZbXZzekpGU2Z5cXVnalZmbWh2WWdJM0RXRHJDbEVPYTk0WFlX?oc=5</guid>
       <pubDate>Tue, 19 May 2026 17:04:24 +0000</pubDate>
@@ -1117,17 +1129,6 @@
       <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00a1NnbklWRmlwN0JzX2JHVWtPdHVheFV1ZnJFQ04wNFFMSlBfZFF0V2tBa205dV9KZGxYSFVhYzdnOV9DcVV1eHJnQk9YOGhrN0daUHlucjItSmtCc0hLTDdsU0pMODA?oc=5</guid>
       <pubDate>Sat, 02 May 2026 07:00:00 +0000</pubDate>
       <description>はるばるきたぜ函館へ！いか釣り体験でまさかの事態!?王林が「エルボーショルダー」に大変身?? ABA青森朝日放送 ｜ 場所: 函館（Google ニュース（函館 釣り））</description>
-      <category>Google ニュース（函館 釣り）</category>
-      <fog:place>函館</fog:place>
-      <fog:lat>41.76870</fog:lat>
-      <fog:lon>140.72900</fog:lon>
-    </item>
-    <item>
-      <title>函館地域協議会「新春ワカサギ釣り大会」が大盛況！ - UAゼンセン</title>
-      <link>https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiT0FVX3lxTFBxYTl3S3hJak55dFhMZWUwQmwtYzlzVmNQTG15VFJkQ2I4OEVuZFYxaUlRdHJmN21JOE9xUzcxSkNSZW9OYS1rdGYweDNEZHM?oc=5</guid>
-      <pubDate>Tue, 17 Feb 2026 08:00:00 +0000</pubDate>
-      <description>Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News. ｜ 場所: 函館（Google ニュース（函館 釣り））</description>
       <category>Google ニュース（函館 釣り）</category>
       <fog:place>函館</fog:place>
       <fog:lat>41.76870</fog:lat>
