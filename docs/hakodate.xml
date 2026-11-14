@@ -4,7 +4,7 @@
     <title>函館周辺の釣果情報（fog-feeds）</title>
     <link>https://github.com/sawswork/fog-feeds</link>
     <description>道南・函館周辺の釣果・釣行情報を複数のサイトから集めたもの。見出しと短い説明、元記事へのリンク。</description>
-    <lastBuildDate>Sat, 14 Nov 2026 10:28:25 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 19:34:03 +0900</lastBuildDate>
     <item>
       <title>函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！</title>
       <link>https://fishinglife.hatenadiary.jp/entry/2026/11/12/190000</link>
@@ -704,6 +704,14 @@
       <fog:lon>140.26500</fog:lon>
     </item>
     <item>
+      <title>【ヒグマ速報】わずか30m先の対岸に…巨大な”黒い生物”釣り人が約2mのクマ目撃→警察と役場が警戒強化〈北海道下川町〉 - UHB 北海道文化放送</title>
+      <link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MF9jMEhwTmVzS012aEZTU19lV1FLVkI0UF9sVDRZZF9FSDlvVVlBTVNETUVSa1FlWmhxcEF6QnpISGoyeHZnVzVWb1V1VXpreG1hQWtEdw?oc=5</link>
+      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MF9jMEhwTmVzS012aEZTU19lV1FLVkI0UF9sVDRZZF9FSDlvVVlBTVNETUVSa1FlWmhxcEF6QnpISGoyeHZnVzVWb1V1VXpreG1hQWtEdw?oc=5</guid>
+      <pubDate>Sat, 05 Sep 2026 07:00:00 +0000</pubDate>
+      <description>【ヒグマ速報】わずか30m先の対岸に…巨大な”黒い生物”釣り人が約2mのクマ目撃→警察と役場が警戒強化〈北海道下川町〉 UHB 北海道文化放送（Google ニュース（森町 釣り））</description>
+      <category>Google ニュース（森町 釣り）</category>
+    </item>
+    <item>
       <title>ウロコロスッテスリム入荷！</title>
       <link>http://blog.fs-impact.com/?eid=1700</link>
       <guid isPermaLink="true">http://blog.fs-impact.com/?eid=1700</guid>
@@ -1397,14 +1405,6 @@
       <pubDate>Tue, 01 Oct 2024 07:00:00 +0000</pubDate>
       <description>Vol.55～専門店スタッフが語る釣りのお話3～ 北海道の人、暮らし、仕事。 くらしごと（Google ニュース（道南 釣果））</description>
       <category>Google ニュース（道南 釣果）</category>
-    </item>
-    <item>
-      <title>北海道のロックフィッシュトーナメント「パワーオーシャンカップ」に初参戦 - TSURINEWS</title>
-      <link>https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQUXBGeG9CbUItZVJKR3VTNnRYTG1oOFdlZXktOFphelB3eC1IQjR0SmZtejhSQ2c4a1p3dl9Da1BRQQ?oc=5</link>
-      <guid isPermaLink="true">https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQUXBGeG9CbUItZVJKR3VTNnRYTG1oOFdlZXktOFphelB3eC1IQjR0SmZtejhSQ2c4a1p3dl9Da1BRQQ?oc=5</guid>
-      <pubDate>Mon, 15 Jul 2024 07:00:00 +0000</pubDate>
-      <description>北海道のロックフィッシュトーナメント「パワーオーシャンカップ」に初参戦 TSURINEWS（Google ニュース（森町 釣り））</description>
-      <category>Google ニュース（森町 釣り）</category>
     </item>
     <item>
       <title>堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS</title>

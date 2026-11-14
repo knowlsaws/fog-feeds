@@ -1,29 +1,29 @@
 {
- "updatedAt": "2026-11-14T10:28:25.410189+09:00",
+ "updatedAt": "2026-11-14T19:34:03.639825+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 33,
-   "new": 24
+   "links": 34,
+   "new": 26
   },
   {
    "source": "Google ニュース（北海道 釣り）",
    "status": "OK",
-   "links": 60,
+   "links": 58,
    "new": 30
   },
   {
    "source": "Google ニュース（函館 釣り）",
    "status": "OK",
-   "links": 42,
+   "links": 43,
    "new": 30
   },
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 22,
-   "new": 1
+   "links": 23,
+   "new": 2
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 6
+   "new": 5
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -46,8 +46,8 @@
   {
    "source": "エギCOM 北海道",
    "status": "OK",
-   "links": 8,
-   "new": 8
+   "links": 7,
+   "new": 6
   },
   {
    "source": "エギCOM 函館",
@@ -65,7 +65,7 @@
    "source": "TSURINEWS",
    "status": "OK",
    "links": 11,
-   "new": 0
+   "new": 1
   },
   {
    "source": "ルアマガ＋",
@@ -118,7 +118,7 @@
   {
    "source": "Google ニュース（噴火湾 釣り）",
    "status": "OK",
-   "links": 26,
+   "links": 25,
    "new": 13
   },
   {
@@ -136,19 +136,19 @@
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 16,
-   "new": 4
+   "links": 18,
+   "new": 5
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 21,
+   "links": 24,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 27,
+   "links": 25,
    "new": 0
   }
  ],
@@ -180,6 +180,46 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-07T22:10:29.321923+09:00"
+  },
+  {
+   "title": "コマイ（氷下魚）の釣り方｜盛期は今！堤防の投げ釣りと夜釣りのポイント",
+   "link": "https://fishinglife.hatenadiary.jp/entry/2026/11/14/190000",
+   "summary": "※2026年11月に公開しました。ポイントの立入可否やルールは変わることがあるため、出かける前に最新情報の確認をお願いします。 コマイは漢字で「氷下魚」と書く、北海道の冬を代表する魚です。タラの仲間で、晩秋から冬にかけて産卵のために岸へ寄ってきます。盛期はまさに今、10月〜12月。この記事では、堤防や港からの投げ釣りと夜釣りを中心に、コマイの釣り方とポイントをわかりやすくまとめます。 （写真はイメージです） コマイ（氷下魚）とは？旬とサイズ コマイは北の冷たい海に棲むタラ科の魚で、北海道では冬の味覚としておなじみです。釣れるサイズは20〜30cm前後が中心で、大きなものは40cm近くになることもあります。 身は白身でクセがなく、塩焼きや煮付け、干した「干しコマイ」も人気です。産卵期に岸寄りするため、船に乗らなくても堤防や砂浜から狙えるのが大きな魅力です。 コマイの時期と釣れる時間帯 シーズ…",
+   "date": "2026-11-14T19:00:00+09:00",
+   "source": "みんなの北海道釣り情報",
+   "places": [],
+   "species": [
+    "コマイ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "【漁港に打ち上げられたのは白骨化した遺体】着衣が一部残り両足には靴が…付近で釣りをしていた人が発見＿警察が事件と事故の両面で調べる〈北海道根室市〉 - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2YlBXUktaSG5mWkdfLXUxeGZnYUtsZjZyT2xIdVBXcU5HeWpuWWpfU0VPNzBrQk8zdUNmYkNscE95OW5JMDAxc1owREdaaGZJbmI2YUFFNXlhUHN5cUgzM2VVRjBsR1lYWTdyLXJKMkdLNEwzNTVUcHM5ZEZpS3c?oc=5",
+   "summary": "【漁港に打ち上げられたのは白骨化した遺体】着衣が一部残り両足には靴が…付近で釣りをしていた人が発見＿警察が事件と事故の両面で調べる〈北海道根室市〉 Yahoo!ニュース",
+   "date": "2026-11-14T09:30:02+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "根室"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "不漁のはずのサンマが北海道の港で簡単に釣れた！　大量に群れが接岸した意外な理由とは？",
+   "link": "https://tsurinews.jp/417084/",
+   "summary": "不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？\"> 根室港のサンマ釣りに参戦してきた 先日、北海道・道東地域に出張する機会があったのですが、訪問する数日前に現地の友人から「いまサンマがすごい釣れているよ」という知らせが届きました。 個人的には「あれ、サ … \"不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？\" の 続きを読む",
+   "date": "2026-11-14T08:00:11+00:00",
+   "source": "TSURINEWS",
+   "places": [
+    "根室港",
+    "道東"
+   ],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
   },
   {
    "title": "【速報】網走・斜里でサケ釣りの自粛要請｜11月20日〜30日は全海域で協力を",
@@ -232,6 +272,22 @@
    "firstSeen": "2026-11-14T04:47:46.563967+09:00"
   },
   {
+   "title": "20～30日の11日間 サケ釣りの自粛を 網走、斜里 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUMmxYa3pDSEdoQkJKZUpma2R3Y2FEN1hQVlVLOXpqTU1lbENxUHFiZ2R4cGxGeGhOMWNJYUhKY19MUldLN3YxNEt5OERiTUl3X2o5Rl9NRXo?oc=5",
+   "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+   "date": "2026-11-13T19:00:00+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "斜里",
+    "網走"
+   ],
+   "species": [
+    "サケ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
    "title": "11 HIT ひがしでっこ さん 2026-11-14 01:22 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 合計32🦑内、ヤリイカ4。プチラッシュあり、楽しめました〜沖目の底付近が多かったかな？でもこれ以上寒くな",
    "link": "https://www.yamaria.com/catches/1322212",
    "summary": "",
@@ -244,6 +300,19 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "1 HIT ヘタレンジャー さん 2026-11-14 19:00 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 寒いしBじゃないので満足して帰ります 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322785",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
   },
   {
    "title": "北海道の氷上ワカサギ釣りはいつから？湖ごとの解禁時期と準備まとめ",
@@ -398,6 +467,77 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "19 HIT フルさん さん 2026-11-13 19:29 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 表層での反応が良い！ パターンが見えた 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322719",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "19 HIT フルさん さん 2026-11-13 19:26 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 当たりが無いので隣の港へ移動 足元にサバやイワシが見える 群れの奥に遠投すると即反応あり 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322716",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ",
+    "サバ",
+    "イワシ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "18 HIT フルさん さん 2026-11-13 17:35 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 １０日ぶりにケンサキ狙い 全く反応無く、ようやくマメイカ キャッチ、ボ 回避 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1322710",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "27 HIT レオ（札幌） さん 2026-11-13 17:45 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 怒涛の30連発。 船が走ると一瞬止まったりしますが、殆ど空振りもなく終わってみれば合計で88匹でした。 ",
+   "link": "https://www.yamaria.com/catches/1322698",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "札幌"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "26 HIT レオ（札幌） さん 2026-11-13 17:30 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 ケンサキイカの回遊狙いで夕マズメ狙いで行ってきました。 開始一発目から釣れました。 ケミライトが見える深",
+   "link": "https://www.yamaria.com/catches/1322686",
+   "summary": "",
+   "date": "2026-11-13T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [
+    "札幌"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
   },
   {
    "title": "函館のおすすめ釣りポイント｜釣れる魚・時期・注意点をわかりやすく！",
@@ -4298,6 +4438,17 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "【ヒグマ速報】わずか30m先の対岸に…巨大な”黒い生物”釣り人が約2mのクマ目撃→警察と役場が警戒強化〈北海道下川町〉 - UHB 北海道文化放送",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80MF9jMEhwTmVzS012aEZTU19lV1FLVkI0UF9sVDRZZF9FSDlvVVlBTVNETUVSa1FlWmhxcEF6QnpISGoyeHZnVzVWb1V1VXpreG1hQWtEdw?oc=5",
+   "summary": "【ヒグマ速報】わずか30m先の対岸に…巨大な”黒い生物”釣り人が約2mのクマ目撃→警察と役場が警戒強化〈北海道下川町〉 UHB 北海道文化放送",
+   "date": "2026-09-05T07:00:00+00:00",
+   "source": "Google ニュース（森町 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
    "title": "ウロコロスッテスリム入荷！",
    "link": "http://blog.fs-impact.com/?eid=1700",
    "summary": "UROCOのメタルスッテ「ウロコロスッテスリム」が入荷しました！ 函館近郊のマイカ狙いにぴったりな 40号（150g）をラインナップ。 ついついコレクションしたくなる“つぶらな瞳”のデザインも魅力です(*^-^*) ...",
@@ -5348,17 +5499,6 @@
    "species": [],
    "hakodate": true,
    "firstSeen": "2026-11-12T20:23:52.343900+09:00"
-  },
-  {
-   "title": "北海道のロックフィッシュトーナメント「パワーオーシャンカップ」に初参戦 - TSURINEWS",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBQUXBGeG9CbUItZVJKR3VTNnRYTG1oOFdlZXktOFphelB3eC1IQjR0SmZtejhSQ2c4a1p3dl9Da1BRQQ?oc=5",
-   "summary": "北海道のロックフィッシュトーナメント「パワーオーシャンカップ」に初参戦 TSURINEWS",
-   "date": "2024-07-15T07:00:00+00:00",
-   "source": "Google ニュース（森町 釣り）",
-   "places": [],
-   "species": [],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
    "title": "堤防ロックフィッシュゲームで50cmのアイナメをキャッチ！【北海道・噴火湾エリア】 - TSURINEWS",
