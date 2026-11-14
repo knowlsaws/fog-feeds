@@ -1,10 +1,10 @@
 {
- "updatedAt": "2026-11-14T19:34:03.639825+09:00",
+ "updatedAt": "2026-11-15T03:11:34.403494+09:00",
  "stats": [
   {
    "source": "Google ニュース（北海道 釣果）",
    "status": "OK",
-   "links": 34,
+   "links": 33,
    "new": 26
   },
   {
@@ -22,8 +22,8 @@
   {
    "source": "Google ニュース（道南 釣果）",
    "status": "OK",
-   "links": 23,
-   "new": 2
+   "links": 20,
+   "new": 1
   },
   {
    "source": "FISHLAND（道内全店）",
@@ -35,7 +35,7 @@
    "source": "みんなの北海道釣り情報",
    "status": "OK",
    "links": 30,
-   "new": 5
+   "new": 4
   },
   {
    "source": "フィッシングショップ・インパクト（ブログ）",
@@ -46,14 +46,14 @@
   {
    "source": "エギCOM 北海道",
    "status": "OK",
-   "links": 7,
-   "new": 6
+   "links": 8,
+   "new": 8
   },
   {
    "source": "エギCOM 函館",
    "status": "OK",
    "links": 8,
-   "new": 0
+   "new": 3
   },
   {
    "source": "タックルベリー函館店",
@@ -65,7 +65,7 @@
    "source": "TSURINEWS",
    "status": "OK",
    "links": 11,
-   "new": 1
+   "new": 0
   },
   {
    "source": "ルアマガ＋",
@@ -130,25 +130,25 @@
   {
    "source": "Google ニュース（八雲 釣り）",
    "status": "OK",
-   "links": 14,
+   "links": 10,
    "new": 0
   },
   {
    "source": "Google ニュース（森町 釣り）",
    "status": "OK",
-   "links": 18,
+   "links": 15,
    "new": 5
   },
   {
    "source": "Google ニュース（北斗市 釣り）",
    "status": "OK",
-   "links": 24,
+   "links": 26,
    "new": 0
   },
   {
    "source": "Google ニュース（松前 江差 釣り）",
    "status": "OK",
-   "links": 25,
+   "links": 24,
    "new": 0
   }
  ],
@@ -208,6 +208,17 @@
    "firstSeen": "2026-11-14T19:34:03.639825+09:00"
   },
   {
+   "title": "不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？ - TSURINEWS",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1sM3Nyb1ZWMi1Dc0h4OUtUMzlxWFltWGN1akdvME1uS0tqenh5R19pdEUzYlZvcmJZdXdObmFScG04QQ?oc=5",
+   "summary": "不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？ TSURINEWS",
+   "date": "2026-11-14T08:01:30+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [],
+   "species": [],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
    "title": "不漁のはずのサンマが北海道の港で簡単に釣れた！　大量に群れが接岸した意外な理由とは？",
    "link": "https://tsurinews.jp/417084/",
    "summary": "不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？\"> 根室港のサンマ釣りに参戦してきた 先日、北海道・道東地域に出張する機会があったのですが、訪問する数日前に現地の友人から「いまサンマがすごい釣れているよ」という知らせが届きました。 個人的には「あれ、サ … \"不漁のはずのサンマが北海道の港で簡単に釣れた！ 大量に群れが接岸した意外な理由とは？\" の 続きを読む",
@@ -254,6 +265,22 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "タコ空釣り縄漁始まる 根室地区、落石で22㌧初水揚げ 北海道根室市（釧路新聞電子版） - Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOUVzZXdsd1l3djd0VHpUMEllenNOZURfQ3FTNkZjTHVSSHVfTHA3MjhDU09wTXpLX1pqS1hHcnM2RmtyUkI5N25PLVJrLTNKVzJ1ejlIQ1F1OHpBU0pmNGZmMThKZkdMMXpWa3JoRU9JTnVjYkF6bWdVM25lRlZvUlNkQVFZdmdHRnF0LXRn?oc=5",
+   "summary": "タコ空釣り縄漁始まる 根室地区、落石で22㌧初水揚げ 北海道根室市（釧路新聞電子版） Yahoo!ニュース",
+   "date": "2026-11-13T23:06:01+00:00",
+   "source": "Google ニュース（北海道 釣り）",
+   "places": [
+    "釧路",
+    "根室"
+   ],
+   "species": [
+    "タコ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
   },
   {
    "title": "20～30日の11日間 サケ釣りの自粛を 網走、斜里 - 北海道新聞デジタル",
@@ -313,6 +340,131 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T19:34:03.639825+09:00"
+  },
+  {
+   "title": "2 HIT ケンタッキー さん 2026-11-14 19:08 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層でやっとです💦イカ居ないのか下手くそなのか…続かない 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323119",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "2 HIT けちょんけちょん さん 2026-11-14 20:32 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 これから3連チャン🦑。。。で、また続かず💦この日はマメイカは渋い、ヤリイカは釣れずの厳しい日でした 詳",
+   "link": "https://www.yamaria.com/catches/1323091",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ",
+    "ヤリイカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "1 HIT けちょんけちょん さん 2026-11-14 19:03 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 連チャンで期待したけど、またしばらく沈黙🤐 とにかくアタリが小さい💦 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323088",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "1 HIT けちょんけちょん さん 2026-11-14 18:58 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 隣がポツポツ釣れてる中、1時間半でようやく1杯目💦アタリが小さくて、今日はMLじゃ硬かった😭 詳細ペー",
+   "link": "https://www.yamaria.com/catches/1323086",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "5 HIT めんめ さん 2026-11-14 22:13 ツツイカ：100g〜300g 釣果場所： 全国 北海道 釣り場所：防波堤 沖目の水面直下をスーパーシャローでネチネチ探ってたら抱いてきた 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323043",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "11 HIT satokun さん 2026-11-14 19:57 ツツイカ：100g以下 釣果場所： 全国 北海道 釣り場所：防波堤 中層あたりで．． 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323041",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "13 HIT satokun さん 2026-11-14 19:42 ツツイカ：100g以下 釣果場所： 北海道 函館 釣り場所：防波堤 周りからひとり取り残されておりましたがやっと中層で．．． 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323038",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "5 HIT めんめ さん 2026-11-14 21:37 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 胴長25cmくらい 表層で抱いてきた 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323033",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "6 HIT めんめ さん 2026-11-14 20:18 ツツイカ：100g〜300g 釣果場所： 北海道 函館 釣り場所：防波堤 スルメイカ狙いで3.5号エギを投げてたら釣れた 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323027",
+   "summary": "",
+   "date": "2026-11-14T00:00:00+09:00",
+   "source": "エギCOM 函館",
+   "places": [
+    "函館"
+   ],
+   "species": [
+    "イカ",
+    "スルメイカ"
+   ],
+   "hakodate": true,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
   },
   {
    "title": "北海道の氷上ワカサギ釣りはいつから？湖ごとの解禁時期と準備まとめ",
@@ -867,6 +1019,32 @@
    ],
    "hakodate": false,
    "firstSeen": "2026-11-14T10:28:25.410189+09:00"
+  },
+  {
+   "title": "4 HIT ケンタッキー さん 2026-11-12 18:53 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 中層で、これも瓶ビ－ル👍 詳細ページ →",
+   "link": "https://www.yamaria.com/catches/1323113",
+   "summary": "",
+   "date": "2026-11-12T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
+   "title": "5 HIT ケンタッキー さん 2026-11-12 18:34 ツツイカ：300g〜500g 釣果場所： 全国 北海道 釣り場所：防波堤 中層で竿折れそうです💦UL は流石に厳しいか…💦これの少し前にボチャン…もったいない💧 詳細ページ ",
+   "link": "https://www.yamaria.com/catches/1323106",
+   "summary": "",
+   "date": "2026-11-12T00:00:00+09:00",
+   "source": "エギCOM 北海道",
+   "places": [],
+   "species": [
+    "イカ"
+   ],
+   "hakodate": false,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
   },
   {
    "title": "久しぶりのボートロック！めっちゃ釣れた～ヽ(^。^)ノ",
@@ -5203,6 +5381,19 @@
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
   },
   {
+   "title": "網走湖の氷上ワカサギ釣り解禁 資源不足懸念で期間1カ月短縮 - 北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsWjN2dUdQMFg3a21uN1BnUmJfZGVsVExwNDhkaU1wQVRlWF9aZFNPeEVIVzQ0SFIyTWQ4QWdnYS1JbWxUYmZiREVnS1hpMUV5NDFHTmJVdUtyQQ?oc=5",
+   "summary": "網走湖の氷上ワカサギ釣り解禁 資源不足懸念で期間1カ月短縮 北海道新聞デジタル",
+   "date": "2026-01-05T08:00:00+00:00",
+   "source": "Google ニュース（森町 釣り）",
+   "places": [
+    "網走"
+   ],
+   "species": [],
+   "hakodate": true,
+   "firstSeen": "2026-11-15T03:11:34.403494+09:00"
+  },
+  {
    "title": "サンマ釣りにぎわう 根室港、岸壁に太公望続々【根室市】 - 北海道ニュースリンク",
    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15OFE0ZDFDTC1pUDlnaE1TLVJEZHRjenp0SUR4TmtGWHotSmpUUnA2aldNZHdWeXdFTmVwNGtGQWd0WVJfSGNCWW9hY0g?oc=5",
    "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
@@ -5247,22 +5438,6 @@
    ],
    "hakodate": true,
    "firstSeen": "2026-11-05T13:15:28.807938+09:00"
-  },
-  {
-   "title": "摘発の瞬間「室蘭海上保安部だ！動くな、検挙します」暗闇に紛れて秋サケを狙う密漁者 禁止エリアで取材カメラが捉えた釣り人たち…モラルなき現場を直撃 北海道・白老町 - TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lUFJ6THRoMlFRdG15VnFpOU53X3NLNi0wb3pNRUR6ZjVDaWNKczFUZWEwU0tucGh2b0ttZzdocU5qbERBQzJsQW5JV0xaV2lPbUF3X3ROQQ?oc=5",
-   "summary": "摘発の瞬間「室蘭海上保安部だ！動くな、検挙します」暗闇に紛れて秋サケを狙う密漁者 禁止エリアで取材カメラが捉えた釣り人たち…モラルなき現場を直撃 北海道・白老町 TBS NEWS DIG",
-   "date": "2025-10-18T07:00:00+00:00",
-   "source": "Google ニュース（森町 釣り）",
-   "places": [
-    "室蘭",
-    "白老"
-   ],
-   "species": [
-    "サケ"
-   ],
-   "hakodate": true,
-   "firstSeen": "2026-11-05T13:20:31.283555+09:00"
   },
   {
    "title": "サケくわえたクマ目撃 八雲・見市川河口 - 北海道新聞デジタル",
